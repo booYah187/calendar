@@ -5,55 +5,13 @@ VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
 CATEGORIES:Universal Pictures
-DESCRIPTION:A brilliant toy company roboticist uses artificial intelligenc
- e to develop M3GAN\, a life-like doll programmed to emotionally bond with
-  her newly orphaned niece. But when the doll's programming works too well
- \, she becomes overprotective of her new friend with terrifying results.
-DTEND;VALUE=DATE:20220105
-DTSTAMP:20230125T060010Z
-DTSTART;VALUE=DATE:20220104
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:M3GAN (Theatrical Release)
-UID:Radarr_movie_295_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Universal Pictures
-DESCRIPTION:A brilliant toy company roboticist uses artificial intelligenc
- e to develop M3GAN\, a life-like doll programmed to emotionally bond with
-  her newly orphaned niece. But when the doll's programming works too well
- \, she becomes overprotective of her new friend with terrifying results.
-DTEND;VALUE=DATE:20230125
-DTSTAMP:20230125T060010Z
-DTSTART;VALUE=DATE:20230124
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:M3GAN (Digital Release)
-UID:Radarr_movie_295_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Universal Pictures
-DESCRIPTION:A brilliant toy company roboticist uses artificial intelligenc
- e to develop M3GAN\, a life-like doll programmed to emotionally bond with
-  her newly orphaned niece. But when the doll's programming works too well
- \, she becomes overprotective of her new friend with terrifying results.
-DTEND;VALUE=DATE:20230331
-DTSTAMP:20230125T060010Z
-DTSTART;VALUE=DATE:20230330
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:M3GAN (Physical Release)
-UID:Radarr_movie_295_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Universal Pictures
 DESCRIPTION:While vacationing at a remote cabin\, a young girl and her two
   fathers are taken hostage by four armed strangers who demand that the fa
  mily make an unthinkable choice to avert the apocalypse. With limited acc
  ess to the outside world\, the family must decide what they believe befor
  e all is lost.
 DTEND;VALUE=DATE:20230202
-DTSTAMP:20230125T060010Z
+DTSTAMP:20230126T061310Z
 DTSTART;VALUE=DATE:20230201
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -68,7 +26,7 @@ DESCRIPTION:While staying at an isolated island resort\, James and Em are
  ey venture outside the resort grounds and find themselves in a culture fi
  lled with violence\, hedonism\, and untold horror.
 DTEND;VALUE=DATE:20230128
-DTSTAMP:20230125T060010Z
+DTSTAMP:20230126T061310Z
 DTSTART;VALUE=DATE:20230127
 SEQUENCE:0
 STATUS:TENTATIVE
