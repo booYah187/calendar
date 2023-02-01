@@ -11,10 +11,10 @@ DESCRIPTION:While vacationing at a remote cabin\, a young girl and her two
  ess to the outside world\, the family must decide what they believe befor
  e all is lost.
 DTEND;VALUE=DATE:20230202
-DTSTAMP:20230201T062005Z
+DTSTAMP:20230201T064001Z
 DTSTART;VALUE=DATE:20230201
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Knock at the Cabin (Theatrical Release)
 UID:Radarr_movie_429_cinemas
 END:VEVENT
@@ -26,7 +26,7 @@ DESCRIPTION:While staying at an isolated island resort\, James and Em are
  ey venture outside the resort grounds and find themselves in a culture fi
  lled with violence\, hedonism\, and untold horror.
 DTEND;VALUE=DATE:20230128
-DTSTAMP:20230201T062005Z
+DTSTAMP:20230201T064001Z
 DTSTART;VALUE=DATE:20230127
 SEQUENCE:0
 STATUS:CONFIRMED
