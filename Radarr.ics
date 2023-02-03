@@ -11,7 +11,7 @@ DESCRIPTION:While vacationing at a remote cabin\, a young girl and her two
  ess to the outside world\, the family must decide what they believe befor
  e all is lost.
 DTEND;VALUE=DATE:20230202
-DTSTAMP:20230202T064003Z
+DTSTAMP:20230203T062002Z
 DTSTART;VALUE=DATE:20230201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -19,27 +19,12 @@ SUMMARY:Knock at the Cabin (Theatrical Release)
 UID:Radarr_movie_429_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Téléfilm Canada
-DESCRIPTION:While staying at an isolated island resort\, James and Em are 
- enjoying a perfect vacation of pristine beaches\, exceptional staff\, and
-  soaking up the sun. But guided by the seductive and mysterious Gabi\, th
- ey venture outside the resort grounds and find themselves in a culture fi
- lled with violence\, hedonism\, and untold horror.
-DTEND;VALUE=DATE:20230128
-DTSTAMP:20230202T064003Z
-DTSTART;VALUE=DATE:20230127
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Infinity Pool (Theatrical Release)
-UID:Radarr_movie_484_cinemas
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Universal Pictures
 DESCRIPTION:An oddball group of cops\, criminals\, tourists\, and teens co
  nverge in a Georgia forest where a 500-pound black bear goes on a murdero
  us rampage after unintentionally ingesting cocaine.
 DTEND;VALUE=DATE:20230210
-DTSTAMP:20230202T064003Z
+DTSTAMP:20230203T062002Z
 DTSTART;VALUE=DATE:20230209
 SEQUENCE:0
 STATUS:TENTATIVE
