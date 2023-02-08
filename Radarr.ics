@@ -5,26 +5,11 @@ VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
 CATEGORIES:Universal Pictures
-DESCRIPTION:While vacationing at a remote cabin\, a young girl and her two
-  fathers are taken hostage by four armed strangers who demand that the fa
- mily make an unthinkable choice to avert the apocalypse. With limited acc
- ess to the outside world\, the family must decide what they believe befor
- e all is lost.
-DTEND;VALUE=DATE:20230202
-DTSTAMP:20230207T064006Z
-DTSTART;VALUE=DATE:20230201
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Knock at the Cabin (Theatrical Release)
-UID:Radarr_movie_429_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Universal Pictures
 DESCRIPTION:An oddball group of cops\, criminals\, tourists and teens conv
  erge in a Georgia forest where a 500-pound black bear goes on a murderous
   rampage after unintentionally ingesting cocaine.
 DTEND;VALUE=DATE:20230210
-DTSTAMP:20230207T064006Z
+DTSTAMP:20230208T062006Z
 DTSTART;VALUE=DATE:20230209
 SEQUENCE:0
 STATUS:TENTATIVE
