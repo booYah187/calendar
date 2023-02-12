@@ -9,7 +9,7 @@ DESCRIPTION:An art thief becomes trapped in a New York penthouse after his
   heist goes awry. Imprisoned with nothing but priceless works of art\, he
   must use all his cunning and invention to survive.
 DTEND;VALUE=DATE:20230311
-DTSTAMP:20230211T064003Z
+DTSTAMP:20230212T062001Z
 DTSTART;VALUE=DATE:20230310
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -21,12 +21,38 @@ CATEGORIES:Universal Pictures
 DESCRIPTION:An oddball group of cops\, criminals\, tourists and teens conv
  erge in a Georgia forest where a 500-pound black bear goes on a murderous
   rampage after unintentionally ingesting cocaine.
-DTEND;VALUE=DATE:20230210
-DTSTAMP:20230211T064003Z
-DTSTART;VALUE=DATE:20230209
+DTEND;VALUE=DATE:20230223
+DTSTAMP:20230212T062002Z
+DTSTART;VALUE=DATE:20230222
 SEQUENCE:0
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 SUMMARY:Cocaine Bear (Theatrical Release)
 UID:Radarr_movie_507_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ITN Studios
+DESCRIPTION:Christopher Robin is headed off to college and he has abandone
+ d his old friends\, Pooh and Piglet\, which then leads to the duo embraci
+ ng their inner monsters.
+DTEND;VALUE=DATE:20230128
+DTSTAMP:20230212T062002Z
+DTSTART;VALUE=DATE:20230127
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Winnie-the-Pooh: Blood and Honey (Theatrical Release)
+UID:Radarr_movie_511_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ITN Studios
+DESCRIPTION:Christopher Robin is headed off to college and he has abandone
+ d his old friends\, Pooh and Piglet\, which then leads to the duo embraci
+ ng their inner monsters.
+DTEND;VALUE=DATE:20230311
+DTSTAMP:20230212T062002Z
+DTSTART;VALUE=DATE:20230310
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Winnie-the-Pooh: Blood and Honey (Digital Release)
+UID:Radarr_movie_511_digital
 END:VEVENT
 END:VCALENDAR
