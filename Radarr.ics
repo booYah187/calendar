@@ -9,7 +9,7 @@ DESCRIPTION:An art thief becomes trapped in a New York penthouse after his
   heist goes awry. Imprisoned with nothing but priceless works of art\, he
   must use all his cunning and invention to survive.
 DTEND;VALUE=DATE:20230311
-DTSTAMP:20230220T064005Z
+DTSTAMP:20230221T064005Z
 DTSTART;VALUE=DATE:20230310
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -17,42 +17,42 @@ SUMMARY:Inside (Theatrical Release)
 UID:Radarr_movie_109_cinemas
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Protozoa Pictures
+DESCRIPTION:A reclusive English teacher suffering from severe obesity atte
+ mpts to reconnect with his estranged teenage daughter for one last chance
+  at redemption.
+DTEND;VALUE=DATE:20221210
+DTSTAMP:20230221T064005Z
+DTSTART;VALUE=DATE:20221209
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Whale (Theatrical Release)
+UID:Radarr_movie_297_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Protozoa Pictures
+DESCRIPTION:A reclusive English teacher suffering from severe obesity atte
+ mpts to reconnect with his estranged teenage daughter for one last chance
+  at redemption.
+DTEND;VALUE=DATE:20230315
+DTSTAMP:20230221T064005Z
+DTSTART;VALUE=DATE:20230314
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Whale (Physical Release)
+UID:Radarr_movie_297_physical
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Universal Pictures
 DESCRIPTION:An oddball group of cops\, criminals\, tourists and teens conv
  erge in a Georgia forest where a 500-pound black bear goes on a murderous
   rampage after unintentionally ingesting cocaine.
 DTEND;VALUE=DATE:20230223
-DTSTAMP:20230220T064005Z
+DTSTAMP:20230221T064005Z
 DTSTART;VALUE=DATE:20230222
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Cocaine Bear (Theatrical Release)
 UID:Radarr_movie_507_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ITN Studios
-DESCRIPTION:Christopher Robin is headed off to college and he has abandone
- d his old friends\, Pooh and Piglet\, which then leads to the duo embraci
- ng their inner monsters.
-DTEND;VALUE=DATE:20230128
-DTSTAMP:20230220T064005Z
-DTSTART;VALUE=DATE:20230127
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Winnie the Pooh: Blood and Honey (Theatrical Release)
-UID:Radarr_movie_511_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ITN Studios
-DESCRIPTION:Christopher Robin is headed off to college and he has abandone
- d his old friends\, Pooh and Piglet\, which then leads to the duo embraci
- ng their inner monsters.
-DTEND;VALUE=DATE:20230311
-DTSTAMP:20230220T064005Z
-DTSTART;VALUE=DATE:20230310
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Winnie the Pooh: Blood and Honey (Digital Release)
-UID:Radarr_movie_511_digital
 END:VEVENT
 END:VCALENDAR
