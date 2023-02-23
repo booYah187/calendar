@@ -9,7 +9,7 @@ DESCRIPTION:An art thief becomes trapped in a New York penthouse after his
   heist goes awry. Imprisoned with nothing but priceless works of art\, he
   must use all his cunning and invention to survive.
 DTEND;VALUE=DATE:20230311
-DTSTAMP:20230222T064002Z
+DTSTAMP:20230223T062004Z
 DTSTART;VALUE=DATE:20230310
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -18,15 +18,55 @@ UID:Radarr_movie_109_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Universal Pictures
+DESCRIPTION:After finding himself in a world known as the Mushroom Kingdom
+ \, Brooklyn plumber Mario must travel alongside a princess named Peach an
+ d a mushroom named Toad to find his brother Luigi and save the world from
+  a ruthless fire-breathing monster called Bowser.
+DTEND;VALUE=DATE:20230324
+DTSTAMP:20230223T062004Z
+DTSTART;VALUE=DATE:20230323
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Super Mario Bros. Movie (Theatrical Release)
+UID:Radarr_movie_296_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Universal Pictures
 DESCRIPTION:An oddball group of cops\, criminals\, tourists and teens conv
  erge in a Georgia forest where a 500-pound black bear goes on a murderous
   rampage after unintentionally ingesting cocaine.
 DTEND;VALUE=DATE:20230223
-DTSTAMP:20230222T064002Z
+DTSTAMP:20230223T062004Z
 DTSTART;VALUE=DATE:20230222
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Cocaine Bear (Theatrical Release)
 UID:Radarr_movie_507_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ITN Studios
+DESCRIPTION:Christopher Robin is headed off to college and he has abandone
+ d his old friends\, Pooh and Piglet\, which then leads to the duo embraci
+ ng their inner monsters.
+DTEND;VALUE=DATE:20230128
+DTSTAMP:20230223T062004Z
+DTSTART;VALUE=DATE:20230127
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Winnie-the-Pooh: Blood and Honey (Theatrical Release)
+UID:Radarr_movie_511_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ITN Studios
+DESCRIPTION:Christopher Robin is headed off to college and he has abandone
+ d his old friends\, Pooh and Piglet\, which then leads to the duo embraci
+ ng their inner monsters.
+DTEND;VALUE=DATE:20230311
+DTSTAMP:20230223T062004Z
+DTSTART;VALUE=DATE:20230310
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Winnie-the-Pooh: Blood and Honey (Digital Release)
+UID:Radarr_movie_511_digital
 END:VEVENT
 END:VCALENDAR
