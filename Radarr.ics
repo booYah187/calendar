@@ -9,7 +9,7 @@ DESCRIPTION:An art thief becomes trapped in a New York penthouse after his
   heist goes awry. Imprisoned with nothing but priceless works of art\, he
   must use all his cunning and invention to survive.
 DTEND;VALUE=DATE:20230310
-DTSTAMP:20230307T064006Z
+DTSTAMP:20230308T062008Z
 DTSTART;VALUE=DATE:20230309
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -23,7 +23,7 @@ DESCRIPTION:After finding himself in a world known as the Mushroom Kingdom
  s named Peach and a mushroom named Toad to find his brother Luigi and sav
  e the world from a ruthless fire-breathing monster called Bowser.
 DTEND;VALUE=DATE:20230331
-DTSTAMP:20230307T064006Z
+DTSTAMP:20230308T062008Z
 DTSTART;VALUE=DATE:20230330
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -31,12 +31,12 @@ SUMMARY:The Super Mario Bros. Movie (Theatrical Release)
 UID:Radarr_movie_296_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Jagged Edge Productions
+CATEGORIES:ITN Studios
 DESCRIPTION:Christopher Robin is headed off to college and he has abandone
  d his old friends\, Pooh and Piglet\, which then leads to the duo embraci
  ng their inner monsters.
 DTEND;VALUE=DATE:20230128
-DTSTAMP:20230307T064006Z
+DTSTAMP:20230308T062008Z
 DTSTART;VALUE=DATE:20230127
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -44,12 +44,12 @@ SUMMARY:Winnie-the-Pooh: Blood and Honey (Theatrical Release)
 UID:Radarr_movie_511_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Jagged Edge Productions
+CATEGORIES:ITN Studios
 DESCRIPTION:Christopher Robin is headed off to college and he has abandone
  d his old friends\, Pooh and Piglet\, which then leads to the duo embraci
  ng their inner monsters.
 DTEND;VALUE=DATE:20230311
-DTSTAMP:20230307T064006Z
+DTSTAMP:20230308T062008Z
 DTSTART;VALUE=DATE:20230310
 SEQUENCE:0
 STATUS:CONFIRMED
