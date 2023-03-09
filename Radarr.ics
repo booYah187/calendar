@@ -9,7 +9,7 @@ DESCRIPTION:An art thief becomes trapped in a New York penthouse after his
   heist goes awry. Imprisoned with nothing but priceless works of art\, he
   must use all his cunning and invention to survive.
 DTEND;VALUE=DATE:20230310
-DTSTAMP:20230308T064009Z
+DTSTAMP:20230309T062002Z
 DTSTART;VALUE=DATE:20230309
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -23,7 +23,7 @@ DESCRIPTION:After finding himself in a world known as the Mushroom Kingdom
  s named Peach and a mushroom named Toad to find his brother Luigi and sav
  e the world from a ruthless fire-breathing monster called Bowser.
 DTEND;VALUE=DATE:20230331
-DTSTAMP:20230308T064009Z
+DTSTAMP:20230309T062002Z
 DTSTART;VALUE=DATE:20230330
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -31,12 +31,54 @@ SUMMARY:The Super Mario Bros. Movie (Theatrical Release)
 UID:Radarr_movie_296_cinemas
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:20th Century Studios
+DESCRIPTION:Set more than a decade after the events of the first film\, le
+ arn the story of the Sully family (Jake\, Neytiri\, and their kids)\, the
+  trouble that follows them\, the lengths they go to keep each other safe\
+ , the battles they fight to stay alive\, and the tragedies they endure.
+DTEND;VALUE=DATE:20221215
+DTSTAMP:20230309T062002Z
+DTSTART;VALUE=DATE:20221214
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Avatar: The Way of Water (Theatrical Release)
+UID:Radarr_movie_391_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:20th Century Studios
+DESCRIPTION:Set more than a decade after the events of the first film\, le
+ arn the story of the Sully family (Jake\, Neytiri\, and their kids)\, the
+  trouble that follows them\, the lengths they go to keep each other safe\
+ , the battles they fight to stay alive\, and the tragedies they endure.
+DTEND;VALUE=DATE:20230329
+DTSTAMP:20230309T062002Z
+DTSTART;VALUE=DATE:20230328
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Avatar: The Way of Water (Digital Release)
+UID:Radarr_movie_391_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:20th Century Studios
+DESCRIPTION:Set more than a decade after the events of the first film\, le
+ arn the story of the Sully family (Jake\, Neytiri\, and their kids)\, the
+  trouble that follows them\, the lengths they go to keep each other safe\
+ , the battles they fight to stay alive\, and the tragedies they endure.
+DTEND;VALUE=DATE:20230425
+DTSTAMP:20230309T062002Z
+DTSTART;VALUE=DATE:20230424
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Avatar: The Way of Water (Physical Release)
+UID:Radarr_movie_391_physical
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:ITN Studios
 DESCRIPTION:Christopher Robin is headed off to college and he has abandone
  d his old friends\, Pooh and Piglet\, which then leads to the duo embraci
  ng their inner monsters.
 DTEND;VALUE=DATE:20230128
-DTSTAMP:20230308T064009Z
+DTSTAMP:20230309T062002Z
 DTSTART;VALUE=DATE:20230127
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -49,7 +91,7 @@ DESCRIPTION:Christopher Robin is headed off to college and he has abandone
  d his old friends\, Pooh and Piglet\, which then leads to the duo embraci
  ng their inner monsters.
 DTEND;VALUE=DATE:20230311
-DTSTAMP:20230308T064009Z
+DTSTAMP:20230309T062002Z
 DTSTART;VALUE=DATE:20230310
 SEQUENCE:0
 STATUS:CONFIRMED
