@@ -10,7 +10,7 @@ DESCRIPTION:After finding himself in a world known as the Mushroom Kingdom
  s named Peach and a mushroom named Toad to find his brother Luigi and sav
  e the world from a ruthless fire-breathing monster called Bowser.
 DTEND;VALUE=DATE:20230331
-DTSTAMP:20230318T054007Z
+DTSTAMP:20230319T052002Z
 DTSTART;VALUE=DATE:20230330
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -24,7 +24,7 @@ DESCRIPTION:Set more than a decade after the events of the first film\, le
   trouble that follows them\, the lengths they go to keep each other safe\
  , the battles they fight to stay alive\, and the tragedies they endure.
 DTEND;VALUE=DATE:20221215
-DTSTAMP:20230318T054007Z
+DTSTAMP:20230319T052002Z
 DTSTART;VALUE=DATE:20221214
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -38,7 +38,7 @@ DESCRIPTION:Set more than a decade after the events of the first film\, le
   trouble that follows them\, the lengths they go to keep each other safe\
  , the battles they fight to stay alive\, and the tragedies they endure.
 DTEND;VALUE=DATE:20230329
-DTSTAMP:20230318T054007Z
+DTSTAMP:20230319T052002Z
 DTSTART;VALUE=DATE:20230328
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -52,7 +52,7 @@ DESCRIPTION:Set more than a decade after the events of the first film\, le
   trouble that follows them\, the lengths they go to keep each other safe\
  , the battles they fight to stay alive\, and the tragedies they endure.
 DTEND;VALUE=DATE:20230425
-DTSTAMP:20230318T054007Z
+DTSTAMP:20230319T052002Z
 DTSTART;VALUE=DATE:20230424
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -66,24 +66,11 @@ DESCRIPTION:Carl Nargle\, Vermont’s #1 public television painter\, is conv
  his every stroke… until a younger\, better artist steals everything (and 
  everyone) Carl loves.
 DTEND;VALUE=DATE:20230408
-DTSTAMP:20230318T054007Z
+DTSTAMP:20230319T052002Z
 DTSTART;VALUE=DATE:20230407
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Paint (Theatrical Release)
 UID:Radarr_movie_559_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:20th Century Studios
-DESCRIPTION:Reporters Loretta McLaughlin and Jean Cole bravely pursue the 
- story of the Boston Strangler at great personal risk\, putting their own 
- lives on the line in their quest to uncover the truth.
-DTEND;VALUE=DATE:20230318
-DTSTAMP:20230318T054007Z
-DTSTART;VALUE=DATE:20230317
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Boston Strangler (Digital Release)
-UID:Radarr_movie_618_digital
 END:VEVENT
 END:VCALENDAR
