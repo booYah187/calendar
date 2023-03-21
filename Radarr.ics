@@ -5,12 +5,12 @@ VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
 CATEGORIES:Universal Pictures
-DESCRIPTION:After finding himself in a world known as the Mushroom Kingdom
- \, A Brooklyn plumber Mario must travel through this world with a princes
- s named Peach and a mushroom named Toad to find his brother Luigi and sav
- e the world from a ruthless fire-breathing monster called Bowser.
+DESCRIPTION:While working underground to fix a water main\, Brooklyn plumb
+ ers—and brothers—Mario and Luigi are transported down a mysterious pipe a
+ nd wander into a magical new world. But when the brothers are separated\,
+  Mario embarks on an epic quest to find Luigi.
 DTEND;VALUE=DATE:20230331
-DTSTAMP:20230320T054002Z
+DTSTAMP:20230321T052003Z
 DTSTART;VALUE=DATE:20230330
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -24,7 +24,7 @@ DESCRIPTION:Set more than a decade after the events of the first film\, le
   trouble that follows them\, the lengths they go to keep each other safe\
  , the battles they fight to stay alive\, and the tragedies they endure.
 DTEND;VALUE=DATE:20221215
-DTSTAMP:20230320T054002Z
+DTSTAMP:20230321T052003Z
 DTSTART;VALUE=DATE:20221214
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -38,7 +38,7 @@ DESCRIPTION:Set more than a decade after the events of the first film\, le
   trouble that follows them\, the lengths they go to keep each other safe\
  , the battles they fight to stay alive\, and the tragedies they endure.
 DTEND;VALUE=DATE:20230329
-DTSTAMP:20230320T054002Z
+DTSTAMP:20230321T052003Z
 DTSTART;VALUE=DATE:20230328
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -52,7 +52,7 @@ DESCRIPTION:Set more than a decade after the events of the first film\, le
   trouble that follows them\, the lengths they go to keep each other safe\
  , the battles they fight to stay alive\, and the tragedies they endure.
 DTEND;VALUE=DATE:20230425
-DTSTAMP:20230320T054002Z
+DTSTAMP:20230321T052003Z
 DTSTART;VALUE=DATE:20230424
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -66,7 +66,7 @@ DESCRIPTION:Carl Nargle\, Vermont’s #1 public television painter\, is conv
  his every stroke… until a younger\, better artist steals everything (and 
  everyone) Carl loves.
 DTEND;VALUE=DATE:20230408
-DTSTAMP:20230320T054002Z
+DTSTAMP:20230321T052003Z
 DTSTART;VALUE=DATE:20230407
 SEQUENCE:0
 STATUS:TENTATIVE
