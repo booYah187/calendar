@@ -10,54 +10,12 @@ DESCRIPTION:While working underground to fix a water main\, Brooklyn plumb
  nd wander into a magical new world. But when the brothers are separated\,
   Mario embarks on an epic quest to find Luigi.
 DTEND;VALUE=DATE:20230331
-DTSTAMP:20230328T054003Z
+DTSTAMP:20230329T054005Z
 DTSTART;VALUE=DATE:20230330
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Super Mario Bros. Movie (Theatrical Release)
 UID:Radarr_movie_296_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:20th Century Studios
-DESCRIPTION:Set more than a decade after the events of the first film\, le
- arn the story of the Sully family (Jake\, Neytiri\, and their kids)\, the
-  trouble that follows them\, the lengths they go to keep each other safe\
- , the battles they fight to stay alive\, and the tragedies they endure.
-DTEND;VALUE=DATE:20221215
-DTSTAMP:20230328T054003Z
-DTSTART;VALUE=DATE:20221214
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Avatar: The Way of Water (Theatrical Release)
-UID:Radarr_movie_391_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:20th Century Studios
-DESCRIPTION:Set more than a decade after the events of the first film\, le
- arn the story of the Sully family (Jake\, Neytiri\, and their kids)\, the
-  trouble that follows them\, the lengths they go to keep each other safe\
- , the battles they fight to stay alive\, and the tragedies they endure.
-DTEND;VALUE=DATE:20230329
-DTSTAMP:20230328T054003Z
-DTSTART;VALUE=DATE:20230328
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Avatar: The Way of Water (Digital Release)
-UID:Radarr_movie_391_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:20th Century Studios
-DESCRIPTION:Set more than a decade after the events of the first film\, le
- arn the story of the Sully family (Jake\, Neytiri\, and their kids)\, the
-  trouble that follows them\, the lengths they go to keep each other safe\
- , the battles they fight to stay alive\, and the tragedies they endure.
-DTEND;VALUE=DATE:20230425
-DTSTAMP:20230328T054003Z
-DTSTART;VALUE=DATE:20230424
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Avatar: The Way of Water (Physical Release)
-UID:Radarr_movie_391_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:New Line Cinema
@@ -66,7 +24,7 @@ DESCRIPTION:Two sisters find an ancient book that gives birth to bloodthir
  them into a primal battle for survival as they face the most nightmarish 
  version of family imaginable.
 DTEND;VALUE=DATE:20230420
-DTSTAMP:20230328T054003Z
+DTSTAMP:20230329T054006Z
 DTSTART;VALUE=DATE:20230419
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -80,7 +38,7 @@ DESCRIPTION:Carl Nargle\, Vermont’s #1 public television painter\, is conv
  his every stroke… until a younger\, better artist steals everything (and 
  everyone) Carl loves.
 DTEND;VALUE=DATE:20230408
-DTSTAMP:20230328T054003Z
+DTSTAMP:20230329T054006Z
 DTSTART;VALUE=DATE:20230407
 SEQUENCE:0
 STATUS:TENTATIVE
