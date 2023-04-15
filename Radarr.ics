@@ -10,7 +10,7 @@ DESCRIPTION:Two sisters find an ancient book that gives birth to bloodthir
  them into a primal battle for survival as they face the most nightmarish 
  version of family imaginable.
 DTEND;VALUE=DATE:20230420
-DTSTAMP:20230412T054016Z
+DTSTAMP:20230415T033737Z
 DTSTART;VALUE=DATE:20230419
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -18,25 +18,11 @@ SUMMARY:Evil Dead Rise (Theatrical Release)
 UID:Radarr_movie_475_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Silver Lining Entertainment
-DESCRIPTION:Carl Nargle\, Vermont’s #1 public television painter\, is conv
- inced he has it all: a signature perm\, custom van\, and fans hanging on 
- his every stroke… until a younger\, better artist steals everything (and 
- everyone) Carl loves.
-DTEND;VALUE=DATE:20230408
-DTSTAMP:20230412T054016Z
-DTSTART;VALUE=DATE:20230407
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Paint (Theatrical Release)
-UID:Radarr_movie_559_cinemas
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:A24
 DESCRIPTION:A paranoid man embarks on an epic odyssey to get home to his m
  other.
 DTEND;VALUE=DATE:20230421
-DTSTAMP:20230412T054016Z
+DTSTAMP:20230415T033738Z
 DTSTART;VALUE=DATE:20230420
 SEQUENCE:0
 STATUS:TENTATIVE
