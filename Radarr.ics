@@ -4,25 +4,11 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
-CATEGORIES:New Line Cinema
-DESCRIPTION:Two sisters find an ancient book that gives birth to bloodthir
- sty demons that run amok in a Los Angeles apartment building and thrusts 
- them into a primal battle for survival as they face the most nightmarish 
- version of family imaginable.
-DTEND;VALUE=DATE:20230420
-DTSTAMP:20230418T054004Z
-DTSTART;VALUE=DATE:20230419
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Evil Dead Rise (Theatrical Release)
-UID:Radarr_movie_475_cinemas
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:A24
 DESCRIPTION:A paranoid man embarks on an epic odyssey to get home to his m
  other.
 DTEND;VALUE=DATE:20230421
-DTSTAMP:20230418T054004Z
+DTSTAMP:20230419T050009Z
 DTSTART;VALUE=DATE:20230420
 SEQUENCE:0
 STATUS:TENTATIVE
