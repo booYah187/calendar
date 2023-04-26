@@ -4,11 +4,39 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:Silver Lining Entertainment
+DESCRIPTION:Carl Nargle\, Vermont’s #1 public television painter\, is conv
+ inced he has it all: a signature perm\, custom van\, and fans hanging on 
+ his every stroke… until a younger\, better artist steals everything (and 
+ everyone) Carl loves.
+DTEND;VALUE=DATE:20230408
+DTSTAMP:20230426T052002Z
+DTSTART;VALUE=DATE:20230407
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Paint (Theatrical Release)
+UID:Radarr_movie_559_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Silver Lining Entertainment
+DESCRIPTION:Carl Nargle\, Vermont’s #1 public television painter\, is conv
+ inced he has it all: a signature perm\, custom van\, and fans hanging on 
+ his every stroke… until a younger\, better artist steals everything (and 
+ everyone) Carl loves.
+DTEND;VALUE=DATE:20230510
+DTSTAMP:20230426T052002Z
+DTSTART;VALUE=DATE:20230509
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Paint (Digital Release)
+UID:Radarr_movie_559_digital
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:A24
 DESCRIPTION:A paranoid man embarks on an epic odyssey to get home to his m
  other.
 DTEND;VALUE=DATE:20230421
-DTSTAMP:20230425T054002Z
+DTSTAMP:20230426T052002Z
 DTSTART;VALUE=DATE:20230420
 SEQUENCE:0
 STATUS:CONFIRMED
