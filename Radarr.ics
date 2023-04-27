@@ -10,7 +10,7 @@ DESCRIPTION:Carl Nargle\, Vermont’s #1 public television painter\, is conv
  his every stroke… until a younger\, better artist steals everything (and 
  everyone) Carl loves.
 DTEND;VALUE=DATE:20230408
-DTSTAMP:20230426T054005Z
+DTSTAMP:20230427T052004Z
 DTSTART;VALUE=DATE:20230407
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,23 +24,11 @@ DESCRIPTION:Carl Nargle\, Vermont’s #1 public television painter\, is conv
  his every stroke… until a younger\, better artist steals everything (and 
  everyone) Carl loves.
 DTEND;VALUE=DATE:20230510
-DTSTAMP:20230426T054005Z
+DTSTAMP:20230427T052005Z
 DTSTART;VALUE=DATE:20230509
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Paint (Digital Release)
 UID:Radarr_movie_559_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:A24
-DESCRIPTION:A paranoid man embarks on an epic odyssey to get home to his m
- other.
-DTEND;VALUE=DATE:20230421
-DTSTAMP:20230426T054005Z
-DTSTART;VALUE=DATE:20230420
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Beau Is Afraid (Theatrical Release)
-UID:Radarr_movie_651_cinemas
 END:VEVENT
 END:VCALENDAR
