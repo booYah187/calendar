@@ -4,13 +4,55 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:Universal Pictures
+DESCRIPTION:While working underground to fix a water main\, Brooklyn plumb
+ ers—and brothers—Mario and Luigi are transported down a mysterious pipe a
+ nd wander into a magical new world. But when the brothers are separated\,
+  Mario embarks on an epic quest to find Luigi.
+DTEND;VALUE=DATE:20230406
+DTSTAMP:20230503T052006Z
+DTSTART;VALUE=DATE:20230405
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Super Mario Bros. Movie (Theatrical Release)
+UID:Radarr_movie_296_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Universal Pictures
+DESCRIPTION:While working underground to fix a water main\, Brooklyn plumb
+ ers—and brothers—Mario and Luigi are transported down a mysterious pipe a
+ nd wander into a magical new world. But when the brothers are separated\,
+  Mario embarks on an epic quest to find Luigi.
+DTEND;VALUE=DATE:20230509
+DTSTAMP:20230503T052006Z
+DTSTART;VALUE=DATE:20230508
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Super Mario Bros. Movie (Digital Release)
+UID:Radarr_movie_296_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Universal Pictures
+DESCRIPTION:While working underground to fix a water main\, Brooklyn plumb
+ ers—and brothers—Mario and Luigi are transported down a mysterious pipe a
+ nd wander into a magical new world. But when the brothers are separated\,
+  Mario embarks on an epic quest to find Luigi.
+DTEND;VALUE=DATE:20230623
+DTSTAMP:20230503T052006Z
+DTSTART;VALUE=DATE:20230622
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Super Mario Bros. Movie (Physical Release)
+UID:Radarr_movie_296_physical
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Silver Lining Entertainment
 DESCRIPTION:Carl Nargle\, Vermont’s #1 public television painter\, is conv
  inced he has it all: a signature perm\, custom van\, and fans hanging on 
  his every stroke… until a younger\, better artist steals everything (and 
  everyone) Carl loves.
 DTEND;VALUE=DATE:20230408
-DTSTAMP:20230502T054003Z
+DTSTAMP:20230503T052006Z
 DTSTART;VALUE=DATE:20230407
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,7 +66,7 @@ DESCRIPTION:Carl Nargle\, Vermont’s #1 public television painter\, is conv
  his every stroke… until a younger\, better artist steals everything (and 
  everyone) Carl loves.
 DTEND;VALUE=DATE:20230510
-DTSTAMP:20230502T054003Z
+DTSTAMP:20230503T052006Z
 DTSTART;VALUE=DATE:20230509
 SEQUENCE:0
 STATUS:CONFIRMED
