@@ -9,7 +9,7 @@ DESCRIPTION:Catherine and Peter seek some marriage guidance after the chao
  tic events of the previous day left them in an awkward place in their rel
  ationship.
 DTEND:20230512T045300Z
-DTSTAMP:20230508T054004Z
+DTSTAMP:20230509T052002Z
 DTSTART:20230512T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -22,7 +22,7 @@ DESCRIPTION:Catherine is visited by the UK and US Ambassadors both wanting
   her to intervene in the War of Independence. Maxim takes issue with the 
  public displays of affection between Grigor and Marial.
 DTEND:20230512T045300Z
-DTSTAMP:20230508T054004Z
+DTSTAMP:20230509T052002Z
 DTSTART:20230512T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -31,82 +31,112 @@ UID:NzbDrone_episode_3645
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Hulu
+DESCRIPTION:Catherine involves the peasants\, nobles and merchants in a co
+ nference designed to bring change to Russia. Peter’s hunt for revenge on 
+ an historic enemy threatens to destabilise Catherine’s attempt to outlaw 
+ murder.
 DTEND:20230512T045300Z
-DTSTAMP:20230508T054004Z
+DTSTAMP:20230509T052002Z
 DTSTART:20230512T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:The Great - 3x03 - TBA
+SUMMARY:The Great - 3x03 - You The People
 UID:NzbDrone_episode_3646
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Hulu
+DESCRIPTION:Arkady and Tatyana help Peter and Catherine through a rough pa
+ tch as they clash over their son Paul. Catherine fears Paul will grow up 
+ to be a ruthless and careless leader and Archie and Elizabeth are alarmed
+  when Catherine refuses to ordain him.
 DTEND:20230512T045300Z
-DTSTAMP:20230508T054004Z
+DTSTAMP:20230509T052002Z
 DTSTART:20230512T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:The Great - 3x04 - TBA
+SUMMARY:The Great - 3x04 - Stag
 UID:NzbDrone_episode_3647
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Hulu
+DESCRIPTION:Peter is once again tormented by his father\, Peter the Great’
+ s expectations and his failure to continue the legacy of his empire. Cath
+ erine must decide what to do about the unrest being stirred up in the reg
+ ions\, but Velementov is in no state to help her.
 DTEND:20230512T045300Z
-DTSTAMP:20230508T054004Z
+DTSTAMP:20230509T052002Z
 DTSTART:20230512T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:The Great - 3x05 - TBA
+SUMMARY:The Great - 3x05 - Sweden
 UID:NzbDrone_episode_3648
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Hulu
+DESCRIPTION:Catherine tries to persuade Peter to come home whilst Hugo re-
+ doubles his attempts to regain his kingdom. Georgina continues to play he
+ r complicated court games.
 DTEND:20230512T045300Z
-DTSTAMP:20230508T054004Z
+DTSTAMP:20230509T052002Z
 DTSTART:20230512T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:The Great - 3x06 - TBA
+SUMMARY:The Great - 3x06 - Ice
 UID:NzbDrone_episode_3649
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Hulu
+DESCRIPTION:Catherine wants to bring more fun to the court. With Georgina’
+ s help she stages a festival of truth\, jokes and stunningly clever ideas
+ . Katya puts on a play that challenges Catherine’s reign\, and Catherine 
+ samples Peter’s invention of salty desserts.
 DTEND:20230512T045300Z
-DTSTAMP:20230508T054004Z
+DTSTAMP:20230509T052002Z
 DTSTART:20230512T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:The Great - 3x07 - TBA
+SUMMARY:The Great - 3x07 - Fun
 UID:NzbDrone_episode_3650
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Hulu
+DESCRIPTION:Catherine introduces divorce to the court with unforeseen cons
+ equences. Grigor befriends Maxim and goes stag hunting\, and Elizabeth an
+ d Petrov go on a trip to the regions.
 DTEND:20230512T045300Z
-DTSTAMP:20230508T054004Z
+DTSTAMP:20230509T052002Z
 DTSTART:20230512T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:The Great - 3x08 - TBA
+SUMMARY:The Great - 3x08 - Peter and the Wolf
 UID:NzbDrone_episode_3651
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Hulu
+DESCRIPTION:Under orders from Catherine\, Grigor hides out in the forest w
+ ith Paul. Catherine plays a dangerous game with herself to prove that her
+  destiny lies in Russia\, and grapples with the impact Peter’s decisions 
+ have on her rule.
 DTEND:20230512T045300Z
-DTSTAMP:20230508T054004Z
+DTSTAMP:20230509T052002Z
 DTSTART:20230512T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:The Great - 3x09 - TBA
+SUMMARY:The Great - 3x09 - Destiny
 UID:NzbDrone_episode_3652
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Hulu
+DESCRIPTION:Catherine meets court scientist Nikolai\, who announces a come
+ t is about to pass through Russia. She uses this phenomenon to her advant
+ age and in the face of some huge challenges\, unearths a new side of her 
+ leadership.
 DTEND:20230512T045300Z
-DTSTAMP:20230508T054004Z
+DTSTAMP:20230509T052002Z
 DTSTART:20230512T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:The Great - 3x10 - TBA
+SUMMARY:The Great - 3x10 - Once Upon a Time
 UID:NzbDrone_episode_3653
 END:VEVENT
 BEGIN:VEVENT
@@ -115,7 +145,7 @@ DESCRIPTION:On election night\, Tom tries to manage an increasingly chaoti
  c newsroom\, while Kendall\, Shiv\, and Roman spar over the consequences 
  of the result – for themselves\, the company\, and the country.
 DTEND:20230515T020000Z
-DTSTAMP:20230508T054004Z
+DTSTAMP:20230509T052002Z
 DTSTART:20230515T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -125,7 +155,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Showtime
 DTEND:20230515T015800Z
-DTSTAMP:20230508T054004Z
+DTSTAMP:20230509T052002Z
 DTSTART:20230515T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -139,7 +169,7 @@ DESCRIPTION:Gary finds himself under a ticking clock\, hoping to prevent a
  l concludes. Vernon returns to Mount Carmel\, now the self-appointed prop
  het\, David Koresh. Series finale.
 DTEND:20230515T024400Z
-DTSTAMP:20230508T054004Z
+DTSTAMP:20230509T052002Z
 DTSTART:20230515T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -153,7 +183,7 @@ DESCRIPTION:As the family girds themselves for an emotional funeral\, Kend
  r\, Shiv tries to reposition herself within a new political landscape\, a
  s Kendall rallies supporters to his side.
 DTEND:20230522T020000Z
-DTSTAMP:20230508T054004Z
+DTSTAMP:20230509T052002Z
 DTSTART:20230522T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -163,7 +193,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Showtime
 DTEND:20230522T015800Z
-DTSTAMP:20230508T054004Z
+DTSTAMP:20230509T052002Z
 DTSTART:20230522T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -173,17 +203,17 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20230529T020000Z
-DTSTAMP:20230508T054004Z
+DTSTAMP:20230509T052002Z
 DTSTART:20230529T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Succession - 4x10 - TBA
+SUMMARY:Succession - 4x10 - With Open Eyes
 UID:NzbDrone_episode_3190
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Showtime
 DTEND:20230529T015800Z
-DTSTAMP:20230508T054004Z
+DTSTAMP:20230509T052002Z
 DTSTART:20230529T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
