@@ -10,7 +10,7 @@ DESCRIPTION:While working underground to fix a water main\, Brooklyn plumb
  nd wander into a magical new world. But when the brothers are separated\,
   Mario embarks on an epic quest to find Luigi.
 DTEND;VALUE=DATE:20230406
-DTSTAMP:20230512T054007Z
+DTSTAMP:20230513T052005Z
 DTSTART;VALUE=DATE:20230405
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,7 +24,7 @@ DESCRIPTION:While working underground to fix a water main\, Brooklyn plumb
  nd wander into a magical new world. But when the brothers are separated\,
   Mario embarks on an epic quest to find Luigi.
 DTEND;VALUE=DATE:20230517
-DTSTAMP:20230512T054007Z
+DTSTAMP:20230513T052006Z
 DTSTART;VALUE=DATE:20230516
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -38,7 +38,7 @@ DESCRIPTION:While working underground to fix a water main\, Brooklyn plumb
  nd wander into a magical new world. But when the brothers are separated\,
   Mario embarks on an epic quest to find Luigi.
 DTEND;VALUE=DATE:20230623
-DTSTAMP:20230512T054007Z
+DTSTAMP:20230513T052006Z
 DTSTART;VALUE=DATE:20230622
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -52,25 +52,11 @@ DESCRIPTION:Set in a fictional American desert town circa 1955\, the itine
  ether students and parents from across the country for fellowship and sch
  olarly competition) is spectacularly disrupted by world-changing events.
 DTEND;VALUE=DATE:20230610
-DTSTAMP:20230512T054007Z
+DTSTAMP:20230513T052006Z
 DTSTART;VALUE=DATE:20230609
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Asteroid City (Theatrical Release)
 UID:Radarr_movie_652_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Concordia Studio
-DESCRIPTION:A short kid from a Canadian army base becomes the internationa
- l pop culture darling of the 1980s—only to find the course of his life al
- tered by a stunning diagnosis. What happens when an incurable optimist co
- nfronts an incurable disease?
-DTEND;VALUE=DATE:20230512
-DTSTAMP:20230512T054007Z
-DTSTART;VALUE=DATE:20230511
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Still: A Michael J. Fox Movie (Digital Release)
-UID:Radarr_movie_659_digital
 END:VEVENT
 END:VCALENDAR
