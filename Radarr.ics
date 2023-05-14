@@ -10,7 +10,7 @@ DESCRIPTION:While working underground to fix a water main\, Brooklyn plumb
  nd wander into a magical new world. But when the brothers are separated\,
   Mario embarks on an epic quest to find Luigi.
 DTEND;VALUE=DATE:20230406
-DTSTAMP:20230514T052001Z
+DTSTAMP:20230514T054003Z
 DTSTART;VALUE=DATE:20230405
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,7 +24,7 @@ DESCRIPTION:While working underground to fix a water main\, Brooklyn plumb
  nd wander into a magical new world. But when the brothers are separated\,
   Mario embarks on an epic quest to find Luigi.
 DTEND;VALUE=DATE:20230517
-DTSTAMP:20230514T052001Z
+DTSTAMP:20230514T054003Z
 DTSTART;VALUE=DATE:20230516
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -38,7 +38,7 @@ DESCRIPTION:While working underground to fix a water main\, Brooklyn plumb
  nd wander into a magical new world. But when the brothers are separated\,
   Mario embarks on an epic quest to find Luigi.
 DTEND;VALUE=DATE:20230623
-DTSTAMP:20230514T052001Z
+DTSTAMP:20230514T054003Z
 DTSTART;VALUE=DATE:20230622
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -52,11 +52,31 @@ DESCRIPTION:Set in a fictional American desert town circa 1955\, the itine
  ether students and parents from across the country for fellowship and sch
  olarly competition) is spectacularly disrupted by world-changing events.
 DTEND;VALUE=DATE:20230610
-DTSTAMP:20230514T052001Z
+DTSTAMP:20230514T054003Z
 DTSTART;VALUE=DATE:20230609
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Asteroid City (Theatrical Release)
 UID:Radarr_movie_652_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Zapruder Films
+DESCRIPTION:Two mismatched entrepreneurs – egghead innovator Mike Lazaridi
+ s and cut-throat businessman Jim Balsillie – joined forces in an endeavou
+ r that was to become a worldwide hit in little more than a decade. The de
+ vice that one of them invented and the other sold was the BlackBerry\, an
+  addictive mobile phone that changed the way the world worked\, played an
+ d communicated. But just as BlackBerry was rising to new peaks\, it also 
+ started losing its way through the fog of Smartphone wars\, management in
+ decision and outside distractions\, eventually leading to the breakdown o
+ f one of the most successful ventures in the history of the tech and busi
+ ness worlds.
+DTEND;VALUE=DATE:20230512
+DTSTAMP:20230514T054003Z
+DTSTART;VALUE=DATE:20230511
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BlackBerry (Theatrical Release)
+UID:Radarr_movie_661_cinemas
 END:VEVENT
 END:VCALENDAR
