@@ -5,25 +5,12 @@ VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
 CATEGORIES:HBO
-DESCRIPTION:On election night\, Tom tries to manage an increasingly chaoti
- c newsroom\, while Kendall\, Shiv\, and Roman spar over the consequences 
- of the result – for themselves\, the company\, and the country.
-DTEND:20230515T020000Z
-DTSTAMP:20230514T054003Z
-DTSTART:20230515T010000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Succession - 4x08 - America Decides
-UID:NzbDrone_episode_3188
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:HBO
 DESCRIPTION:As the family girds themselves for an emotional funeral\, Kend
  all finds himself at odds with Rava… and inopportune news from Jess. Late
  r\, Shiv tries to reposition herself within a new political landscape\, a
  s Kendall rallies supporters to his side.
 DTEND:20230522T020000Z
-DTSTAMP:20230514T054003Z
+DTSTAMP:20230515T052003Z
 DTSTART:20230522T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -33,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Showtime
 DTEND:20230522T015800Z
-DTSTAMP:20230514T054003Z
+DTSTAMP:20230515T052003Z
 DTSTART:20230522T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -43,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20230529T020000Z
-DTSTAMP:20230514T054003Z
+DTSTAMP:20230515T052003Z
 DTSTART:20230529T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -53,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Showtime
 DTEND:20230529T015800Z
-DTSTAMP:20230514T054003Z
+DTSTAMP:20230515T052003Z
 DTSTART:20230529T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -68,7 +55,7 @@ DESCRIPTION:Dennis and Mac get into inflatable furniture to deal with the
  pto/online investment idea. And in this inflation episode everything gets
   bigger - Dee's desperation\, Mac's lips\, and even Charlie's apartment!
 DTEND:20230608T022500Z
-DTSTAMP:20230514T054003Z
+DTSTAMP:20230515T052003Z
 DTSTART:20230608T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -83,7 +70,7 @@ DESCRIPTION:After Frank shoots Dennis and Dee\, they resolve to take Frank
  h have fallen into his Uncle Donald's hands\, while for Charlie\, it's a 
  jar of teeth that is now in the hands of his sisters\, Bunny and Candy.
 DTEND:20230608T025000Z
-DTSTAMP:20230514T054003Z
+DTSTAMP:20230515T052003Z
 DTSTART:20230608T022500Z
 SEQUENCE:0
 STATUS:TENTATIVE
