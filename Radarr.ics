@@ -3,18 +3,4 @@ NAME:Radarr Movies Calendar
 PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
-BEGIN:VEVENT
-CATEGORIES:American Empirical Pictures
-DESCRIPTION:Set in a fictional American desert town circa 1955\, the itine
- rary of a Junior Stargazer/Space Cadet convention (organized to bring tog
- ether students and parents from across the country for fellowship and sch
- olarly competition) is spectacularly disrupted by world-changing events.
-DTEND;VALUE=DATE:20230610
-DTSTAMP:20230615T054007Z
-DTSTART;VALUE=DATE:20230609
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Asteroid City (Theatrical Release)
-UID:Radarr_movie_652_cinemas
-END:VEVENT
 END:VCALENDAR
