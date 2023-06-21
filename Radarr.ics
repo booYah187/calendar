@@ -3,4 +3,16 @@ NAME:Radarr Movies Calendar
 PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
+BEGIN:VEVENT
+CATEGORIES:Syncopy
+DESCRIPTION:The story of J. Robert Oppenheimer’s role in the development o
+ f the atomic bomb during World War II.
+DTEND;VALUE=DATE:20230720
+DTSTAMP:20230621T052002Z
+DTSTART;VALUE=DATE:20230719
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Oppenheimer (Theatrical Release)
+UID:Radarr_movie_658_cinemas
+END:VEVENT
 END:VCALENDAR
