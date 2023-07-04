@@ -4,11 +4,50 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:American Empirical Pictures
+DESCRIPTION:In an American desert town circa 1955\, the itinerary of a Jun
+ ior Stargazer/Space Cadet convention is spectacularly disrupted by world-
+ changing events.
+DTEND;VALUE=DATE:20230610
+DTSTAMP:20230704T052002Z
+DTSTART;VALUE=DATE:20230609
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Asteroid City (Theatrical Release)
+UID:Radarr_movie_652_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:American Empirical Pictures
+DESCRIPTION:In an American desert town circa 1955\, the itinerary of a Jun
+ ior Stargazer/Space Cadet convention is spectacularly disrupted by world-
+ changing events.
+DTEND;VALUE=DATE:20230712
+DTSTAMP:20230704T052002Z
+DTSTART;VALUE=DATE:20230711
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Asteroid City (Digital Release)
+UID:Radarr_movie_652_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:American Empirical Pictures
+DESCRIPTION:In an American desert town circa 1955\, the itinerary of a Jun
+ ior Stargazer/Space Cadet convention is spectacularly disrupted by world-
+ changing events.
+DTEND;VALUE=DATE:20240101
+DTSTAMP:20230704T052002Z
+DTSTART;VALUE=DATE:20231231
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Asteroid City (Physical Release)
+UID:Radarr_movie_652_physical
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Syncopy
 DESCRIPTION:The story of J. Robert Oppenheimer’s role in the development o
  f the atomic bomb during World War II.
 DTEND;VALUE=DATE:20230720
-DTSTAMP:20230703T054006Z
+DTSTAMP:20230704T052002Z
 DTSTART;VALUE=DATE:20230719
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -21,7 +60,7 @@ DESCRIPTION:A shy teenager discovers that she's part of a legendary royal
  lineage of mythical sea krakens and that her destiny\, in the depths of t
  he oceans\, is bigger than she ever dreamed.
 DTEND;VALUE=DATE:20230629
-DTSTAMP:20230703T054006Z
+DTSTAMP:20230704T052002Z
 DTSTART;VALUE=DATE:20230628
 SEQUENCE:0
 STATUS:CONFIRMED
