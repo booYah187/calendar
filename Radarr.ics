@@ -9,7 +9,7 @@ DESCRIPTION:In an American desert town circa 1955\, the itinerary of a Jun
  ior Stargazer/Space Cadet convention is spectacularly disrupted by world-
  changing events.
 DTEND;VALUE=DATE:20230610
-DTSTAMP:20230707T054002Z
+DTSTAMP:20230708T052006Z
 DTSTART;VALUE=DATE:20230609
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -22,7 +22,7 @@ DESCRIPTION:In an American desert town circa 1955\, the itinerary of a Jun
  ior Stargazer/Space Cadet convention is spectacularly disrupted by world-
  changing events.
 DTEND;VALUE=DATE:20230712
-DTSTAMP:20230707T054002Z
+DTSTAMP:20230708T052006Z
 DTSTART;VALUE=DATE:20230711
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -35,7 +35,7 @@ DESCRIPTION:In an American desert town circa 1955\, the itinerary of a Jun
  ior Stargazer/Space Cadet convention is spectacularly disrupted by world-
  changing events.
 DTEND;VALUE=DATE:20240101
-DTSTAMP:20230707T054002Z
+DTSTAMP:20230708T052006Z
 DTSTART;VALUE=DATE:20231231
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -47,7 +47,7 @@ CATEGORIES:Syncopy
 DESCRIPTION:The story of J. Robert Oppenheimer’s role in the development o
  f the atomic bomb during World War II.
 DTEND;VALUE=DATE:20230720
-DTSTAMP:20230707T054002Z
+DTSTAMP:20230708T052006Z
 DTSTART;VALUE=DATE:20230719
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -56,11 +56,14 @@ UID:Radarr_movie_658_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Universal Pictures
-DESCRIPTION:A shy teenager discovers that she's part of a legendary royal 
- lineage of mythical sea krakens and that her destiny\, in the depths of t
- he oceans\, is bigger than she ever dreamed.
+DESCRIPTION:Sometimes the hero you are meant to be lies just beneath the s
+ urface. This summer\, DreamWorks Animation dives into the turbulent water
+ s of high school with a hilarious\, heartfelt action comedy about a shy t
+ eenager who discovers that she's part of a legendary royal lineage of myt
+ hical sea krakens and that her destiny\, in the depths of the oceans\, is
+  bigger than she ever dreamed.
 DTEND;VALUE=DATE:20230629
-DTSTAMP:20230707T054002Z
+DTSTAMP:20230708T052006Z
 DTSTART;VALUE=DATE:20230628
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -69,11 +72,14 @@ UID:Radarr_movie_664_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Universal Pictures
-DESCRIPTION:A shy teenager discovers that she's part of a legendary royal 
- lineage of mythical sea krakens and that her destiny\, in the depths of t
- he oceans\, is bigger than she ever dreamed.
+DESCRIPTION:Sometimes the hero you are meant to be lies just beneath the s
+ urface. This summer\, DreamWorks Animation dives into the turbulent water
+ s of high school with a hilarious\, heartfelt action comedy about a shy t
+ eenager who discovers that she's part of a legendary royal lineage of myt
+ hical sea krakens and that her destiny\, in the depths of the oceans\, is
+  bigger than she ever dreamed.
 DTEND;VALUE=DATE:20230719
-DTSTAMP:20230707T054002Z
+DTSTAMP:20230708T052006Z
 DTSTART;VALUE=DATE:20230718
 SEQUENCE:0
 STATUS:CONFIRMED
