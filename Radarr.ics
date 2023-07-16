@@ -8,7 +8,7 @@ CATEGORIES:Syncopy
 DESCRIPTION:The story of J. Robert Oppenheimer’s role in the development o
  f the atomic bomb during World War II.
 DTEND;VALUE=DATE:20230720
-DTSTAMP:20230715T054002Z
+DTSTAMP:20230716T050001Z
 DTSTART;VALUE=DATE:20230719
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -24,7 +24,7 @@ DESCRIPTION:Sometimes the hero you are meant to be lies just beneath the s
  hical sea krakens and that her destiny\, in the depths of the oceans\, is
   bigger than she ever dreamed.
 DTEND;VALUE=DATE:20230629
-DTSTAMP:20230715T054002Z
+DTSTAMP:20230716T050001Z
 DTSTART;VALUE=DATE:20230628
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -40,7 +40,7 @@ DESCRIPTION:Sometimes the hero you are meant to be lies just beneath the s
  hical sea krakens and that her destiny\, in the depths of the oceans\, is
   bigger than she ever dreamed.
 DTEND;VALUE=DATE:20230719
-DTSTAMP:20230715T054002Z
+DTSTAMP:20230716T050001Z
 DTSTART;VALUE=DATE:20230718
 SEQUENCE:0
 STATUS:CONFIRMED
