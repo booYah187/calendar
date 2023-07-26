@@ -12,23 +12,11 @@ DESCRIPTION:When Reggie is abandoned on the mean city streets by his lowli
  rs\, Reggie finally realizes he was in a toxic relationship and begins to
   see Doug for the heartless sleazeball that he is.
 DTEND;VALUE=DATE:20230818
-DTSTAMP:20230725T054002Z
+DTSTAMP:20230726T050002Z
 DTSTART;VALUE=DATE:20230817
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Strays (Theatrical Release)
 UID:Radarr_movie_560_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Syncopy
-DESCRIPTION:The story of J. Robert Oppenheimer’s role in the development o
- f the atomic bomb during World War II.
-DTEND;VALUE=DATE:20230720
-DTSTAMP:20230725T054002Z
-DTSTART;VALUE=DATE:20230719
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Oppenheimer (Theatrical Release)
-UID:Radarr_movie_658_cinemas
 END:VEVENT
 END:VCALENDAR
