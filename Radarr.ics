@@ -4,47 +4,58 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
-CATEGORIES:Syncopy
-DESCRIPTION:The story of J. Robert Oppenheimer’s role in the development o
- f the atomic bomb during World War II.
-DTEND;VALUE=DATE:20230720
-DTSTAMP:20230713T105043Z
-DTSTART;VALUE=DATE:20230719
+CATEGORIES:Universal Pictures
+DESCRIPTION:When Reggie is abandoned on the mean city streets by his lowli
+ fe owner\, Doug\, Reggie is certain that his beloved owner would never le
+ ave him on purpose. But once Reggie falls in with a fast-talking\, foul-m
+ outhed stray who loves his freedom and believes that owners are for sucke
+ rs\, Reggie finally realizes he was in a toxic relationship and begins to
+  see Doug for the heartless sleazeball that he is.
+DTEND;VALUE=DATE:20230818
+DTSTAMP:20230809T052003Z
+DTSTART;VALUE=DATE:20230817
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Oppenheimer (Theatrical Release)
-UID:Radarr_movie_658_cinemas
+SUMMARY:Strays (Theatrical Release)
+UID:Radarr_movie_560_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Universal Pictures
-DESCRIPTION:Sometimes the hero you are meant to be lies just beneath the s
- urface. This summer\, DreamWorks Animation dives into the turbulent water
- s of high school with a hilarious\, heartfelt action comedy about a shy t
- eenager who discovers that she's part of a legendary royal lineage of myt
- hical sea krakens and that her destiny\, in the depths of the oceans\, is
-  bigger than she ever dreamed.
-DTEND;VALUE=DATE:20230629
-DTSTAMP:20230713T105043Z
-DTSTART;VALUE=DATE:20230628
+CATEGORIES:Walt Disney Pictures
+DESCRIPTION:In a city where fire\, water\, land and air residents live tog
+ ether\, a fiery young woman and a go-with-the-flow guy will discover some
+ thing elemental: how much they have in common.
+DTEND;VALUE=DATE:20230615
+DTSTAMP:20230809T052004Z
+DTSTART;VALUE=DATE:20230614
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Ruby Gillman\, Teenage Kraken (Theatrical Release)
-UID:Radarr_movie_664_cinemas
+SUMMARY:Elemental (Theatrical Release)
+UID:Radarr_movie_666_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Universal Pictures
-DESCRIPTION:Sometimes the hero you are meant to be lies just beneath the s
- urface. This summer\, DreamWorks Animation dives into the turbulent water
- s of high school with a hilarious\, heartfelt action comedy about a shy t
- eenager who discovers that she's part of a legendary royal lineage of myt
- hical sea krakens and that her destiny\, in the depths of the oceans\, is
-  bigger than she ever dreamed.
-DTEND;VALUE=DATE:20230719
-DTSTAMP:20230713T105043Z
-DTSTART;VALUE=DATE:20230718
+CATEGORIES:Walt Disney Pictures
+DESCRIPTION:In a city where fire\, water\, land and air residents live tog
+ ether\, a fiery young woman and a go-with-the-flow guy will discover some
+ thing elemental: how much they have in common.
+DTEND;VALUE=DATE:20230816
+DTSTAMP:20230809T052004Z
+DTSTART;VALUE=DATE:20230815
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Ruby Gillman\, Teenage Kraken (Digital Release)
-UID:Radarr_movie_664_digital
+SUMMARY:Elemental (Digital Release)
+UID:Radarr_movie_666_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Walt Disney Pictures
+DESCRIPTION:In a city where fire\, water\, land and air residents live tog
+ ether\, a fiery young woman and a go-with-the-flow guy will discover some
+ thing elemental: how much they have in common.
+DTEND;VALUE=DATE:20230927
+DTSTAMP:20230809T052004Z
+DTSTART;VALUE=DATE:20230926
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Elemental (Physical Release)
+UID:Radarr_movie_666_physical
 END:VEVENT
 END:VCALENDAR
