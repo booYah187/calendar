@@ -3,34 +3,4 @@ NAME:Radarr Movies Calendar
 PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
-BEGIN:VEVENT
-CATEGORIES:Paramount
-DESCRIPTION:After years of being sheltered from the human world\, the Turt
- le brothers set out to win the hearts of New Yorkers and be accepted as n
- ormal teenagers through heroic acts. Their new friend April O'Neil helps 
- them take on a mysterious crime syndicate\, but they soon get in over the
- ir heads when an army of mutants is unleashed upon them.
-DTEND;VALUE=DATE:20230801
-DTSTAMP:20230825T054007Z
-DTSTART;VALUE=DATE:20230731
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem (Theatrical Release)
-UID:Radarr_movie_674_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Paramount
-DESCRIPTION:After years of being sheltered from the human world\, the Turt
- le brothers set out to win the hearts of New Yorkers and be accepted as n
- ormal teenagers through heroic acts. Their new friend April O'Neil helps 
- them take on a mysterious crime syndicate\, but they soon get in over the
- ir heads when an army of mutants is unleashed upon them.
-DTEND;VALUE=DATE:20230906
-DTSTAMP:20230825T054007Z
-DTSTART;VALUE=DATE:20230905
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem (Digital Release)
-UID:Radarr_movie_674_digital
-END:VEVENT
 END:VCALENDAR
