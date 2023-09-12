@@ -3,43 +3,4 @@ NAME:Radarr Movies Calendar
 PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
-BEGIN:VEVENT
-CATEGORIES:Causeway Films
-DESCRIPTION:When a group of friends discover how to conjure spirits using 
- an embalmed hand\, they become hooked on the new thrill\, until one of th
- em goes too far and unleashes terrifying supernatural forces.
-DTEND;VALUE=DATE:20230727
-DTSTAMP:20230911T054008Z
-DTSTART;VALUE=DATE:20230726
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Talk to Me (Theatrical Release)
-UID:Radarr_movie_671_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Causeway Films
-DESCRIPTION:When a group of friends discover how to conjure spirits using 
- an embalmed hand\, they become hooked on the new thrill\, until one of th
- em goes too far and unleashes terrifying supernatural forces.
-DTEND;VALUE=DATE:20230913
-DTSTAMP:20230911T054008Z
-DTSTART;VALUE=DATE:20230912
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Talk to Me (Digital Release)
-UID:Radarr_movie_671_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Causeway Films
-DESCRIPTION:When a group of friends discover how to conjure spirits using 
- an embalmed hand\, they become hooked on the new thrill\, until one of th
- em goes too far and unleashes terrifying supernatural forces.
-DTEND;VALUE=DATE:20231004
-DTSTAMP:20230911T054008Z
-DTSTART;VALUE=DATE:20231003
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Talk to Me (Physical Release)
-UID:Radarr_movie_671_physical
-END:VEVENT
 END:VCALENDAR
