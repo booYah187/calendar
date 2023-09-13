@@ -3,4 +3,18 @@ NAME:Radarr Movies Calendar
 PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
+BEGIN:VEVENT
+CATEGORIES:Element Pictures
+DESCRIPTION:Bella Baxter is brought back to life by the brilliant and unor
+ thodox scientist Dr. Godwin Baxter. Hungry for the worldliness she is lac
+ king\, Bella runs off with Duncan Wedderburn\, a slick and debauched lawy
+ er\, on a whirlwind adventure across the continents.
+DTEND;VALUE=DATE:20231012
+DTSTAMP:20230913T052002Z
+DTSTART;VALUE=DATE:20231011
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Poor Things (Theatrical Release)
+UID:Radarr_movie_660_cinemas
+END:VEVENT
 END:VCALENDAR
