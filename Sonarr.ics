@@ -3,4 +3,15 @@ NAME:Sonarr TV Schedule
 PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
+BEGIN:VEVENT
+CATEGORIES:Adult Swim
+DESCRIPTION:Broh\, come out with us\, you're being so boring\, dude.
+DTEND:20231016T032300Z
+DTSTAMP:20230919T052003Z
+DTSTART:20231016T030000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Rick and Morty - 7x01 - How Poopy Got His Poop Back
+UID:NzbDrone_episode_4026
+END:VEVENT
 END:VCALENDAR
