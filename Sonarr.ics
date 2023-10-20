@@ -5,13 +5,11 @@ VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
 CATEGORIES:BBC One
-DESCRIPTION:Arriving at Carlingford Prison on the same day\, Kelsey\, Orla
-  and Abi are thrown together to face an unfamiliar world. But even with t
- he ever-present threat of violence within its walls\, they discover that 
- an unexpected sense of community\, and a shared understanding\, still mig
- ht be possible.
-DTEND:20231029T220100Z
-DTSTAMP:20231019T054002Z
+DESCRIPTION:Struggling single mother Orla finds herself in a desperate sit
+ uation after being sent to Carlingford prison. There\, she meets Kelsey\,
+  a young heroin addict\, and Abi\, a tough lifer.
+DTEND:20231029T220000Z
+DTSTAMP:20231020T050002Z
 DTSTART:20231029T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
