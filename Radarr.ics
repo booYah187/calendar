@@ -8,7 +8,7 @@ CATEGORIES:Syncopy
 DESCRIPTION:The story of J. Robert Oppenheimer’s role in the development o
  f the atomic bomb during World War II.
 DTEND;VALUE=DATE:20230720
-DTSTAMP:20231025T052002Z
+DTSTAMP:20231025T054002Z
 DTSTART;VALUE=DATE:20230719
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -20,7 +20,7 @@ CATEGORIES:Syncopy
 DESCRIPTION:The story of J. Robert Oppenheimer’s role in the development o
  f the atomic bomb during World War II.
 DTEND;VALUE=DATE:20231122
-DTSTAMP:20231025T052002Z
+DTSTAMP:20231025T054002Z
 DTSTART;VALUE=DATE:20231121
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -32,7 +32,7 @@ CATEGORIES:Syncopy
 DESCRIPTION:The story of J. Robert Oppenheimer’s role in the development o
  f the atomic bomb during World War II.
 DTEND;VALUE=DATE:20231122
-DTSTAMP:20231025T052002Z
+DTSTAMP:20231025T054002Z
 DTSTART;VALUE=DATE:20231121
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -46,7 +46,7 @@ DESCRIPTION:Recently fired and desperate for work\, a troubled young man n
  oned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers t
  hat nothing at Freddy's is what it seems.
 DTEND;VALUE=DATE:20231026
-DTSTAMP:20231025T052002Z
+DTSTAMP:20231025T054002Z
 DTSTART;VALUE=DATE:20231025
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -60,7 +60,7 @@ DESCRIPTION:Recently fired and desperate for work\, a troubled young man n
  oned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers t
  hat nothing at Freddy's is what it seems.
 DTEND;VALUE=DATE:20231028
-DTSTAMP:20231025T052002Z
+DTSTAMP:20231025T054002Z
 DTSTART;VALUE=DATE:20231027
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -72,7 +72,7 @@ CATEGORIES:Netflix
 DESCRIPTION:After a fateful near-miss\, an assassin battles his employers\
  , and himself\, on an international manhunt he insists isn't personal.
 DTEND;VALUE=DATE:20231026
-DTSTAMP:20231025T052002Z
+DTSTAMP:20231025T054002Z
 DTSTART;VALUE=DATE:20231025
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -84,7 +84,7 @@ CATEGORIES:Netflix
 DESCRIPTION:After a fateful near-miss\, an assassin battles his employers\
  , and himself\, on an international manhunt he insists isn't personal.
 DTEND;VALUE=DATE:20231111
-DTSTAMP:20231025T052002Z
+DTSTAMP:20231025T054002Z
 DTSTART;VALUE=DATE:20231110
 SEQUENCE:0
 STATUS:TENTATIVE
