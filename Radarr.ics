@@ -8,7 +8,7 @@ CATEGORIES:Syncopy
 DESCRIPTION:The story of J. Robert Oppenheimer’s role in the development o
  f the atomic bomb during World War II.
 DTEND;VALUE=DATE:20230720
-DTSTAMP:20231028T052002Z
+DTSTAMP:20231028T054001Z
 DTSTART;VALUE=DATE:20230719
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -20,7 +20,7 @@ CATEGORIES:Syncopy
 DESCRIPTION:The story of J. Robert Oppenheimer’s role in the development o
  f the atomic bomb during World War II.
 DTEND;VALUE=DATE:20231122
-DTSTAMP:20231028T052002Z
+DTSTAMP:20231028T054001Z
 DTSTART;VALUE=DATE:20231121
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -32,7 +32,7 @@ CATEGORIES:Syncopy
 DESCRIPTION:The story of J. Robert Oppenheimer’s role in the development o
  f the atomic bomb during World War II.
 DTEND;VALUE=DATE:20231122
-DTSTAMP:20231028T052002Z
+DTSTAMP:20231028T054001Z
 DTSTART;VALUE=DATE:20231121
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -40,39 +40,11 @@ SUMMARY:Oppenheimer (Physical Release)
 UID:Radarr_movie_658_physical
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Blumhouse Productions
-DESCRIPTION:Recently fired and desperate for work\, a troubled young man n
- amed Mike agrees to take a position as a night security guard at an aband
- oned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers t
- hat nothing at Freddy's is what it seems.
-DTEND;VALUE=DATE:20231026
-DTSTAMP:20231028T052002Z
-DTSTART;VALUE=DATE:20231025
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Five Nights at Freddy's (Theatrical Release)
-UID:Radarr_movie_663_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Blumhouse Productions
-DESCRIPTION:Recently fired and desperate for work\, a troubled young man n
- amed Mike agrees to take a position as a night security guard at an aband
- oned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers t
- hat nothing at Freddy's is what it seems.
-DTEND;VALUE=DATE:20231027
-DTSTAMP:20231028T052002Z
-DTSTART;VALUE=DATE:20231026
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Five Nights at Freddy's (Digital Release)
-UID:Radarr_movie_663_digital
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Netflix
 DESCRIPTION:After a fateful near-miss\, an assassin battles his employers\
  , and himself\, on an international manhunt he insists isn't personal.
 DTEND;VALUE=DATE:20231026
-DTSTAMP:20231028T052002Z
+DTSTAMP:20231028T054001Z
 DTSTART;VALUE=DATE:20231025
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -84,7 +56,7 @@ CATEGORIES:Netflix
 DESCRIPTION:After a fateful near-miss\, an assassin battles his employers\
  , and himself\, on an international manhunt he insists isn't personal.
 DTEND;VALUE=DATE:20231111
-DTSTAMP:20231028T052002Z
+DTSTAMP:20231028T054001Z
 DTSTART;VALUE=DATE:20231110
 SEQUENCE:0
 STATUS:CONFIRMED
