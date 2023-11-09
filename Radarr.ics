@@ -4,47 +4,11 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
-CATEGORIES:Syncopy
-DESCRIPTION:The story of J. Robert Oppenheimer’s role in the development o
- f the atomic bomb during World War II.
-DTEND;VALUE=DATE:20230720
-DTSTAMP:20231109T062002Z
-DTSTART;VALUE=DATE:20230719
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Oppenheimer (Theatrical Release)
-UID:Radarr_movie_658_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Syncopy
-DESCRIPTION:The story of J. Robert Oppenheimer’s role in the development o
- f the atomic bomb during World War II.
-DTEND;VALUE=DATE:20231122
-DTSTAMP:20231109T062002Z
-DTSTART;VALUE=DATE:20231121
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Oppenheimer (Digital Release)
-UID:Radarr_movie_658_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Syncopy
-DESCRIPTION:The story of J. Robert Oppenheimer’s role in the development o
- f the atomic bomb during World War II.
-DTEND;VALUE=DATE:20231122
-DTSTAMP:20231109T062002Z
-DTSTART;VALUE=DATE:20231121
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Oppenheimer (Physical Release)
-UID:Radarr_movie_658_physical
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Netflix
 DESCRIPTION:After a fateful near-miss\, an assassin battles his employers\
  , and himself\, on an international manhunt he insists isn't personal.
 DTEND;VALUE=DATE:20231027
-DTSTAMP:20231109T062002Z
+DTSTAMP:20231109T064002Z
 DTSTART;VALUE=DATE:20231026
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -56,7 +20,7 @@ CATEGORIES:Netflix
 DESCRIPTION:After a fateful near-miss\, an assassin battles his employers\
  , and himself\, on an international manhunt he insists isn't personal.
 DTEND;VALUE=DATE:20231111
-DTSTAMP:20231109T062002Z
+DTSTAMP:20231109T064002Z
 DTSTART;VALUE=DATE:20231110
 SEQUENCE:0
 STATUS:CONFIRMED
