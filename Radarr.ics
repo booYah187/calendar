@@ -10,35 +10,11 @@ DESCRIPTION:Brought back to life by an unorthodox scientist\, a young woma
  Free from the prejudices of her times\, she grows steadfast in her purpos
  e to stand for equality and liberation.
 DTEND;VALUE=DATE:20231209
-DTSTAMP:20231110T064002Z
+DTSTAMP:20231111T060002Z
 DTSTART;VALUE=DATE:20231208
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Poor Things (Theatrical Release)
 UID:Radarr_movie_660_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:After a fateful near-miss\, an assassin battles his employers\
- , and himself\, on an international manhunt he insists isn't personal.
-DTEND;VALUE=DATE:20231027
-DTSTAMP:20231110T064002Z
-DTSTART;VALUE=DATE:20231026
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Killer (Theatrical Release)
-UID:Radarr_movie_678_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:After a fateful near-miss\, an assassin battles his employers\
- , and himself\, on an international manhunt he insists isn't personal.
-DTEND;VALUE=DATE:20231111
-DTSTAMP:20231110T064002Z
-DTSTART;VALUE=DATE:20231110
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Killer (Digital Release)
-UID:Radarr_movie_678_digital
 END:VEVENT
 END:VCALENDAR
