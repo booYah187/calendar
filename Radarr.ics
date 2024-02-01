@@ -3,4 +3,19 @@ NAME:Radarr Movies Calendar
 PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
+BEGIN:VEVENT
+CATEGORIES:Legendary Pictures
+DESCRIPTION:Follow the mythic journey of Paul Atreides as he unites with C
+ hani and the Fremen while on a warpath of revenge against the conspirator
+ s who destroyed his family. Facing a choice between the love of his life 
+ and the fate of the known universe\, Paul endeavors to prevent a terrible
+  future only he can foresee.
+DTEND;VALUE=DATE:20240229
+DTSTAMP:20240201T060003Z
+DTSTART;VALUE=DATE:20240228
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Dune: Part Two (Theatrical Release)
+UID:Radarr_movie_10_cinemas
+END:VEVENT
 END:VCALENDAR
