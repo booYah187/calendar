@@ -1,0 +1,6 @@
+BEGIN:VCALENDAR
+NAME:Radarr Movies Calendar
+PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+X-WR-CALNAME:Radarr Movies Calendar
+END:VCALENDAR
