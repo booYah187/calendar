@@ -4,8 +4,15 @@
     <title>mattyj513 Gitea Activity</title>
     <link>https://blacklungindustries.ddns.net/gitea/mattyj513</link>
     <description>Activity feed from Gitea user mattyj513</description>
-    <lastBuildDate>Wed, 20 Aug 2025 05:09:59 -0000</lastBuildDate>
-    <ns0:link rel="self" href="https://blacklungindustries.ddns.net/gitea/mattyj513/calendar/raw/branch/main/gitea_activity.xml" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Aug 2025 05:15:04 -0000</lastBuildDate>
+    <ns0:link rel="self" href="https://blacklungindustries.ddns.net/gitea/mattyj513/calendar/raw/branch/main/gitea_activity2.xml" type="application/rss+xml" />
+    <item>
+      <title>mattyj513 mirror_sync_push</title>
+      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
+      <guid>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</guid>
+      <pubDate>Wed, 20 Aug 2025 05:11:29 +0000</pubDate>
+      <description>&lt;b&gt;User:&lt;/b&gt; mattyj513&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; mirror_sync_push&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/calendar'&gt;calendar&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Link:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/calendar'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/calendar&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; 2025-08-20T05:11:29Z</description>
+    </item>
     <item>
       <title>mattyj513 mirror_sync_push</title>
       <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
@@ -201,13 +208,6 @@
       <guid>https://blacklungindustries.ddns.net/gitea/mattyj513/es-theme-gbz35-jelos</guid>
       <pubDate>Thu, 14 Aug 2025 01:16:05 +0000</pubDate>
       <description>&lt;b&gt;User:&lt;/b&gt; mattyj513&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; push_tag&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/es-theme-gbz35-jelos'&gt;es-theme-gbz35-jelos&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Link:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/es-theme-gbz35-jelos'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/es-theme-gbz35-jelos&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; 2025-08-14T01:16:05Z</description>
-    </item>
-    <item>
-      <title>mattyj513 commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/es-theme-gbz35-jelos</link>
-      <guid>https://blacklungindustries.ddns.net/gitea/mattyj513/es-theme-gbz35-jelos</guid>
-      <pubDate>Thu, 14 Aug 2025 01:16:04 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; mattyj513&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/es-theme-gbz35-jelos'&gt;es-theme-gbz35-jelos&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Link:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/es-theme-gbz35-jelos'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/es-theme-gbz35-jelos&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; 2025-08-14T01:16:04Z</description>
     </item>
     <item>
       <title>mattyj513 commit_repo</title>
