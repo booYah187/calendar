@@ -7,10 +7,18 @@
     <atom:link href="https://blacklungindustries.ddns.net/gitea/api/v1/users/mattyj513/activities/feeds" rel="self" type="application/rss+xml" />
     
     <item>
+        <title>calendar</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
+        <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-192</guid>
+    </item>
+    
+    <item>
         <title>.profile</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
         <description>Update README.md</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-187</guid>
     </item>
     
@@ -18,7 +26,7 @@
         <title>.profile</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
         <description>update</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-186</guid>
     </item>
     
@@ -26,7 +34,7 @@
         <title>calendar</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
         <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-184</guid>
     </item>
     
@@ -34,7 +42,7 @@
         <title>.profile</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
         <description>Update README.md</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-183</guid>
     </item>
     
@@ -42,7 +50,7 @@
         <title>.profile</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
         <description>Update README.md</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-182</guid>
     </item>
     
@@ -50,7 +58,7 @@
         <title>.profile</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
         <description>Update README.md</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-181</guid>
     </item>
     
@@ -58,7 +66,7 @@
         <title>.profile</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
         <description>Update README.md</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-180</guid>
     </item>
     
@@ -66,7 +74,7 @@
         <title>.profile</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
         <description>Update README.md</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-179</guid>
     </item>
     
@@ -74,7 +82,7 @@
         <title>.profile</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
         <description>base</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-178</guid>
     </item>
     
@@ -82,7 +90,7 @@
         <title>.profile</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
         <description>update</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-176</guid>
     </item>
     
@@ -90,7 +98,7 @@
         <title>.profile</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
         <description>No Message</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-175</guid>
     </item>
     
@@ -98,7 +106,7 @@
         <title>calendar</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
         <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-167</guid>
     </item>
     
@@ -106,7 +114,7 @@
         <title>calendar</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
         <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-166</guid>
     </item>
     
@@ -114,7 +122,7 @@
         <title>calendar</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
         <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-164</guid>
     </item>
     
@@ -122,7 +130,7 @@
         <title>emby-tui</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/emby-tui</link>
         <description>Delete gitea_activity2.rss</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/emby-tui-163</guid>
     </item>
     
@@ -130,7 +138,7 @@
         <title>emby-tui</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/emby-tui</link>
         <description>Add gitea_activity2.rss</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/emby-tui-162</guid>
     </item>
     
@@ -138,7 +146,7 @@
         <title>calendar</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
         <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-161</guid>
     </item>
     
@@ -146,7 +154,7 @@
         <title>calendar</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
         <description>Update gitea_activity.xml Sonarr.ics Radarr.ics emby.ics weather.png</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-160</guid>
     </item>
     
@@ -154,7 +162,7 @@
         <title>calendar</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
         <description>Update gitea_activity.xml Sonarr.ics Radarr.ics emby.ics weather.png</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-159</guid>
     </item>
     
@@ -162,7 +170,7 @@
         <title>calendar</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
         <description>Update gitea_activity.xml Sonarr.ics Radarr.ics emby.ics weather.png</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-158</guid>
     </item>
     
@@ -170,7 +178,7 @@
         <title>calendar</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
         <description>Update gitea_activity.xml Sonarr.ics Radarr.ics emby.ics weather.png</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-157</guid>
     </item>
     
@@ -178,7 +186,7 @@
         <title>calendar</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
         <description>Update gitea_activity.xml Sonarr.ics Radarr.ics emby.ics weather.png</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-156</guid>
     </item>
     
@@ -186,7 +194,7 @@
         <title>calendar</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
         <description>Update gitea_activity.xml Sonarr.ics Radarr.ics emby.ics weather.png</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-155</guid>
     </item>
     
@@ -194,7 +202,7 @@
         <title>calendar</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
         <description>Update gitea_activity.xml Sonarr.ics Radarr.ics emby.ics weather.png</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-154</guid>
     </item>
     
@@ -202,7 +210,7 @@
         <title>calendar</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
         <description>Update gitea_activity.xml Sonarr.ics Radarr.ics emby.ics weather.png</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-153</guid>
     </item>
     
@@ -210,7 +218,7 @@
         <title>calendar</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
         <description>Update gitea_activity.xml Sonarr.ics Radarr.ics emby.ics weather.png</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-152</guid>
     </item>
     
@@ -218,7 +226,7 @@
         <title>calendar</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
         <description>Update Sonarr.ics Radarr.ics emby.ics weather.png</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-147</guid>
     </item>
     
@@ -226,7 +234,7 @@
         <title>calendar</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
         <description>Update Sonarr.ics Radarr.ics emby.ics weather.png</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-144</guid>
     </item>
     
@@ -234,16 +242,8 @@
         <title>fyodor</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/fyodor</link>
         <description>No Message</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
+        <pubDate>Sat, 23 Aug 2025 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/fyodor-86</guid>
-    </item>
-    
-    <item>
-        <title>emby-tui</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/emby-tui</link>
-        <description>Delete test</description>
-        <pubDate>Fri, 22 Aug 2025 04:00:06 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/emby-tui-85</guid>
     </item>
     
 </channel>
