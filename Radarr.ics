@@ -3,4 +3,18 @@ NAME:Radarr Movies Calendar
 PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
+BEGIN:VEVENT
+CATEGORIES:Tea Shop Productions
+DESCRIPTION:A retired boxer intends to return to the ring for one last sho
+ t at the title\, but first he must make the weight. Holed up in a room in
+  Las Vegas with an unscrupulous trainer\, he embarks on an intensive and 
+ illegal weight-cutting program.
+DTEND;VALUE=DATE:20250905
+DTSTAMP:20250825T040027Z
+DTSTART;VALUE=DATE:20250904
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Cut (Theatrical Release)
+UID:Radarr_movie_2875_cinemas
+END:VEVENT
 END:VCALENDAR
