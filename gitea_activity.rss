@@ -1,219 +1,250 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
-  <channel>
-    <title>mattyj513 Gitea Activity</title>
-    <link>https://blacklungindustries.ddns.net/gitea/mattyj513</link>
-    <description>Activity feed from Gitea user mattyj513</description>
-    <lastBuildDate>Tue, 02 Sep 2025 21:31:51 GMT</lastBuildDate>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Mattyj513 Gitea Activities</title>
+    <link>https://blacklungindustries.ddns.net/gitea</link>
+    <description>RSS feed of activities for user mattyj513</description>
+    <atom:link href="https://blacklungindustries.ddns.net/gitea/api/v1/users/mattyj513/activities/feeds" rel="self" type="application/rss+xml" />
+    
     <item>
-      <title>Unknown User mirror_sync_push</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-296</guid>
-      <pubDate>Tue, 02 Sep 2025 21:22:10 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; mirror_sync_push&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/calendar'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/calendar&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Tue, 02 Sep 2025 21:22:10 +0000&lt;br/&gt;&lt;br/&gt;Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
+        <title>calendar</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
+        <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
+        <pubDate>Tue, 02 Sep 2025 21:22:10 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-296</guid>
     </item>
+    
     <item>
-      <title>Unknown User mirror_sync_push</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-295</guid>
-      <pubDate>Tue, 02 Sep 2025 21:14:41 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; mirror_sync_push&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/calendar'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/calendar&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Tue, 02 Sep 2025 21:14:41 +0000&lt;br/&gt;&lt;br/&gt;Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
+        <title>calendar</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
+        <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
+        <pubDate>Tue, 02 Sep 2025 21:14:41 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-295</guid>
     </item>
+    
     <item>
-      <title>Unknown User mirror_sync_push</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-294</guid>
-      <pubDate>Tue, 02 Sep 2025 04:00:22 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; mirror_sync_push&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/calendar'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/calendar&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Tue, 02 Sep 2025 04:00:22 +0000&lt;br/&gt;&lt;br/&gt;Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
+        <title>calendar</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
+        <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
+        <pubDate>Tue, 02 Sep 2025 04:00:22 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-294</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-293</guid>
-      <pubDate>Tue, 02 Sep 2025 04:00:17 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/.profile'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/.profile&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Tue, 02 Sep 2025 04:00:17 +0000&lt;br/&gt;&lt;br/&gt;daily update</description>
+        <title>.profile</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
+        <description>daily update</description>
+        <pubDate>Tue, 02 Sep 2025 04:00:17 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-293</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx-291</guid>
-      <pubDate>Tue, 02 Sep 2025 04:00:10 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Tue, 02 Sep 2025 04:00:10 +0000&lt;br/&gt;&lt;br/&gt;update</description>
+        <title>bash-hx</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx</link>
+        <description>update</description>
+        <pubDate>Tue, 02 Sep 2025 04:00:10 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx-291</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/webdav</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/webdav-292</guid>
-      <pubDate>Tue, 02 Sep 2025 04:00:10 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/webdav'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/webdav&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Tue, 02 Sep 2025 04:00:10 +0000&lt;br/&gt;&lt;br/&gt;update</description>
+        <title>webdav</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/webdav</link>
+        <description>update</description>
+        <pubDate>Tue, 02 Sep 2025 04:00:10 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/webdav-292</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data-290</guid>
-      <pubDate>Mon, 01 Sep 2025 23:16:42 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Mon, 01 Sep 2025 23:16:42 +0000&lt;br/&gt;&lt;br/&gt;daily update</description>
+        <title>mattflix-data</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data</link>
+        <description>daily update</description>
+        <pubDate>Mon, 01 Sep 2025 23:16:42 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data-290</guid>
     </item>
+    
     <item>
-      <title>Unknown User mirror_sync_push</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-289</guid>
-      <pubDate>Mon, 01 Sep 2025 04:00:29 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; mirror_sync_push&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/calendar'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/calendar&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Mon, 01 Sep 2025 04:00:29 +0000&lt;br/&gt;&lt;br/&gt;Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
+        <title>calendar</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
+        <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
+        <pubDate>Mon, 01 Sep 2025 04:00:29 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-289</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-288</guid>
-      <pubDate>Mon, 01 Sep 2025 04:00:15 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/.profile'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/.profile&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Mon, 01 Sep 2025 04:00:15 +0000&lt;br/&gt;&lt;br/&gt;daily update</description>
+        <title>.profile</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
+        <description>daily update</description>
+        <pubDate>Mon, 01 Sep 2025 04:00:15 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-288</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx-287</guid>
-      <pubDate>Mon, 01 Sep 2025 04:00:13 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Mon, 01 Sep 2025 04:00:13 +0000&lt;br/&gt;&lt;br/&gt;update</description>
+        <title>bash-hx</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx</link>
+        <description>update</description>
+        <pubDate>Mon, 01 Sep 2025 04:00:13 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx-287</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/webdav</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/webdav-286</guid>
-      <pubDate>Mon, 01 Sep 2025 04:00:08 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/webdav'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/webdav&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Mon, 01 Sep 2025 04:00:08 +0000&lt;br/&gt;&lt;br/&gt;update</description>
+        <title>webdav</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/webdav</link>
+        <description>update</description>
+        <pubDate>Mon, 01 Sep 2025 04:00:08 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/webdav-286</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data-285</guid>
-      <pubDate>Mon, 01 Sep 2025 01:23:43 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Mon, 01 Sep 2025 01:23:43 +0000&lt;br/&gt;&lt;br/&gt;update</description>
+        <title>mattflix-data</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data</link>
+        <description>update</description>
+        <pubDate>Mon, 01 Sep 2025 01:23:43 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data-285</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/Scripts</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/Scripts-284</guid>
-      <pubDate>Sun, 31 Aug 2025 21:15:36 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/Scripts'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/Scripts&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Sun, 31 Aug 2025 21:15:36 +0000&lt;br/&gt;&lt;br/&gt;update</description>
+        <title>Scripts</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/Scripts</link>
+        <description>update</description>
+        <pubDate>Sun, 31 Aug 2025 21:15:36 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/Scripts-284</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-283</guid>
-      <pubDate>Sun, 31 Aug 2025 20:59:56 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/.profile'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/.profile&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Sun, 31 Aug 2025 20:59:56 +0000&lt;br/&gt;&lt;br/&gt;Update README.md</description>
+        <title>.profile</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
+        <description>Update README.md</description>
+        <pubDate>Sun, 31 Aug 2025 20:59:56 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-283</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-282</guid>
-      <pubDate>Sun, 31 Aug 2025 06:08:13 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/.profile'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/.profile&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Sun, 31 Aug 2025 06:08:13 +0000&lt;br/&gt;&lt;br/&gt;Update README.md</description>
+        <title>.profile</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
+        <description>Update README.md</description>
+        <pubDate>Sun, 31 Aug 2025 06:08:13 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-282</guid>
     </item>
+    
     <item>
-      <title>Unknown User mirror_sync_push</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-281</guid>
-      <pubDate>Sun, 31 Aug 2025 04:00:37 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; mirror_sync_push&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/calendar'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/calendar&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Sun, 31 Aug 2025 04:00:37 +0000&lt;br/&gt;&lt;br/&gt;Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
+        <title>calendar</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
+        <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
+        <pubDate>Sun, 31 Aug 2025 04:00:37 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-281</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-280</guid>
-      <pubDate>Sun, 31 Aug 2025 04:00:23 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/.profile'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/.profile&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Sun, 31 Aug 2025 04:00:23 +0000&lt;br/&gt;&lt;br/&gt;daily update</description>
+        <title>.profile</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
+        <description>daily update</description>
+        <pubDate>Sun, 31 Aug 2025 04:00:23 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-280</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx-279</guid>
-      <pubDate>Sun, 31 Aug 2025 04:00:14 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Sun, 31 Aug 2025 04:00:14 +0000&lt;br/&gt;&lt;br/&gt;update</description>
+        <title>bash-hx</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx</link>
+        <description>update</description>
+        <pubDate>Sun, 31 Aug 2025 04:00:14 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx-279</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/webdav</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/webdav-278</guid>
-      <pubDate>Sun, 31 Aug 2025 04:00:11 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/webdav'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/webdav&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Sun, 31 Aug 2025 04:00:11 +0000&lt;br/&gt;&lt;br/&gt;update</description>
+        <title>webdav</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/webdav</link>
+        <description>update</description>
+        <pubDate>Sun, 31 Aug 2025 04:00:11 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/webdav-278</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data-277</guid>
-      <pubDate>Sun, 31 Aug 2025 03:04:30 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Sun, 31 Aug 2025 03:04:30 +0000&lt;br/&gt;&lt;br/&gt;daily update</description>
+        <title>mattflix-data</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data</link>
+        <description>daily update</description>
+        <pubDate>Sun, 31 Aug 2025 03:04:30 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data-277</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-276</guid>
-      <pubDate>Sun, 31 Aug 2025 00:11:13 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/.profile'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/.profile&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Sun, 31 Aug 2025 00:11:13 +0000&lt;br/&gt;&lt;br/&gt;Update README.md</description>
+        <title>.profile</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
+        <description>Update README.md</description>
+        <pubDate>Sun, 31 Aug 2025 00:11:13 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-276</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-275</guid>
-      <pubDate>Sun, 31 Aug 2025 00:08:40 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/.profile'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/.profile&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Sun, 31 Aug 2025 00:08:40 +0000&lt;br/&gt;&lt;br/&gt;Update README.md</description>
+        <title>.profile</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
+        <description>Update README.md</description>
+        <pubDate>Sun, 31 Aug 2025 00:08:40 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-275</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public-274</guid>
-      <pubDate>Sun, 31 Aug 2025 00:08:22 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Sun, 31 Aug 2025 00:08:22 +0000&lt;br/&gt;&lt;br/&gt;Upload files to \</description>
+        <title>mattflix-public</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public</link>
+        <description>Upload files to \</description>
+        <pubDate>Sun, 31 Aug 2025 00:08:22 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public-274</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/docker-master</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/docker-master-273</guid>
-      <pubDate>Sat, 30 Aug 2025 22:28:46 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/docker-master'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/docker-master&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Sat, 30 Aug 2025 22:28:46 +0000&lt;br/&gt;&lt;br/&gt;update</description>
+        <title>docker-master</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/docker-master</link>
+        <description>update</description>
+        <pubDate>Sat, 30 Aug 2025 22:28:46 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/docker-master-273</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-272</guid>
-      <pubDate>Sat, 30 Aug 2025 04:00:23 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/.profile'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/.profile&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Sat, 30 Aug 2025 04:00:23 +0000&lt;br/&gt;&lt;br/&gt;daily update</description>
+        <title>.profile</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
+        <description>daily update</description>
+        <pubDate>Sat, 30 Aug 2025 04:00:23 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-272</guid>
     </item>
+    
     <item>
-      <title>Unknown User mirror_sync_push</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-271</guid>
-      <pubDate>Sat, 30 Aug 2025 04:00:20 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; mirror_sync_push&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/calendar'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/calendar&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Sat, 30 Aug 2025 04:00:20 +0000&lt;br/&gt;&lt;br/&gt;Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
+        <title>calendar</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
+        <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
+        <pubDate>Sat, 30 Aug 2025 04:00:20 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-271</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/webdav</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/webdav-269</guid>
-      <pubDate>Sat, 30 Aug 2025 04:00:10 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/webdav'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/webdav&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Sat, 30 Aug 2025 04:00:10 +0000&lt;br/&gt;&lt;br/&gt;update</description>
+        <title>webdav</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/webdav</link>
+        <description>update</description>
+        <pubDate>Sat, 30 Aug 2025 04:00:10 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/webdav-269</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx-270</guid>
-      <pubDate>Sat, 30 Aug 2025 04:00:10 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Sat, 30 Aug 2025 04:00:10 +0000&lt;br/&gt;&lt;br/&gt;update</description>
+        <title>bash-hx</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx</link>
+        <description>update</description>
+        <pubDate>Sat, 30 Aug 2025 04:00:10 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx-270</guid>
     </item>
+    
     <item>
-      <title>Unknown User commit_repo</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data-268</guid>
-      <pubDate>Sat, 30 Aug 2025 03:04:43 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; commit_repo&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Sat, 30 Aug 2025 03:04:43 +0000&lt;br/&gt;&lt;br/&gt;daily update</description>
+        <title>mattflix-data</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data</link>
+        <description>daily update</description>
+        <pubDate>Sat, 30 Aug 2025 03:04:43 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data-268</guid>
     </item>
+    
     <item>
-      <title>Unknown User mirror_sync_push</title>
-      <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
-      <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-267</guid>
-      <pubDate>Fri, 29 Aug 2025 04:00:35 +0000</pubDate>
-      <description>&lt;b&gt;User:&lt;/b&gt; Unknown User&lt;br/&gt;&lt;b&gt;Action:&lt;/b&gt; mirror_sync_push&lt;br/&gt;&lt;b&gt;Repo:&lt;/b&gt; &lt;a href='https://blacklungindustries.ddns.net/gitea/mattyj513/calendar'&gt;https://blacklungindustries.ddns.net/gitea/mattyj513/calendar&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Date:&lt;/b&gt; Fri, 29 Aug 2025 04:00:35 +0000&lt;br/&gt;&lt;br/&gt;Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
+        <title>calendar</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
+        <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
+        <pubDate>Fri, 29 Aug 2025 04:00:35 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-267</guid>
     </item>
-  </channel>
+    
+</channel>
 </rss>
