@@ -4,17 +4,95 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:New Line Cinema
+DESCRIPTION:When all but one child from the same class mysteriously vanish
+  on the same night at exactly the same time\, a community is left questio
+ ning who or what is behind their disappearance.
+DTEND;VALUE=DATE:20250807
+DTSTAMP:20250904T040012Z
+DTSTART;VALUE=DATE:20250806
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Weapons (Theatrical Release)
+UID:Radarr_movie_2873_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:New Line Cinema
+DESCRIPTION:When all but one child from the same class mysteriously vanish
+  on the same night at exactly the same time\, a community is left questio
+ ning who or what is behind their disappearance.
+DTEND;VALUE=DATE:20250910
+DTSTAMP:20250904T040012Z
+DTSTART;VALUE=DATE:20250909
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Weapons (Digital Release)
+UID:Radarr_movie_2873_digital
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Tea Shop Productions
 DESCRIPTION:A retired boxer intends to return to the ring for one last sho
  t at the title\, but first he must make the weight. Holed up in a room in
   Las Vegas with an unscrupulous trainer\, he embarks on an intensive and 
  illegal weight-cutting program.
 DTEND;VALUE=DATE:20250905
-DTSTAMP:20250903T040017Z
+DTSTAMP:20250904T040012Z
 DTSTART;VALUE=DATE:20250904
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Cut (Theatrical Release)
 UID:Radarr_movie_2875_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Warner Bros. Pictures
+DESCRIPTION:When their evil nemesis resurfaces after 16 years\, a band of 
+ ex-revolutionaries reunite to rescue the daughter of one of their own.
+DTEND;VALUE=DATE:20250925
+DTSTAMP:20250904T040012Z
+DTSTART;VALUE=DATE:20250924
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:One Battle After Another (Theatrical Release)
+UID:Radarr_movie_2878_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:A24
+DESCRIPTION:The story of legendary mixed martial arts and UFC fighter Mark
+  Kerr.
+DTEND;VALUE=DATE:20251003
+DTSTAMP:20250904T040012Z
+DTSTART;VALUE=DATE:20251002
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Smashing Machine (Theatrical Release)
+UID:Radarr_movie_2880_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CJ ENM Studios
+DESCRIPTION:After being laid off by his company\, a man devises a unique p
+ lan to secure a new job: eliminate his competition.
+DTEND;VALUE=DATE:20250925
+DTSTAMP:20250904T040012Z
+DTSTART;VALUE=DATE:20250924
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:No Other Choice (Theatrical Release)
+UID:Radarr_movie_2882_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Monkeypaw Productions
+DESCRIPTION:After suffering a potentially career-ending brain trauma\, Cam
+ eron Cade receives a lifeline when his hero\, legendary eight-time Champi
+ onship quarterback and cultural megastar Isaiah White\, offers to train C
+ am at Isaiah's isolated compound that he shares with his celebrity influe
+ ncer wife. But as Cam's training accelerates\, Isaiah's charisma begins t
+ o curdle into something darker.
+DTEND;VALUE=DATE:20250919
+DTSTAMP:20250904T040012Z
+DTSTART;VALUE=DATE:20250918
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:HIM (Theatrical Release)
+UID:Radarr_movie_2883_cinemas
 END:VEVENT
 END:VCALENDAR
