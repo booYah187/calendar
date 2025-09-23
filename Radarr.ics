@@ -8,7 +8,7 @@ CATEGORIES:Warner Bros. Pictures
 DESCRIPTION:When their evil nemesis resurfaces after 16 years\, a band of 
  ex-revolutionaries reunite to rescue the daughter of one of their own.
 DTEND;VALUE=DATE:20250924
-DTSTAMP:20250922T040016Z
+DTSTAMP:20250923T040016Z
 DTSTART;VALUE=DATE:20250923
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -21,7 +21,7 @@ DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20251009
-DTSTAMP:20250922T040016Z
+DTSTAMP:20250923T040016Z
 DTSTART;VALUE=DATE:20251008
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -33,7 +33,7 @@ CATEGORIES:A24
 DESCRIPTION:The story of legendary mixed martial arts and UFC fighter Mark
   Kerr.
 DTEND;VALUE=DATE:20251003
-DTSTAMP:20250922T040016Z
+DTSTAMP:20250923T040016Z
 DTSTART;VALUE=DATE:20251002
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -46,7 +46,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251018
-DTSTAMP:20250922T040016Z
+DTSTAMP:20250923T040016Z
 DTSTART;VALUE=DATE:20251017
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -59,7 +59,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251107
-DTSTAMP:20250922T040016Z
+DTSTAMP:20250923T040016Z
 DTSTART;VALUE=DATE:20251106
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -71,7 +71,7 @@ CATEGORIES:CJ ENM Studios
 DESCRIPTION:After being laid off by his company\, a man devises a unique p
  lan to secure a new job: eliminate his competition.
 DTEND;VALUE=DATE:20250925
-DTSTAMP:20250922T040016Z
+DTSTAMP:20250923T040016Z
 DTSTART;VALUE=DATE:20250924
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -87,7 +87,7 @@ DESCRIPTION:After suffering a potentially career-ending brain trauma\, Cam
  ncer wife. But as Cam's training accelerates\, Isaiah's charisma begins t
  o curdle into something darker.
 DTEND;VALUE=DATE:20250919
-DTSTAMP:20250922T040016Z
+DTSTAMP:20250923T040016Z
 DTSTART;VALUE=DATE:20250918
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -102,7 +102,7 @@ DESCRIPTION:A horrible toxic accident transforms terminally ill janitor Wi
  ve his son and stop a ruthless\, power-hungry tyrant bent on harnessing t
  oxic superpowers to strengthen his polluted empire.
 DTEND;VALUE=DATE:20250829
-DTSTAMP:20250922T040016Z
+DTSTAMP:20250923T040016Z
 DTSTART;VALUE=DATE:20250828
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -117,7 +117,7 @@ DESCRIPTION:A horrible toxic accident transforms terminally ill janitor Wi
  ve his son and stop a ruthless\, power-hungry tyrant bent on harnessing t
  oxic superpowers to strengthen his polluted empire.
 DTEND;VALUE=DATE:20251001
-DTSTAMP:20250922T040016Z
+DTSTAMP:20250923T040016Z
 DTSTART;VALUE=DATE:20250930
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -133,7 +133,7 @@ DESCRIPTION:Four years after escaping The Grabber\, Finney Blake\, now 17\
  mined to solve the mystery and confront a killer who has grown more power
  ful in death and far more significant to them than either can imagine.
 DTEND;VALUE=DATE:20251016
-DTSTAMP:20250922T040016Z
+DTSTAMP:20250923T040016Z
 DTSTART;VALUE=DATE:20251015
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -146,9 +146,9 @@ DESCRIPTION:A loyal dog moves to a rural family home with his owner Todd\,
   only to discover supernatural forces lurking in the shadows. As dark ent
  ities threaten his human companion\, the brave pup must fight to protect 
  the one he loves most.
-DTEND;VALUE=DATE:20251004
-DTSTAMP:20250922T040016Z
-DTSTART;VALUE=DATE:20251003
+DTEND;VALUE=DATE:20251002
+DTSTAMP:20250923T040016Z
+DTSTART;VALUE=DATE:20251001
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Good Boy (Theatrical Release)
@@ -156,14 +156,79 @@ UID:Radarr_movie_2892_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Lionsgate
-DESCRIPTION:When they learn that one of their victims\, Maya\, is still al
- ive\, they return to finish what they’ve started.
+DESCRIPTION:After learning that one of their victims\, Maya\, is still ali
+ ve\, the three masked maniacs return to finish the job. With nowhere to r
+ un and no one to trust\, Maya soon finds herself in a brutal fight for su
+ rvival against psychopaths who are more than willing to kill anyone who s
+ tands in their way.
 DTEND;VALUE=DATE:20250926
-DTSTAMP:20250922T040016Z
+DTSTAMP:20250923T040016Z
 DTSTART;VALUE=DATE:20250925
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Strangers: Chapter 2 (Theatrical Release)
 UID:Radarr_movie_2897_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Stampede Ventures
+DESCRIPTION:A widowed fisherwoman\, travelling alone through snowbound nor
+ thern Minnesota\, interrupts the kidnapping of a teenage girl. Hours from
+  the nearest town and with no phone service\, she realizes that she is th
+ e young girl's only hope.
+DTEND;VALUE=DATE:20250924
+DTSTAMP:20250923T040016Z
+DTSTART;VALUE=DATE:20250923
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Dead of Winter (Theatrical Release)
+UID:Radarr_movie_2900_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Film Bridge International
+DESCRIPTION:In the summer of 1859\, a widowed physician reluctantly agrees
+  to take a recently freed slave and her mysterious Caucasian daughter on 
+ a five-day journey through the bloody West to find a distant town's Faith
+  Healer. The woman believes her daughter is possessed. The doctor believe
+ s she simply carries The Sickness. Either way the fact remains that every
+  living thing the girl touches mysteriously dies.
+DTEND;VALUE=DATE:20251004
+DTSTAMP:20250923T040016Z
+DTSTART;VALUE=DATE:20251003
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Killing Faith (Theatrical Release)
+UID:Radarr_movie_2901_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Film Bridge International
+DESCRIPTION:In the summer of 1859\, a widowed physician reluctantly agrees
+  to take a recently freed slave and her mysterious Caucasian daughter on 
+ a five-day journey through the bloody West to find a distant town's Faith
+  Healer. The woman believes her daughter is possessed. The doctor believe
+ s she simply carries The Sickness. Either way the fact remains that every
+  living thing the girl touches mysteriously dies.
+DTEND;VALUE=DATE:20251004
+DTSTAMP:20250923T040016Z
+DTSTART;VALUE=DATE:20251003
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Killing Faith (Digital Release)
+UID:Radarr_movie_2901_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Film Bridge International
+DESCRIPTION:In the summer of 1859\, a widowed physician reluctantly agrees
+  to take a recently freed slave and her mysterious Caucasian daughter on 
+ a five-day journey through the bloody West to find a distant town's Faith
+  Healer. The woman believes her daughter is possessed. The doctor believe
+ s she simply carries The Sickness. Either way the fact remains that every
+  living thing the girl touches mysteriously dies.
+DTEND;VALUE=DATE:20251014
+DTSTAMP:20250923T040016Z
+DTSTART;VALUE=DATE:20251013
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Killing Faith (Physical Release)
+UID:Radarr_movie_2901_physical
 END:VEVENT
 END:VCALENDAR
