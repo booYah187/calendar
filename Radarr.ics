@@ -8,7 +8,7 @@ CATEGORIES:Warner Bros. Pictures
 DESCRIPTION:When their evil nemesis resurfaces after 16 years\, a band of 
  ex-revolutionaries reunite to rescue the daughter of one of their own.
 DTEND;VALUE=DATE:20250924
-DTSTAMP:20250924T040022Z
+DTSTAMP:20250925T040022Z
 DTSTART;VALUE=DATE:20250923
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,7 +24,7 @@ DESCRIPTION:Returning to the house where his family was brutally murdered
   finishing the job\, a relentless\, eye-popping cross-country chase ensue
  s – a fight to the death.
 DTEND;VALUE=DATE:20251023
-DTSTAMP:20250924T040022Z
+DTSTAMP:20250925T040022Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -37,7 +37,7 @@ DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20251009
-DTSTAMP:20250924T040022Z
+DTSTAMP:20250925T040022Z
 DTSTART;VALUE=DATE:20251008
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -49,7 +49,7 @@ CATEGORIES:A24
 DESCRIPTION:The story of legendary mixed martial arts and UFC fighter Mark
   Kerr.
 DTEND;VALUE=DATE:20251003
-DTSTAMP:20250924T040022Z
+DTSTAMP:20250925T040022Z
 DTSTART;VALUE=DATE:20251002
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -62,7 +62,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251018
-DTSTAMP:20250924T040022Z
+DTSTAMP:20250925T040022Z
 DTSTART;VALUE=DATE:20251017
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -75,7 +75,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251107
-DTSTAMP:20250924T040022Z
+DTSTAMP:20250925T040022Z
 DTSTART;VALUE=DATE:20251106
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -87,7 +87,7 @@ CATEGORIES:CJ ENM Studios
 DESCRIPTION:After being laid off by his company\, a man devises a unique p
  lan to secure a new job: eliminate his competition.
 DTEND;VALUE=DATE:20250925
-DTSTAMP:20250924T040022Z
+DTSTAMP:20250925T040022Z
 DTSTART;VALUE=DATE:20250924
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -103,7 +103,7 @@ DESCRIPTION:After suffering a potentially career-ending brain trauma\, Cam
  ncer wife. But as Cam's training accelerates\, Isaiah's charisma begins t
  o curdle into something darker.
 DTEND;VALUE=DATE:20250919
-DTSTAMP:20250924T040022Z
+DTSTAMP:20250925T040022Z
 DTSTART;VALUE=DATE:20250918
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -118,7 +118,7 @@ DESCRIPTION:A horrible toxic accident transforms terminally ill janitor Wi
  ve his son and stop a ruthless\, power-hungry tyrant bent on harnessing t
  oxic superpowers to strengthen his polluted empire.
 DTEND;VALUE=DATE:20250829
-DTSTAMP:20250924T040022Z
+DTSTAMP:20250925T040022Z
 DTSTART;VALUE=DATE:20250828
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -133,7 +133,7 @@ DESCRIPTION:A horrible toxic accident transforms terminally ill janitor Wi
  ve his son and stop a ruthless\, power-hungry tyrant bent on harnessing t
  oxic superpowers to strengthen his polluted empire.
 DTEND;VALUE=DATE:20251001
-DTSTAMP:20250924T040022Z
+DTSTAMP:20250925T040022Z
 DTSTART;VALUE=DATE:20250930
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -150,7 +150,7 @@ DESCRIPTION:Four years after escaping The Grabber\, Finney Blake is strugg
  as grown more powerful in death and more significant to them than either 
  could imagine.
 DTEND;VALUE=DATE:20251016
-DTSTAMP:20250924T040022Z
+DTSTAMP:20250925T040022Z
 DTSTART;VALUE=DATE:20251015
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -164,7 +164,7 @@ DESCRIPTION:A loyal dog moves to a rural family home with his owner Todd\,
  ities threaten his human companion\, the brave pup must fight to protect 
  the one he loves most.
 DTEND;VALUE=DATE:20251002
-DTSTAMP:20250924T040022Z
+DTSTAMP:20250925T040022Z
 DTSTART;VALUE=DATE:20251001
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -179,7 +179,7 @@ DESCRIPTION:After learning that one of their victims\, Maya\, is still ali
  rvival against psychopaths who are more than willing to kill anyone who s
  tands in their way.
 DTEND;VALUE=DATE:20250926
-DTSTAMP:20250924T040022Z
+DTSTAMP:20250925T040022Z
 DTSTART;VALUE=DATE:20250925
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -193,10 +193,10 @@ DESCRIPTION:A widowed fisherwoman\, travelling alone through snowbound nor
   the nearest town and with no phone service\, she realizes that she is th
  e young girl's only hope.
 DTEND;VALUE=DATE:20250924
-DTSTAMP:20250924T040022Z
+DTSTAMP:20250925T040022Z
 DTSTART;VALUE=DATE:20250923
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Dead of Winter (Theatrical Release)
 UID:Radarr_movie_2900_cinemas
 END:VEVENT
@@ -209,7 +209,7 @@ DESCRIPTION:In the summer of 1859\, a widowed physician reluctantly agrees
  s she simply carries The Sickness. Either way the fact remains that every
   living thing the girl touches mysteriously dies.
 DTEND;VALUE=DATE:20251004
-DTSTAMP:20250924T040022Z
+DTSTAMP:20250925T040022Z
 DTSTART;VALUE=DATE:20251003
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -225,7 +225,7 @@ DESCRIPTION:In the summer of 1859\, a widowed physician reluctantly agrees
  s she simply carries The Sickness. Either way the fact remains that every
   living thing the girl touches mysteriously dies.
 DTEND;VALUE=DATE:20251004
-DTSTAMP:20250924T040022Z
+DTSTAMP:20250925T040022Z
 DTSTART;VALUE=DATE:20251003
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -241,7 +241,7 @@ DESCRIPTION:In the summer of 1859\, a widowed physician reluctantly agrees
  s she simply carries The Sickness. Either way the fact remains that every
   living thing the girl touches mysteriously dies.
 DTEND;VALUE=DATE:20251014
-DTSTAMP:20250924T040022Z
+DTSTAMP:20250925T040022Z
 DTSTART;VALUE=DATE:20251013
 SEQUENCE:0
 STATUS:TENTATIVE
