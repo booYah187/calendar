@@ -4,19 +4,17 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
-CATEGORIES:Warner Bros. Pictures
-DESCRIPTION:Washed-up revolutionary Bob exists in a state of stoned parano
- ia\, surviving off-grid with his spirited\, self-reliant daughter\, Willa
- . When his evil nemesis resurfaces after 16 years and she goes missing\, 
- the former radical scrambles to find her\, father and daughter both battl
- ing the consequences of his past.
-DTEND;VALUE=DATE:20250924
-DTSTAMP:20250930T040018Z
-DTSTART;VALUE=DATE:20250923
+CATEGORIES:Element Pictures
+DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO 
+ of a major company\, convinced that she is an alien intent on destroying 
+ planet Earth.
+DTEND;VALUE=DATE:20251030
+DTSTAMP:20251001T040021Z
+DTSTART;VALUE=DATE:20251029
 SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:One Battle After Another (Theatrical Release)
-UID:Radarr_movie_2878_cinemas
+STATUS:TENTATIVE
+SUMMARY:Bugonia (Theatrical Release)
+UID:Radarr_movie_2879_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Cosmic Snowball
@@ -27,7 +25,7 @@ DESCRIPTION:Returning to the house where his family was brutally murdered
   finishing the job\, a relentless\, eye-popping cross-country chase ensue
  s – a fight to the death.
 DTEND;VALUE=DATE:20251023
-DTSTAMP:20250930T040018Z
+DTSTAMP:20251001T040021Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -40,7 +38,7 @@ DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20251009
-DTSTAMP:20250930T040018Z
+DTSTAMP:20251001T040021Z
 DTSTART;VALUE=DATE:20251008
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -51,9 +49,9 @@ BEGIN:VEVENT
 CATEGORIES:A24
 DESCRIPTION:The story of legendary mixed martial arts and UFC fighter Mark
   Kerr.
-DTEND;VALUE=DATE:20251003
-DTSTAMP:20250930T040018Z
-DTSTART;VALUE=DATE:20251002
+DTEND;VALUE=DATE:20251002
+DTSTAMP:20251001T040021Z
+DTSTART;VALUE=DATE:20251001
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Smashing Machine (Theatrical Release)
@@ -65,7 +63,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251018
-DTSTAMP:20250930T040018Z
+DTSTAMP:20251001T040021Z
 DTSTART;VALUE=DATE:20251017
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -78,7 +76,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251107
-DTSTAMP:20250930T040018Z
+DTSTAMP:20251001T040021Z
 DTSTART;VALUE=DATE:20251106
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -93,7 +91,7 @@ DESCRIPTION:Devoted family man and veteran paper mill manager You Man-su s
  ves to claw back dignity by any means necessary — a decision that sends h
  im down a path of violence where there's no turning back.
 DTEND;VALUE=DATE:20250925
-DTSTAMP:20250930T040018Z
+DTSTAMP:20251001T040021Z
 DTSTART;VALUE=DATE:20250924
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -107,7 +105,7 @@ DESCRIPTION:A group of disillusioned outsiders abandon modern society in s
  ir utopian dream quickly unravels as they discover that the greatest thre
  at isn’t the brutal climate or deadly wildlife\, but each other.
 DTEND;VALUE=DATE:20250404
-DTSTAMP:20250930T040018Z
+DTSTAMP:20251001T040021Z
 DTSTART;VALUE=DATE:20250403
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -121,7 +119,7 @@ DESCRIPTION:A group of disillusioned outsiders abandon modern society in s
  ir utopian dream quickly unravels as they discover that the greatest thre
  at isn’t the brutal climate or deadly wildlife\, but each other.
 DTEND;VALUE=DATE:20251025
-DTSTAMP:20250930T040018Z
+DTSTAMP:20251001T040021Z
 DTSTART;VALUE=DATE:20251024
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -135,7 +133,7 @@ DESCRIPTION:A group of disillusioned outsiders abandon modern society in s
  ir utopian dream quickly unravels as they discover that the greatest thre
  at isn’t the brutal climate or deadly wildlife\, but each other.
 DTEND;VALUE=DATE:20250808
-DTSTAMP:20250930T040018Z
+DTSTAMP:20251001T040021Z
 DTSTART;VALUE=DATE:20250807
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -151,7 +149,7 @@ DESCRIPTION:Four years after escaping The Grabber\, Finney Blake\, now 17\
  mined to solve the mystery and confront a killer who has grown more power
  ful in death and far more significant to them than either can imagine.
 DTEND;VALUE=DATE:20251016
-DTSTAMP:20250930T040018Z
+DTSTAMP:20251001T040021Z
 DTSTART;VALUE=DATE:20251015
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -165,7 +163,7 @@ DESCRIPTION:A loyal dog moves to a rural family home with his owner Todd\,
  ities threaten his human companion\, the brave pup must fight to protect 
  the one he loves most.
 DTEND;VALUE=DATE:20251002
-DTSTAMP:20250930T040018Z
+DTSTAMP:20251001T040021Z
 DTSTART;VALUE=DATE:20251001
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -179,7 +177,7 @@ DESCRIPTION:A loyal dog moves to a rural family home with his owner Todd\,
  ities threaten his human companion\, the brave pup must fight to protect 
  the one he loves most.
 DTEND;VALUE=DATE:20251101
-DTSTAMP:20250930T040018Z
+DTSTAMP:20251001T040021Z
 DTSTART;VALUE=DATE:20251031
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -191,26 +189,12 @@ CATEGORIES:Lionsgate
 DESCRIPTION:When The Strangers learn that one of their victims\, Maya\, is
   still alive\, they return to finish what they’ve started.
 DTEND;VALUE=DATE:20250926
-DTSTAMP:20250930T040018Z
+DTSTAMP:20251001T040021Z
 DTSTART;VALUE=DATE:20250925
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:The Strangers: Chapter 2 (Theatrical Release)
 UID:Radarr_movie_2897_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Stampede Ventures
-DESCRIPTION:A widowed fisherwoman\, travelling alone through snowbound nor
- thern Minnesota\, interrupts the kidnapping of a teenage girl. Hours from
-  the nearest town and with no phone service\, she realizes that she is th
- e young girl's only hope.
-DTEND;VALUE=DATE:20250924
-DTSTAMP:20250930T040018Z
-DTSTART;VALUE=DATE:20250923
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Dead of Winter (Theatrical Release)
-UID:Radarr_movie_2900_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Film Bridge International
@@ -221,7 +205,7 @@ DESCRIPTION:In the summer of 1859\, a widowed physician reluctantly agrees
  s she simply carries The Sickness. Either way the fact remains that every
   living thing the girl touches mysteriously dies.
 DTEND;VALUE=DATE:20251004
-DTSTAMP:20250930T040018Z
+DTSTAMP:20251001T040021Z
 DTSTART;VALUE=DATE:20251003
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -237,7 +221,7 @@ DESCRIPTION:In the summer of 1859\, a widowed physician reluctantly agrees
  s she simply carries The Sickness. Either way the fact remains that every
   living thing the girl touches mysteriously dies.
 DTEND;VALUE=DATE:20251004
-DTSTAMP:20250930T040018Z
+DTSTAMP:20251001T040021Z
 DTSTART;VALUE=DATE:20251003
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -253,7 +237,7 @@ DESCRIPTION:In the summer of 1859\, a widowed physician reluctantly agrees
  s she simply carries The Sickness. Either way the fact remains that every
   living thing the girl touches mysteriously dies.
 DTEND;VALUE=DATE:20251014
-DTSTAMP:20250930T040018Z
+DTSTAMP:20251001T040021Z
 DTSTART;VALUE=DATE:20251013
 SEQUENCE:0
 STATUS:TENTATIVE
