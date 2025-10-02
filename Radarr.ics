@@ -8,9 +8,9 @@ CATEGORIES:Element Pictures
 DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO 
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
-DTEND;VALUE=DATE:20251030
-DTSTAMP:20251001T040021Z
-DTSTART;VALUE=DATE:20251029
+DTEND;VALUE=DATE:20251024
+DTSTAMP:20251002T040015Z
+DTSTART;VALUE=DATE:20251023
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Bugonia (Theatrical Release)
@@ -25,7 +25,7 @@ DESCRIPTION:Returning to the house where his family was brutally murdered
   finishing the job\, a relentless\, eye-popping cross-country chase ensue
  s – a fight to the death.
 DTEND;VALUE=DATE:20251023
-DTSTAMP:20251001T040021Z
+DTSTAMP:20251002T040015Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -38,7 +38,7 @@ DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20251009
-DTSTAMP:20251001T040021Z
+DTSTAMP:20251002T040015Z
 DTSTART;VALUE=DATE:20251008
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -50,10 +50,10 @@ CATEGORIES:A24
 DESCRIPTION:The story of legendary mixed martial arts and UFC fighter Mark
   Kerr.
 DTEND;VALUE=DATE:20251002
-DTSTAMP:20251001T040021Z
+DTSTAMP:20251002T040015Z
 DTSTART;VALUE=DATE:20251001
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Smashing Machine (Theatrical Release)
 UID:Radarr_movie_2880_cinemas
 END:VEVENT
@@ -63,7 +63,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251018
-DTSTAMP:20251001T040021Z
+DTSTAMP:20251002T040015Z
 DTSTART;VALUE=DATE:20251017
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -76,7 +76,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251107
-DTSTAMP:20251001T040021Z
+DTSTAMP:20251002T040015Z
 DTSTART;VALUE=DATE:20251106
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -84,19 +84,46 @@ SUMMARY:Frankenstein (Digital Release)
 UID:Radarr_movie_2881_digital
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:CJ ENM Studios
-DESCRIPTION:Devoted family man and veteran paper mill manager You Man-su s
- pirals after being laid off and discarded by a ruthless job market. Humil
- iated by failed interviews and mocked by corporate gatekeepers\, he resol
- ves to claw back dignity by any means necessary — a decision that sends h
- im down a path of violence where there's no turning back.
-DTEND;VALUE=DATE:20250925
-DTSTAMP:20251001T040021Z
-DTSTART;VALUE=DATE:20250924
+CATEGORIES:Protozoa Pictures
+DESCRIPTION:Burned-out ex-baseball player Hank Thompson unexpectedly finds
+  himself embroiled in a dangerous struggle for survival amidst the crimin
+ al underbelly of late 1990s New York City\, forced to navigate a treacher
+ ous underworld he never imagined.
+DTEND;VALUE=DATE:20250828
+DTSTAMP:20251002T040015Z
+DTSTART;VALUE=DATE:20250827
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:No Other Choice (Theatrical Release)
-UID:Radarr_movie_2882_cinemas
+SUMMARY:Caught Stealing (Theatrical Release)
+UID:Radarr_movie_2885_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Protozoa Pictures
+DESCRIPTION:Burned-out ex-baseball player Hank Thompson unexpectedly finds
+  himself embroiled in a dangerous struggle for survival amidst the crimin
+ al underbelly of late 1990s New York City\, forced to navigate a treacher
+ ous underworld he never imagined.
+DTEND;VALUE=DATE:20250930
+DTSTAMP:20251002T040015Z
+DTSTART;VALUE=DATE:20250929
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Caught Stealing (Digital Release)
+UID:Radarr_movie_2885_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Protozoa Pictures
+DESCRIPTION:Burned-out ex-baseball player Hank Thompson unexpectedly finds
+  himself embroiled in a dangerous struggle for survival amidst the crimin
+ al underbelly of late 1990s New York City\, forced to navigate a treacher
+ ous underworld he never imagined.
+DTEND;VALUE=DATE:20251112
+DTSTAMP:20251002T040015Z
+DTSTART;VALUE=DATE:20251111
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Caught Stealing (Physical Release)
+UID:Radarr_movie_2885_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Imagine Entertainment
@@ -105,7 +132,7 @@ DESCRIPTION:A group of disillusioned outsiders abandon modern society in s
  ir utopian dream quickly unravels as they discover that the greatest thre
  at isn’t the brutal climate or deadly wildlife\, but each other.
 DTEND;VALUE=DATE:20250404
-DTSTAMP:20251001T040021Z
+DTSTAMP:20251002T040015Z
 DTSTART;VALUE=DATE:20250403
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -119,7 +146,7 @@ DESCRIPTION:A group of disillusioned outsiders abandon modern society in s
  ir utopian dream quickly unravels as they discover that the greatest thre
  at isn’t the brutal climate or deadly wildlife\, but each other.
 DTEND;VALUE=DATE:20251025
-DTSTAMP:20251001T040021Z
+DTSTAMP:20251002T040015Z
 DTSTART;VALUE=DATE:20251024
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -133,7 +160,7 @@ DESCRIPTION:A group of disillusioned outsiders abandon modern society in s
  ir utopian dream quickly unravels as they discover that the greatest thre
  at isn’t the brutal climate or deadly wildlife\, but each other.
 DTEND;VALUE=DATE:20250808
-DTSTAMP:20251001T040021Z
+DTSTAMP:20251002T040015Z
 DTSTART;VALUE=DATE:20250807
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -149,7 +176,7 @@ DESCRIPTION:Four years after escaping The Grabber\, Finney Blake\, now 17\
  mined to solve the mystery and confront a killer who has grown more power
  ful in death and far more significant to them than either can imagine.
 DTEND;VALUE=DATE:20251016
-DTSTAMP:20251001T040021Z
+DTSTAMP:20251002T040015Z
 DTSTART;VALUE=DATE:20251015
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -163,10 +190,10 @@ DESCRIPTION:A loyal dog moves to a rural family home with his owner Todd\,
  ities threaten his human companion\, the brave pup must fight to protect 
  the one he loves most.
 DTEND;VALUE=DATE:20251002
-DTSTAMP:20251001T040021Z
+DTSTAMP:20251002T040015Z
 DTSTART;VALUE=DATE:20251001
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Good Boy (Theatrical Release)
 UID:Radarr_movie_2892_cinemas
 END:VEVENT
@@ -177,10 +204,10 @@ DESCRIPTION:A loyal dog moves to a rural family home with his owner Todd\,
  ities threaten his human companion\, the brave pup must fight to protect 
  the one he loves most.
 DTEND;VALUE=DATE:20251101
-DTSTAMP:20251001T040021Z
+DTSTAMP:20251002T040015Z
 DTSTART;VALUE=DATE:20251031
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Good Boy (Digital Release)
 UID:Radarr_movie_2892_digital
 END:VEVENT
@@ -189,7 +216,7 @@ CATEGORIES:Lionsgate
 DESCRIPTION:When The Strangers learn that one of their victims\, Maya\, is
   still alive\, they return to finish what they’ve started.
 DTEND;VALUE=DATE:20250926
-DTSTAMP:20251001T040021Z
+DTSTAMP:20251002T040015Z
 DTSTART;VALUE=DATE:20250925
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -205,7 +232,7 @@ DESCRIPTION:In the summer of 1859\, a widowed physician reluctantly agrees
  s she simply carries The Sickness. Either way the fact remains that every
   living thing the girl touches mysteriously dies.
 DTEND;VALUE=DATE:20251004
-DTSTAMP:20251001T040021Z
+DTSTAMP:20251002T040015Z
 DTSTART;VALUE=DATE:20251003
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -221,7 +248,7 @@ DESCRIPTION:In the summer of 1859\, a widowed physician reluctantly agrees
  s she simply carries The Sickness. Either way the fact remains that every
   living thing the girl touches mysteriously dies.
 DTEND;VALUE=DATE:20251004
-DTSTAMP:20251001T040021Z
+DTSTAMP:20251002T040015Z
 DTSTART;VALUE=DATE:20251003
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -237,7 +264,7 @@ DESCRIPTION:In the summer of 1859\, a widowed physician reluctantly agrees
  s she simply carries The Sickness. Either way the fact remains that every
   living thing the girl touches mysteriously dies.
 DTEND;VALUE=DATE:20251014
-DTSTAMP:20251001T040021Z
+DTSTAMP:20251002T040015Z
 DTSTART;VALUE=DATE:20251013
 SEQUENCE:0
 STATUS:TENTATIVE
