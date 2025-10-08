@@ -9,7 +9,7 @@ DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
 DTEND;VALUE=DATE:20251024
-DTSTAMP:20251007T040016Z
+DTSTAMP:20251008T040033Z
 DTSTART;VALUE=DATE:20251023
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -25,7 +25,7 @@ DESCRIPTION:Returning to the house where his family was brutally murdered
   finishing the job\, a relentless\, eye-popping cross-country chase ensue
  s – a fight to the death.
 DTEND;VALUE=DATE:20251023
-DTSTAMP:20251007T040016Z
+DTSTAMP:20251008T040033Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -38,19 +38,21 @@ DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20251009
-DTSTAMP:20251007T040016Z
+DTSTAMP:20251008T040033Z
 DTSTART;VALUE=DATE:20251008
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:TRON: Ares (Theatrical Release)
 UID:Radarr_movie_1241_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:A24
-DESCRIPTION:The story of legendary mixed martial arts and UFC fighter Mark
-  Kerr.
+DESCRIPTION:In the late 1990s\, up-and-coming mixed martial artist Mark Ke
+ rr aspires to become the greatest fighter in the world. However\, he must
+  also battle his opiod dependence and a volatile relationship with his gi
+ rlfriend Dawn.
 DTEND;VALUE=DATE:20251002
-DTSTAMP:20251007T040016Z
+DTSTAMP:20251008T040033Z
 DTSTART;VALUE=DATE:20251001
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -63,7 +65,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251023
-DTSTAMP:20251007T040016Z
+DTSTAMP:20251008T040033Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -76,12 +78,44 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251107
-DTSTAMP:20251007T040016Z
+DTSTAMP:20251008T040033Z
 DTSTART;VALUE=DATE:20251106
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Frankenstein (Digital Release)
 UID:Radarr_movie_2881_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Monkeypaw Productions
+DESCRIPTION:After suffering a potentially career-ending brain trauma\, Cam
+ eron Cade receives a lifeline when his hero\, legendary eight-time Champi
+ onship quarterback and cultural megastar Isaiah White\, offers to train C
+ am at Isaiah's isolated compound that he shares with his celebrity influe
+ ncer wife. But as Cam's training accelerates\, Isaiah's charisma begins t
+ o curdle into something darker.
+DTEND;VALUE=DATE:20250919
+DTSTAMP:20251008T040033Z
+DTSTART;VALUE=DATE:20250918
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HIM (Theatrical Release)
+UID:Radarr_movie_2883_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Monkeypaw Productions
+DESCRIPTION:After suffering a potentially career-ending brain trauma\, Cam
+ eron Cade receives a lifeline when his hero\, legendary eight-time Champi
+ onship quarterback and cultural megastar Isaiah White\, offers to train C
+ am at Isaiah's isolated compound that he shares with his celebrity influe
+ ncer wife. But as Cam's training accelerates\, Isaiah's charisma begins t
+ o curdle into something darker.
+DTEND;VALUE=DATE:20251007
+DTSTAMP:20251008T040033Z
+DTSTART;VALUE=DATE:20251006
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HIM (Digital Release)
+UID:Radarr_movie_2883_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Imagine Entertainment
@@ -90,7 +124,7 @@ DESCRIPTION:A group of disillusioned outsiders abandon modern society in s
  ir utopian dream quickly unravels as they discover that the greatest thre
  at isn’t the brutal climate or deadly wildlife\, but each other.
 DTEND;VALUE=DATE:20250404
-DTSTAMP:20251007T040016Z
+DTSTAMP:20251008T040033Z
 DTSTART;VALUE=DATE:20250403
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -104,7 +138,7 @@ DESCRIPTION:A group of disillusioned outsiders abandon modern society in s
  ir utopian dream quickly unravels as they discover that the greatest thre
  at isn’t the brutal climate or deadly wildlife\, but each other.
 DTEND;VALUE=DATE:20251025
-DTSTAMP:20251007T040016Z
+DTSTAMP:20251008T040033Z
 DTSTART;VALUE=DATE:20251024
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -118,7 +152,7 @@ DESCRIPTION:A group of disillusioned outsiders abandon modern society in s
  ir utopian dream quickly unravels as they discover that the greatest thre
  at isn’t the brutal climate or deadly wildlife\, but each other.
 DTEND;VALUE=DATE:20250808
-DTSTAMP:20251007T040016Z
+DTSTAMP:20251008T040033Z
 DTSTART;VALUE=DATE:20250807
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -131,7 +165,7 @@ DESCRIPTION:With her life crashing down around her\, Linda attempts to nav
  igate her child's mysterious illness\, her absent husband\, a missing per
  son\, and an increasingly hostile relationship with her therapist.
 DTEND;VALUE=DATE:20251025
-DTSTAMP:20251007T040016Z
+DTSTAMP:20251008T040033Z
 DTSTART;VALUE=DATE:20251024
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -143,7 +177,7 @@ CATEGORIES:New Line Cinema
 DESCRIPTION:Paranormal investigators Ed and Lorraine Warren take on one la
  st terrifying case involving mysterious entities they must confront.
 DTEND;VALUE=DATE:20250904
-DTSTAMP:20251007T040016Z
+DTSTAMP:20251008T040033Z
 DTSTART;VALUE=DATE:20250903
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -154,9 +188,9 @@ BEGIN:VEVENT
 CATEGORIES:New Line Cinema
 DESCRIPTION:Paranormal investigators Ed and Lorraine Warren take on one la
  st terrifying case involving mysterious entities they must confront.
-DTEND;VALUE=DATE:20251008
-DTSTAMP:20251007T040016Z
-DTSTART;VALUE=DATE:20251007
+DTEND;VALUE=DATE:20251007
+DTSTAMP:20251008T040033Z
+DTSTART;VALUE=DATE:20251006
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:The Conjuring: Last Rites (Digital Release)
@@ -169,7 +203,7 @@ DESCRIPTION:In a dystopian\, alternate-America ruled by a totalitarian reg
  ed to maintain a minimum pace or be executed\, until only one survivor re
  mains.
 DTEND;VALUE=DATE:20250911
-DTSTAMP:20251007T040016Z
+DTSTAMP:20251008T040033Z
 DTSTART;VALUE=DATE:20250910
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -183,7 +217,7 @@ DESCRIPTION:In a dystopian\, alternate-America ruled by a totalitarian reg
  ed to maintain a minimum pace or be executed\, until only one survivor re
  mains.
 DTEND;VALUE=DATE:20251022
-DTSTAMP:20251007T040016Z
+DTSTAMP:20251008T040033Z
 DTSTART;VALUE=DATE:20251021
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -199,7 +233,7 @@ DESCRIPTION:Four years after escaping The Grabber\, Finney Blake\, now 17\
  mined to solve the mystery and confront a killer who has grown more power
  ful in death and far more significant to them than either can imagine.
 DTEND;VALUE=DATE:20251016
-DTSTAMP:20251007T040016Z
+DTSTAMP:20251008T040033Z
 DTSTART;VALUE=DATE:20251015
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -213,7 +247,7 @@ DESCRIPTION:A loyal dog moves to a rural family home with his owner Todd\,
  ities threaten his human companion\, the brave pup must fight to protect 
  the one he loves most.
 DTEND;VALUE=DATE:20251002
-DTSTAMP:20251007T040016Z
+DTSTAMP:20251008T040033Z
 DTSTART;VALUE=DATE:20251001
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -227,7 +261,7 @@ DESCRIPTION:A loyal dog moves to a rural family home with his owner Todd\,
  ities threaten his human companion\, the brave pup must fight to protect 
  the one he loves most.
 DTEND;VALUE=DATE:20251101
-DTSTAMP:20251007T040016Z
+DTSTAMP:20251008T040033Z
 DTSTART;VALUE=DATE:20251031
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -243,7 +277,7 @@ DESCRIPTION:In the summer of 1859\, a widowed physician reluctantly agrees
  s she simply carries The Sickness. Either way the fact remains that every
   living thing the girl touches mysteriously dies.
 DTEND;VALUE=DATE:20251004
-DTSTAMP:20251007T040016Z
+DTSTAMP:20251008T040033Z
 DTSTART;VALUE=DATE:20251003
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -259,7 +293,7 @@ DESCRIPTION:In the summer of 1859\, a widowed physician reluctantly agrees
  s she simply carries The Sickness. Either way the fact remains that every
   living thing the girl touches mysteriously dies.
 DTEND;VALUE=DATE:20251004
-DTSTAMP:20251007T040016Z
+DTSTAMP:20251008T040033Z
 DTSTART;VALUE=DATE:20251003
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -275,7 +309,7 @@ DESCRIPTION:In the summer of 1859\, a widowed physician reluctantly agrees
  s she simply carries The Sickness. Either way the fact remains that every
   living thing the girl touches mysteriously dies.
 DTEND;VALUE=DATE:20251014
-DTSTAMP:20251007T040016Z
+DTSTAMP:20251008T040033Z
 DTSTART;VALUE=DATE:20251013
 SEQUENCE:0
 STATUS:CONFIRMED
