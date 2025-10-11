@@ -7,6 +7,46 @@
     <atom:link href="https://blacklungindustries.ddns.net/gitea/api/v1/users/mattyj513/activities/feeds" rel="self" type="application/rss+xml" />
     
     <item>
+        <title>.profile</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
+        <description>daily profile update</description>
+        <pubDate>Sat, 11 Oct 2025 04:00:23 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-501</guid>
+    </item>
+    
+    <item>
+        <title>bash-hx</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx</link>
+        <description>updated history</description>
+        <pubDate>Sat, 11 Oct 2025 04:00:23 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx-502</guid>
+    </item>
+    
+    <item>
+        <title>calendar</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
+        <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
+        <pubDate>Fri, 10 Oct 2025 04:00:35 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-500</guid>
+    </item>
+    
+    <item>
+        <title>bash-hx</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx</link>
+        <description>updated history</description>
+        <pubDate>Fri, 10 Oct 2025 04:00:16 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx-498</guid>
+    </item>
+    
+    <item>
+        <title>.profile</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
+        <description>daily profile update</description>
+        <pubDate>Fri, 10 Oct 2025 04:00:16 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-499</guid>
+    </item>
+    
+    <item>
         <title>calendar</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
         <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
@@ -204,46 +244,6 @@
         <description>daily profile update</description>
         <pubDate>Sat, 04 Oct 2025 04:00:19 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-473</guid>
-    </item>
-    
-    <item>
-        <title>bash-hx</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx</link>
-        <description>updated history</description>
-        <pubDate>Sat, 04 Oct 2025 04:00:18 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx-472</guid>
-    </item>
-    
-    <item>
-        <title>mattflix-data</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data</link>
-        <description>daily update</description>
-        <pubDate>Fri, 03 Oct 2025 10:37:02 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data-471</guid>
-    </item>
-    
-    <item>
-        <title>calendar</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
-        <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
-        <pubDate>Fri, 03 Oct 2025 04:00:32 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-470</guid>
-    </item>
-    
-    <item>
-        <title>.profile</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
-        <description>daily profile update</description>
-        <pubDate>Fri, 03 Oct 2025 04:00:19 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-469</guid>
-    </item>
-    
-    <item>
-        <title>saves</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/saves</link>
-        <description>update saves</description>
-        <pubDate>Fri, 03 Oct 2025 04:00:15 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/saves-468</guid>
     </item>
     
 </channel>
