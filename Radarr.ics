@@ -9,7 +9,7 @@ DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
 DTEND;VALUE=DATE:20251024
-DTSTAMP:20251014T040017Z
+DTSTAMP:20251015T040018Z
 DTSTART;VALUE=DATE:20251023
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -25,7 +25,7 @@ DESCRIPTION:Returning to the house where his family was brutally murdered
   finishing the job\, a relentless\, eye-popping cross-country chase ensue
  s – a fight to the death.
 DTEND;VALUE=DATE:20251023
-DTSTAMP:20251014T040017Z
+DTSTAMP:20251015T040018Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -38,7 +38,7 @@ DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20251009
-DTSTAMP:20251014T040017Z
+DTSTAMP:20251015T040018Z
 DTSTART;VALUE=DATE:20251008
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -51,7 +51,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251023
-DTSTAMP:20251014T040017Z
+DTSTAMP:20251015T040018Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -64,7 +64,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251107
-DTSTAMP:20251014T040017Z
+DTSTAMP:20251015T040018Z
 DTSTART;VALUE=DATE:20251106
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -78,7 +78,7 @@ DESCRIPTION:Burned-out ex-baseball player Hank Thompson unexpectedly finds
  al underbelly of late 1990s New York City\, forced to navigate a treacher
  ous underworld he never imagined.
 DTEND;VALUE=DATE:20250828
-DTSTAMP:20251014T040017Z
+DTSTAMP:20251015T040018Z
 DTSTART;VALUE=DATE:20250827
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -92,7 +92,7 @@ DESCRIPTION:Burned-out ex-baseball player Hank Thompson unexpectedly finds
  al underbelly of late 1990s New York City\, forced to navigate a treacher
  ous underworld he never imagined.
 DTEND;VALUE=DATE:20250930
-DTSTAMP:20251014T040017Z
+DTSTAMP:20251015T040018Z
 DTSTART;VALUE=DATE:20250929
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -106,7 +106,7 @@ DESCRIPTION:Burned-out ex-baseball player Hank Thompson unexpectedly finds
  al underbelly of late 1990s New York City\, forced to navigate a treacher
  ous underworld he never imagined.
 DTEND;VALUE=DATE:20251112
-DTSTAMP:20251014T040017Z
+DTSTAMP:20251015T040018Z
 DTSTART;VALUE=DATE:20251111
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -120,7 +120,7 @@ DESCRIPTION:A group of disillusioned outsiders abandon modern society in s
  ir utopian dream quickly unravels as they discover that the greatest thre
  at isn’t the brutal climate or deadly wildlife\, but each other.
 DTEND;VALUE=DATE:20250404
-DTSTAMP:20251014T040017Z
+DTSTAMP:20251015T040018Z
 DTSTART;VALUE=DATE:20250403
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -134,7 +134,7 @@ DESCRIPTION:A group of disillusioned outsiders abandon modern society in s
  ir utopian dream quickly unravels as they discover that the greatest thre
  at isn’t the brutal climate or deadly wildlife\, but each other.
 DTEND;VALUE=DATE:20251025
-DTSTAMP:20251014T040017Z
+DTSTAMP:20251015T040018Z
 DTSTART;VALUE=DATE:20251024
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -148,7 +148,7 @@ DESCRIPTION:A group of disillusioned outsiders abandon modern society in s
  ir utopian dream quickly unravels as they discover that the greatest thre
  at isn’t the brutal climate or deadly wildlife\, but each other.
 DTEND;VALUE=DATE:20250808
-DTSTAMP:20251014T040017Z
+DTSTAMP:20251015T040018Z
 DTSTART;VALUE=DATE:20250807
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -161,7 +161,7 @@ DESCRIPTION:With her life crashing down around her\, Linda attempts to nav
  igate her child's mysterious illness\, her absent husband\, a missing per
  son\, and an increasingly hostile relationship with her therapist.
 DTEND;VALUE=DATE:20251025
-DTSTAMP:20251014T040017Z
+DTSTAMP:20251015T040018Z
 DTSTART;VALUE=DATE:20251024
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -175,7 +175,7 @@ DESCRIPTION:In a dystopian\, alternate-America ruled by a totalitarian reg
  ed to maintain a minimum pace or be executed\, until only one survivor re
  mains.
 DTEND;VALUE=DATE:20250911
-DTSTAMP:20251014T040017Z
+DTSTAMP:20251015T040019Z
 DTSTART;VALUE=DATE:20250910
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -189,7 +189,7 @@ DESCRIPTION:In a dystopian\, alternate-America ruled by a totalitarian reg
  ed to maintain a minimum pace or be executed\, until only one survivor re
  mains.
 DTEND;VALUE=DATE:20251022
-DTSTAMP:20251014T040017Z
+DTSTAMP:20251015T040019Z
 DTSTART;VALUE=DATE:20251021
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -198,14 +198,14 @@ UID:Radarr_movie_2891_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Blumhouse Productions
-DESCRIPTION:Four years after escaping The Grabber\, Finney Blake\, now 17\
- , is struggling with his life after captivity. His sister Gwen begins rec
- eiving calls in her dreams from the black phone and seeing disturbing vis
- ions of three boys being stalked at a winter camp. The siblings are deter
- mined to solve the mystery and confront a killer who has grown more power
- ful in death and far more significant to them than either can imagine.
+DESCRIPTION:Four years after escaping The Grabber\, Finney Blake is strugg
+ ling with his life after captivity. When his sister Gwen begins receiving
+  calls in her dreams from the black phone and seeing disturbing visions o
+ f three boys being stalked at a winter camp\, the siblings become determi
+ ned to solve the mystery and confront a killer who has grown more powerfu
+ l in death and more significant to them than either could imagine.
 DTEND;VALUE=DATE:20251016
-DTSTAMP:20251014T040017Z
+DTSTAMP:20251015T040019Z
 DTSTART;VALUE=DATE:20251015
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -219,7 +219,7 @@ DESCRIPTION:A loyal dog moves to a rural family home with his owner Todd\,
  ities threaten his human companion\, the brave pup must fight to protect 
  the one he loves most.
 DTEND;VALUE=DATE:20251002
-DTSTAMP:20251014T040017Z
+DTSTAMP:20251015T040019Z
 DTSTART;VALUE=DATE:20251001
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -233,7 +233,7 @@ DESCRIPTION:A loyal dog moves to a rural family home with his owner Todd\,
  ities threaten his human companion\, the brave pup must fight to protect 
  the one he loves most.
 DTEND;VALUE=DATE:20251101
-DTSTAMP:20251014T040017Z
+DTSTAMP:20251015T040019Z
 DTSTART;VALUE=DATE:20251031
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -249,7 +249,7 @@ DESCRIPTION:In the summer of 1859\, a widowed physician reluctantly agrees
  s she simply carries The Sickness. Either way the fact remains that every
   living thing the girl touches mysteriously dies.
 DTEND;VALUE=DATE:20251004
-DTSTAMP:20251014T040017Z
+DTSTAMP:20251015T040019Z
 DTSTART;VALUE=DATE:20251003
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -265,7 +265,7 @@ DESCRIPTION:In the summer of 1859\, a widowed physician reluctantly agrees
  s she simply carries The Sickness. Either way the fact remains that every
   living thing the girl touches mysteriously dies.
 DTEND;VALUE=DATE:20251004
-DTSTAMP:20251014T040017Z
+DTSTAMP:20251015T040019Z
 DTSTART;VALUE=DATE:20251003
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -281,7 +281,7 @@ DESCRIPTION:In the summer of 1859\, a widowed physician reluctantly agrees
  s she simply carries The Sickness. Either way the fact remains that every
   living thing the girl touches mysteriously dies.
 DTEND;VALUE=DATE:20251014
-DTSTAMP:20251014T040017Z
+DTSTAMP:20251015T040019Z
 DTSTART;VALUE=DATE:20251013
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -298,7 +298,7 @@ DESCRIPTION:A former Army Ranger and struggling father turns to robbing Mc
  is double life begins to unravel\, setting off a compelling and suspensef
  ul game of cat and mouse as his past closes in.
 DTEND;VALUE=DATE:20251009
-DTSTAMP:20251014T040017Z
+DTSTAMP:20251015T040019Z
 DTSTART;VALUE=DATE:20251008
 SEQUENCE:0
 STATUS:CONFIRMED
