@@ -9,7 +9,7 @@ DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
 DTEND;VALUE=DATE:20251024
-DTSTAMP:20251021T040025Z
+DTSTAMP:20251022T040017Z
 DTSTART;VALUE=DATE:20251023
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -25,7 +25,7 @@ DESCRIPTION:Returning to the house where his family was brutally murdered
   finishing the job\, a relentless\, eye-popping cross-country chase ensue
  s — a fight to the death.
 DTEND;VALUE=DATE:20251023
-DTSTAMP:20251021T040025Z
+DTSTAMP:20251022T040017Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -38,7 +38,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251023
-DTSTAMP:20251021T040025Z
+DTSTAMP:20251022T040017Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -51,7 +51,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251107
-DTSTAMP:20251021T040025Z
+DTSTAMP:20251022T040017Z
 DTSTART;VALUE=DATE:20251106
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -59,87 +59,17 @@ SUMMARY:Frankenstein (Digital Release)
 UID:Radarr_movie_2881_digital
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Protozoa Pictures
-DESCRIPTION:Burned-out ex-baseball player Hank Thompson unexpectedly finds
-  himself embroiled in a dangerous struggle for survival amidst the crimin
- al underbelly of late 1990s New York City\, forced to navigate a treacher
- ous underworld he never imagined.
-DTEND;VALUE=DATE:20250828
-DTSTAMP:20251021T040025Z
-DTSTART;VALUE=DATE:20250827
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Caught Stealing (Theatrical Release)
-UID:Radarr_movie_2885_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Protozoa Pictures
-DESCRIPTION:Burned-out ex-baseball player Hank Thompson unexpectedly finds
-  himself embroiled in a dangerous struggle for survival amidst the crimin
- al underbelly of late 1990s New York City\, forced to navigate a treacher
- ous underworld he never imagined.
-DTEND;VALUE=DATE:20250930
-DTSTAMP:20251021T040025Z
-DTSTART;VALUE=DATE:20250929
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Caught Stealing (Digital Release)
-UID:Radarr_movie_2885_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Protozoa Pictures
-DESCRIPTION:Burned-out ex-baseball player Hank Thompson unexpectedly finds
-  himself embroiled in a dangerous struggle for survival amidst the crimin
- al underbelly of late 1990s New York City\, forced to navigate a treacher
- ous underworld he never imagined.
-DTEND;VALUE=DATE:20251112
-DTSTAMP:20251021T040025Z
-DTSTART;VALUE=DATE:20251111
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Caught Stealing (Physical Release)
-UID:Radarr_movie_2885_physical
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:A24
 DESCRIPTION:With her life crashing down around her\, Linda attempts to nav
  igate her child's mysterious illness\, her absent husband\, a missing per
  son\, and an increasingly hostile relationship with her therapist.
 DTEND;VALUE=DATE:20251024
-DTSTAMP:20251021T040025Z
+DTSTAMP:20251022T040017Z
 DTSTART;VALUE=DATE:20251023
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:If I Had Legs I'd Kick You (Theatrical Release)
 UID:Radarr_movie_2890_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Lionsgate
-DESCRIPTION:In a dystopian\, alternate-America ruled by a totalitarian reg
- ime\, 50 teenage boys take part in a deadly annual walking contest\, forc
- ed to maintain a minimum pace or be executed\, until only one survivor re
- mains.
-DTEND;VALUE=DATE:20250911
-DTSTAMP:20251021T040025Z
-DTSTART;VALUE=DATE:20250910
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Long Walk (Theatrical Release)
-UID:Radarr_movie_2891_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Lionsgate
-DESCRIPTION:In a dystopian\, alternate-America ruled by a totalitarian reg
- ime\, 50 teenage boys take part in a deadly annual walking contest\, forc
- ed to maintain a minimum pace or be executed\, until only one survivor re
- mains.
-DTEND;VALUE=DATE:20251022
-DTSTAMP:20251021T040025Z
-DTSTART;VALUE=DATE:20251021
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Long Walk (Digital Release)
-UID:Radarr_movie_2891_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Blumhouse Productions
@@ -150,7 +80,7 @@ DESCRIPTION:Four years after escaping The Grabber\, Finney Blake is strugg
  ned to solve the mystery and confront a killer who has grown more powerfu
  l in death and more significant to them than either could imagine.
 DTEND;VALUE=DATE:20251016
-DTSTAMP:20251021T040025Z
+DTSTAMP:20251022T040017Z
 DTSTART;VALUE=DATE:20251015
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -164,7 +94,7 @@ DESCRIPTION:A loyal dog moves to a rural family home with his owner Todd\,
  ities threaten his human companion\, the brave pup must fight to protect 
  the one he loves most.
 DTEND;VALUE=DATE:20251002
-DTSTAMP:20251021T040025Z
+DTSTAMP:20251022T040017Z
 DTSTART;VALUE=DATE:20251001
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -178,7 +108,7 @@ DESCRIPTION:A loyal dog moves to a rural family home with his owner Todd\,
  ities threaten his human companion\, the brave pup must fight to protect 
  the one he loves most.
 DTEND;VALUE=DATE:20251101
-DTSTAMP:20251021T040025Z
+DTSTAMP:20251022T040017Z
 DTSTART;VALUE=DATE:20251031
 SEQUENCE:0
 STATUS:CONFIRMED
