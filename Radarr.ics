@@ -9,7 +9,7 @@ DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
 DTEND;VALUE=DATE:20251024
-DTSTAMP:20251022T040017Z
+DTSTAMP:20251023T040023Z
 DTSTART;VALUE=DATE:20251023
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -25,10 +25,10 @@ DESCRIPTION:Returning to the house where his family was brutally murdered
   finishing the job\, a relentless\, eye-popping cross-country chase ensue
  s — a fight to the death.
 DTEND;VALUE=DATE:20251023
-DTSTAMP:20251022T040017Z
+DTSTAMP:20251023T040023Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Sisu: Road to Revenge (Theatrical Release)
 UID:Radarr_movie_2742_cinemas
 END:VEVENT
@@ -38,10 +38,10 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251023
-DTSTAMP:20251022T040017Z
+DTSTAMP:20251023T040023Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Frankenstein (Theatrical Release)
 UID:Radarr_movie_2881_cinemas
 END:VEVENT
@@ -51,10 +51,10 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251107
-DTSTAMP:20251022T040017Z
+DTSTAMP:20251023T040023Z
 DTSTART;VALUE=DATE:20251106
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Frankenstein (Digital Release)
 UID:Radarr_movie_2881_digital
 END:VEVENT
@@ -64,28 +64,12 @@ DESCRIPTION:With her life crashing down around her\, Linda attempts to nav
  igate her child's mysterious illness\, her absent husband\, a missing per
  son\, and an increasingly hostile relationship with her therapist.
 DTEND;VALUE=DATE:20251024
-DTSTAMP:20251022T040017Z
+DTSTAMP:20251023T040023Z
 DTSTART;VALUE=DATE:20251023
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:If I Had Legs I'd Kick You (Theatrical Release)
 UID:Radarr_movie_2890_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Blumhouse Productions
-DESCRIPTION:Four years after escaping The Grabber\, Finney Blake is strugg
- ling with his life after captivity. When his sister Gwen begins receiving
-  calls in her dreams from the black phone and seeing disturbing visions o
- f three boys being stalked at a winter camp\, the siblings become determi
- ned to solve the mystery and confront a killer who has grown more powerfu
- l in death and more significant to them than either could imagine.
-DTEND;VALUE=DATE:20251016
-DTSTAMP:20251022T040017Z
-DTSTART;VALUE=DATE:20251015
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Black Phone 2 (Theatrical Release)
-UID:Radarr_movie_1200_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:What’s Wrong with Your Dog
@@ -94,7 +78,7 @@ DESCRIPTION:A loyal dog moves to a rural family home with his owner Todd\,
  ities threaten his human companion\, the brave pup must fight to protect 
  the one he loves most.
 DTEND;VALUE=DATE:20251002
-DTSTAMP:20251022T040017Z
+DTSTAMP:20251023T040023Z
 DTSTART;VALUE=DATE:20251001
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -108,11 +92,69 @@ DESCRIPTION:A loyal dog moves to a rural family home with his owner Todd\,
  ities threaten his human companion\, the brave pup must fight to protect 
  the one he loves most.
 DTEND;VALUE=DATE:20251101
-DTSTAMP:20251022T040017Z
+DTSTAMP:20251023T040023Z
 DTSTART;VALUE=DATE:20251031
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Good Boy (Digital Release)
 UID:Radarr_movie_2892_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Stampede Ventures
+DESCRIPTION:A widowed fisherwoman\, travelling alone through snowbound nor
+ thern Minnesota\, interrupts the kidnapping of a teenage girl. Hours from
+  the nearest town and with no phone service\, she realizes that she is th
+ e young girl's only hope.
+DTEND;VALUE=DATE:20250924
+DTSTAMP:20251023T040023Z
+DTSTART;VALUE=DATE:20250923
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dead of Winter (Theatrical Release)
+UID:Radarr_movie_2900_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Stampede Ventures
+DESCRIPTION:A widowed fisherwoman\, travelling alone through snowbound nor
+ thern Minnesota\, interrupts the kidnapping of a teenage girl. Hours from
+  the nearest town and with no phone service\, she realizes that she is th
+ e young girl's only hope.
+DTEND;VALUE=DATE:20251022
+DTSTAMP:20251023T040023Z
+DTSTART;VALUE=DATE:20251021
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dead of Winter (Digital Release)
+UID:Radarr_movie_2900_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Focus Features
+DESCRIPTION:Middle-aged Jem sets out from his suburban home on a journey i
+ nto the woods\, where he reconnects with his estranged hermit brother Ray
+ . Bonded by a mysterious\, complicated past\, the men share a fraught\, i
+ f occasionally tender relationship—one that was forever altered by shatte
+ ring events decades earlier.
+DTEND;VALUE=DATE:20251004
+DTSTAMP:20251023T040023Z
+DTSTART;VALUE=DATE:20251003
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Anemone (Theatrical Release)
+UID:Radarr_movie_2913_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Focus Features
+DESCRIPTION:Middle-aged Jem sets out from his suburban home on a journey i
+ nto the woods\, where he reconnects with his estranged hermit brother Ray
+ . Bonded by a mysterious\, complicated past\, the men share a fraught\, i
+ f occasionally tender relationship—one that was forever altered by shatte
+ ring events decades earlier.
+DTEND;VALUE=DATE:20251022
+DTSTAMP:20251023T040023Z
+DTSTART;VALUE=DATE:20251021
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Anemone (Digital Release)
+UID:Radarr_movie_2913_digital
 END:VEVENT
 END:VCALENDAR
