@@ -10,6 +10,38 @@
         <title>mattflix-public</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public</link>
         <description>daily update</description>
+        <pubDate>Mon, 27 Oct 2025 03:35:11 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public-594</guid>
+    </item>
+    
+    <item>
+        <title>mattflix-data</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data</link>
+        <description>daily update</description>
+        <pubDate>Sun, 26 Oct 2025 06:09:51 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data-593</guid>
+    </item>
+    
+    <item>
+        <title>calendar</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
+        <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
+        <pubDate>Sun, 26 Oct 2025 04:00:53 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-592</guid>
+    </item>
+    
+    <item>
+        <title>.profile</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
+        <description>daily profile update</description>
+        <pubDate>Sun, 26 Oct 2025 04:00:37 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-591</guid>
+    </item>
+    
+    <item>
+        <title>mattflix-public</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public</link>
+        <description>daily update</description>
         <pubDate>Sat, 25 Oct 2025 06:58:13 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public-590</guid>
     </item>
@@ -212,38 +244,6 @@
         <description>daily update</description>
         <pubDate>Wed, 22 Oct 2025 03:00:57 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public-565</guid>
-    </item>
-    
-    <item>
-        <title>mattflix-public</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public</link>
-        <description>Update rss/Movies_2.xml</description>
-        <pubDate>Wed, 22 Oct 2025 02:43:59 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public-564</guid>
-    </item>
-    
-    <item>
-        <title>mattflix-public</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public</link>
-        <description>Update rss/Movies_2.xml</description>
-        <pubDate>Wed, 22 Oct 2025 02:41:56 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public-563</guid>
-    </item>
-    
-    <item>
-        <title>mattflix-public</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public</link>
-        <description>Update rss/Movies_2.xm;</description>
-        <pubDate>Wed, 22 Oct 2025 02:41:49 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public-562</guid>
-    </item>
-    
-    <item>
-        <title>mattflix-public</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public</link>
-        <description>Update rss/Movies_2.rss</description>
-        <pubDate>Wed, 22 Oct 2025 02:39:40 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public-561</guid>
     </item>
     
 </channel>
