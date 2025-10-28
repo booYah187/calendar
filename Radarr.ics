@@ -9,7 +9,7 @@ DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
 DTEND;VALUE=DATE:20251024
-DTSTAMP:20251027T040031Z
+DTSTAMP:20251028T040025Z
 DTSTART;VALUE=DATE:20251023
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -25,7 +25,7 @@ DESCRIPTION:Returning to the house where his family was brutally murdered
   finishing the job\, a relentless\, eye-popping cross-country chase ensue
  s — a fight to the death.
 DTEND;VALUE=DATE:20251023
-DTSTAMP:20251027T040031Z
+DTSTAMP:20251028T040025Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -38,7 +38,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251023
-DTSTAMP:20251027T040031Z
+DTSTAMP:20251028T040025Z
 DTSTART;VALUE=DATE:20251022
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -51,7 +51,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251107
-DTSTAMP:20251027T040031Z
+DTSTAMP:20251028T040025Z
 DTSTART;VALUE=DATE:20251106
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -64,7 +64,7 @@ DESCRIPTION:With her life crashing down around her\, Linda attempts to nav
  igate her child's mysterious illness\, her absent husband\, a missing per
  son\, and an increasingly hostile relationship with her therapist.
 DTEND;VALUE=DATE:20251024
-DTSTAMP:20251027T040031Z
+DTSTAMP:20251028T040025Z
 DTSTART;VALUE=DATE:20251023
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -78,7 +78,7 @@ DESCRIPTION:A widowed fisherwoman\, travelling alone through snowbound nor
   the nearest town and with no phone service\, she realizes that she is th
  e young girl's only hope.
 DTEND;VALUE=DATE:20250924
-DTSTAMP:20251027T040031Z
+DTSTAMP:20251028T040025Z
 DTSTART;VALUE=DATE:20250923
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -92,41 +92,11 @@ DESCRIPTION:A widowed fisherwoman\, travelling alone through snowbound nor
   the nearest town and with no phone service\, she realizes that she is th
  e young girl's only hope.
 DTEND;VALUE=DATE:20251022
-DTSTAMP:20251027T040031Z
+DTSTAMP:20251028T040025Z
 DTSTART;VALUE=DATE:20251021
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Dead of Winter (Digital Release)
 UID:Radarr_movie_2900_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Focus Features
-DESCRIPTION:Middle-aged Jem sets out from his suburban home on a journey i
- nto the woods\, where he reconnects with his estranged hermit brother Ray
- . Bonded by a mysterious\, complicated past\, the men share a fraught\, i
- f occasionally tender relationship—one that was forever altered by shatte
- ring events decades earlier.
-DTEND;VALUE=DATE:20251004
-DTSTAMP:20251027T040031Z
-DTSTART;VALUE=DATE:20251003
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Anemone (Theatrical Release)
-UID:Radarr_movie_2913_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Focus Features
-DESCRIPTION:Middle-aged Jem sets out from his suburban home on a journey i
- nto the woods\, where he reconnects with his estranged hermit brother Ray
- . Bonded by a mysterious\, complicated past\, the men share a fraught\, i
- f occasionally tender relationship—one that was forever altered by shatte
- ring events decades earlier.
-DTEND;VALUE=DATE:20251021
-DTSTAMP:20251027T040031Z
-DTSTART;VALUE=DATE:20251020
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Anemone (Digital Release)
-UID:Radarr_movie_2913_digital
 END:VEVENT
 END:VCALENDAR
