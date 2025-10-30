@@ -9,7 +9,7 @@ DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO
  of a major company\, convinced that she is an alien intent on destroying 
  planet Earth.
 DTEND;VALUE=DATE:20251024
-DTSTAMP:20251029T040020Z
+DTSTAMP:20251030T040021Z
 DTSTART;VALUE=DATE:20251023
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -17,28 +17,12 @@ SUMMARY:Bugonia (Theatrical Release)
 UID:Radarr_movie_2879_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Cosmic Snowball
-DESCRIPTION:Returning to the house where his family was brutally murdered 
- during the war\, 'the man who refuses to die' dismantles it\, loads it on
-  a truck\, and is determined to rebuild it somewhere safe in their honor.
-  When the Red Army commander who killed his family comes back hellbent on
-  finishing the job\, a relentless\, eye-popping cross-country chase ensue
- s — a fight to the death.
-DTEND;VALUE=DATE:20251023
-DTSTAMP:20251029T040020Z
-DTSTART;VALUE=DATE:20251022
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Sisu: Road to Revenge (Theatrical Release)
-UID:Radarr_movie_2742_cinemas
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Double Dare You
 DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251018
-DTSTAMP:20251029T040020Z
+DTSTAMP:20251030T040021Z
 DTSTART;VALUE=DATE:20251017
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -51,7 +35,7 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251107
-DTSTAMP:20251029T040020Z
+DTSTAMP:20251030T040021Z
 DTSTART;VALUE=DATE:20251106
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -64,11 +48,43 @@ DESCRIPTION:With her life crashing down around her\, Linda attempts to nav
  igate her child's mysterious illness\, her absent husband\, a missing per
  son\, and an increasingly hostile relationship with her therapist.
 DTEND;VALUE=DATE:20251024
-DTSTAMP:20251029T040020Z
+DTSTAMP:20251030T040021Z
 DTSTART;VALUE=DATE:20251023
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:If I Had Legs I'd Kick You (Theatrical Release)
 UID:Radarr_movie_2890_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:T-Street
+DESCRIPTION:When young priest Jud Duplenticy is sent to assist charismatic
+  firebrand Monsignor Jefferson Wicks\, it’s clear that all is not well in
+  the pews. After a sudden and seemingly impossible murder rocks the town\
+ , the lack of an obvious suspect prompts local police chief Geraldine Sco
+ tt to join forces with renowned detective Benoit Blanc to unravel a myste
+ ry that defies all logic.
+DTEND;VALUE=DATE:20251128
+DTSTAMP:20251030T040021Z
+DTSTART;VALUE=DATE:20251127
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Wake Up Dead Man: A Knives Out Mystery (Theatrical Release)
+UID:Radarr_movie_2739_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:T-Street
+DESCRIPTION:When young priest Jud Duplenticy is sent to assist charismatic
+  firebrand Monsignor Jefferson Wicks\, it’s clear that all is not well in
+  the pews. After a sudden and seemingly impossible murder rocks the town\
+ , the lack of an obvious suspect prompts local police chief Geraldine Sco
+ tt to join forces with renowned detective Benoit Blanc to unravel a myste
+ ry that defies all logic.
+DTEND;VALUE=DATE:20251212
+DTSTAMP:20251030T040021Z
+DTSTART;VALUE=DATE:20251211
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Wake Up Dead Man: A Knives Out Mystery (Digital Release)
+UID:Radarr_movie_2739_digital
 END:VEVENT
 END:VCALENDAR
