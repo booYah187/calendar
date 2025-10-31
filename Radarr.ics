@@ -4,25 +4,12 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
-CATEGORIES:Element Pictures
-DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO 
- of a major company\, convinced that she is an alien intent on destroying 
- planet Earth.
-DTEND;VALUE=DATE:20251024
-DTSTAMP:20251030T040021Z
-DTSTART;VALUE=DATE:20251023
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Bugonia (Theatrical Release)
-UID:Radarr_movie_2879_cinemas
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Double Dare You
 DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251018
-DTSTAMP:20251030T040021Z
+DTSTAMP:20251031T040021Z
 DTSTART;VALUE=DATE:20251017
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -35,25 +22,12 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251107
-DTSTAMP:20251030T040021Z
+DTSTAMP:20251031T040021Z
 DTSTART;VALUE=DATE:20251106
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Frankenstein (Digital Release)
 UID:Radarr_movie_2881_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:A24
-DESCRIPTION:With her life crashing down around her\, Linda attempts to nav
- igate her child's mysterious illness\, her absent husband\, a missing per
- son\, and an increasingly hostile relationship with her therapist.
-DTEND;VALUE=DATE:20251024
-DTSTAMP:20251030T040021Z
-DTSTART;VALUE=DATE:20251023
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:If I Had Legs I'd Kick You (Theatrical Release)
-UID:Radarr_movie_2890_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:T-Street
@@ -64,7 +38,7 @@ DESCRIPTION:When young priest Jud Duplenticy is sent to assist charismatic
  tt to join forces with renowned detective Benoit Blanc to unravel a myste
  ry that defies all logic.
 DTEND;VALUE=DATE:20251128
-DTSTAMP:20251030T040021Z
+DTSTAMP:20251031T040021Z
 DTSTART;VALUE=DATE:20251127
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -80,7 +54,7 @@ DESCRIPTION:When young priest Jud Duplenticy is sent to assist charismatic
  tt to join forces with renowned detective Benoit Blanc to unravel a myste
  ry that defies all logic.
 DTEND;VALUE=DATE:20251212
-DTSTAMP:20251030T040021Z
+DTSTAMP:20251031T040021Z
 DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 STATUS:TENTATIVE
