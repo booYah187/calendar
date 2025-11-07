@@ -11,7 +11,7 @@ DESCRIPTION:Washed-up revolutionary Bob exists in a state of stoned parano
  the former radical scrambles to find her\, father and daughter both battl
  ing the consequences of his past.
 DTEND;VALUE=DATE:20250924
-DTSTAMP:20251106T050043Z
+DTSTAMP:20251107T050025Z
 DTSTART;VALUE=DATE:20250923
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -26,7 +26,7 @@ DESCRIPTION:Washed-up revolutionary Bob exists in a state of stoned parano
  the former radical scrambles to find her\, father and daughter both battl
  ing the consequences of his past.
 DTEND;VALUE=DATE:20251126
-DTSTAMP:20251106T050043Z
+DTSTAMP:20251107T050025Z
 DTSTART;VALUE=DATE:20251125
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,12 +34,27 @@ SUMMARY:One Battle After Another (Digital Release)
 UID:Radarr_movie_2878_digital
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Warner Bros. Pictures
+DESCRIPTION:Washed-up revolutionary Bob exists in a state of stoned parano
+ ia\, surviving off-grid with his spirited\, self-reliant daughter\, Willa
+ . When his evil nemesis resurfaces after 16 years and she goes missing\, 
+ the former radical scrambles to find her\, father and daughter both battl
+ ing the consequences of his past.
+DTEND;VALUE=DATE:20260121
+DTSTAMP:20251107T050025Z
+DTSTART;VALUE=DATE:20260120
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:One Battle After Another (Physical Release)
+UID:Radarr_movie_2878_physical
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Double Dare You
 DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251018
-DTSTAMP:20251106T050043Z
+DTSTAMP:20251107T050025Z
 DTSTART;VALUE=DATE:20251017
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -52,12 +67,24 @@ DESCRIPTION:Dr. Victor Frankenstein\, a brilliant but egotistical scientis
  t\, brings a creature to life in a monstrous experiment that ultimately l
  eads to the undoing of both the creator and his tragic creation.
 DTEND;VALUE=DATE:20251107
-DTSTAMP:20251106T050043Z
+DTSTAMP:20251107T050025Z
 DTSTART;VALUE=DATE:20251106
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Frankenstein (Digital Release)
 UID:Radarr_movie_2881_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Entertainment One
+DESCRIPTION:An eight-year-old girl asks her scheming neighbor for help in 
+ killing the monster under her bed that she thinks ate her family.
+DTEND;VALUE=DATE:20251206
+DTSTAMP:20251107T050025Z
+DTSTART;VALUE=DATE:20251205
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Dust Bunny (Theatrical Release)
+UID:Radarr_movie_2886_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Blumhouse Productions
@@ -68,7 +95,7 @@ DESCRIPTION:Four years after escaping The Grabber\, Finney Blake is strugg
  ned to solve the mystery and confront a killer who has grown more powerfu
  l in death and more significant to them than either could imagine.
 DTEND;VALUE=DATE:20251016
-DTSTAMP:20251106T050043Z
+DTSTAMP:20251107T050025Z
 DTSTART;VALUE=DATE:20251015
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -84,7 +111,7 @@ DESCRIPTION:Four years after escaping The Grabber\, Finney Blake is strugg
  ned to solve the mystery and confront a killer who has grown more powerfu
  l in death and more significant to them than either could imagine.
 DTEND;VALUE=DATE:20251104
-DTSTAMP:20251106T050043Z
+DTSTAMP:20251107T050025Z
 DTSTART;VALUE=DATE:20251103
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -100,7 +127,7 @@ DESCRIPTION:When young priest Jud Duplenticy is sent to assist charismatic
  tt to join forces with renowned detective Benoit Blanc to unravel a myste
  ry that defies all logic.
 DTEND;VALUE=DATE:20251128
-DTSTAMP:20251106T050043Z
+DTSTAMP:20251107T050025Z
 DTSTART;VALUE=DATE:20251127
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -116,7 +143,7 @@ DESCRIPTION:When young priest Jud Duplenticy is sent to assist charismatic
  tt to join forces with renowned detective Benoit Blanc to unravel a myste
  ry that defies all logic.
 DTEND;VALUE=DATE:20251212
-DTSTAMP:20251106T050043Z
+DTSTAMP:20251107T050025Z
 DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -133,7 +160,7 @@ DESCRIPTION:A former Army Ranger and struggling father turns to robbing Mc
  is double life begins to unravel\, setting off a compelling and suspensef
  ul game of cat and mouse as his past closes in.
 DTEND;VALUE=DATE:20251009
-DTSTAMP:20251106T050043Z
+DTSTAMP:20251107T050025Z
 DTSTART;VALUE=DATE:20251008
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -150,7 +177,7 @@ DESCRIPTION:A former Army Ranger and struggling father turns to robbing Mc
  is double life begins to unravel\, setting off a compelling and suspensef
  ul game of cat and mouse as his past closes in.
 DTEND;VALUE=DATE:20251111
-DTSTAMP:20251106T050043Z
+DTSTAMP:20251107T050025Z
 DTSTART;VALUE=DATE:20251110
 SEQUENCE:0
 STATUS:CONFIRMED
