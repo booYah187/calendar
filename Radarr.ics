@@ -11,7 +11,7 @@ DESCRIPTION:Washed-up revolutionary Bob exists in a state of stoned parano
  the former radical scrambles to find her\, father and daughter both battl
  ing the consequences of his past.
 DTEND;VALUE=DATE:20250924
-DTSTAMP:20251110T050029Z
+DTSTAMP:20251111T050019Z
 DTSTART;VALUE=DATE:20250923
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -25,9 +25,9 @@ DESCRIPTION:Washed-up revolutionary Bob exists in a state of stoned parano
  . When his evil nemesis resurfaces after 16 years and she goes missing\, 
  the former radical scrambles to find her\, father and daughter both battl
  ing the consequences of his past.
-DTEND;VALUE=DATE:20251126
-DTSTAMP:20251110T050029Z
-DTSTART;VALUE=DATE:20251125
+DTEND;VALUE=DATE:20251114
+DTSTAMP:20251111T050019Z
+DTSTART;VALUE=DATE:20251113
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:One Battle After Another (Digital Release)
@@ -41,7 +41,7 @@ DESCRIPTION:Washed-up revolutionary Bob exists in a state of stoned parano
  the former radical scrambles to find her\, father and daughter both battl
  ing the consequences of his past.
 DTEND;VALUE=DATE:20260121
-DTSTAMP:20251110T050029Z
+DTSTAMP:20251111T050019Z
 DTSTART;VALUE=DATE:20260120
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -53,44 +53,12 @@ CATEGORIES:Entertainment One
 DESCRIPTION:An eight-year-old girl asks her scheming neighbor for help in 
  killing the monster under her bed that she thinks ate her family.
 DTEND;VALUE=DATE:20251206
-DTSTAMP:20251110T050029Z
+DTSTAMP:20251111T050019Z
 DTSTART;VALUE=DATE:20251205
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Dust Bunny (Theatrical Release)
 UID:Radarr_movie_2886_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Blumhouse Productions
-DESCRIPTION:Four years after escaping The Grabber\, Finney Blake is strugg
- ling with his life after captivity. When his sister Gwen begins receiving
-  calls in her dreams from the black phone and seeing disturbing visions o
- f three boys being stalked at a winter camp\, the siblings become determi
- ned to solve the mystery and confront a killer who has grown more powerfu
- l in death and more significant to them than either could imagine.
-DTEND;VALUE=DATE:20251016
-DTSTAMP:20251110T050029Z
-DTSTART;VALUE=DATE:20251015
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Black Phone 2 (Theatrical Release)
-UID:Radarr_movie_1200_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Blumhouse Productions
-DESCRIPTION:Four years after escaping The Grabber\, Finney Blake is strugg
- ling with his life after captivity. When his sister Gwen begins receiving
-  calls in her dreams from the black phone and seeing disturbing visions o
- f three boys being stalked at a winter camp\, the siblings become determi
- ned to solve the mystery and confront a killer who has grown more powerfu
- l in death and more significant to them than either could imagine.
-DTEND;VALUE=DATE:20251104
-DTSTAMP:20251110T050029Z
-DTSTART;VALUE=DATE:20251103
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Black Phone 2 (Digital Release)
-UID:Radarr_movie_1200_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:T-Street
@@ -101,7 +69,7 @@ DESCRIPTION:When young priest Jud Duplenticy is sent to assist charismatic
  tt to join forces with renowned detective Benoit Blanc to unravel a myste
  ry that defies all logic.
 DTEND;VALUE=DATE:20251128
-DTSTAMP:20251110T050029Z
+DTSTAMP:20251111T050019Z
 DTSTART;VALUE=DATE:20251127
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -117,7 +85,7 @@ DESCRIPTION:When young priest Jud Duplenticy is sent to assist charismatic
  tt to join forces with renowned detective Benoit Blanc to unravel a myste
  ry that defies all logic.
 DTEND;VALUE=DATE:20251212
-DTSTAMP:20251110T050029Z
+DTSTAMP:20251111T050019Z
 DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -134,7 +102,7 @@ DESCRIPTION:A former Army Ranger and struggling father turns to robbing Mc
  is double life begins to unravel\, setting off a compelling and suspensef
  ul game of cat and mouse as his past closes in.
 DTEND;VALUE=DATE:20251009
-DTSTAMP:20251110T050029Z
+DTSTAMP:20251111T050019Z
 DTSTART;VALUE=DATE:20251008
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -151,7 +119,7 @@ DESCRIPTION:A former Army Ranger and struggling father turns to robbing Mc
  is double life begins to unravel\, setting off a compelling and suspensef
  ul game of cat and mouse as his past closes in.
 DTEND;VALUE=DATE:20251111
-DTSTAMP:20251110T050029Z
+DTSTAMP:20251111T050019Z
 DTSTART;VALUE=DATE:20251110
 SEQUENCE:0
 STATUS:CONFIRMED
