@@ -11,7 +11,7 @@ DESCRIPTION:Washed-up revolutionary Bob exists in a state of stoned parano
  the former radical scrambles to find her\, father and daughter both battl
  ing the consequences of his past.
 DTEND;VALUE=DATE:20250924
-DTSTAMP:20251112T050035Z
+DTSTAMP:20251113T050025Z
 DTSTART;VALUE=DATE:20250923
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -26,7 +26,7 @@ DESCRIPTION:Washed-up revolutionary Bob exists in a state of stoned parano
  the former radical scrambles to find her\, father and daughter both battl
  ing the consequences of his past.
 DTEND;VALUE=DATE:20251114
-DTSTAMP:20251112T050035Z
+DTSTAMP:20251113T050025Z
 DTSTART;VALUE=DATE:20251113
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -41,7 +41,7 @@ DESCRIPTION:Washed-up revolutionary Bob exists in a state of stoned parano
  the former radical scrambles to find her\, father and daughter both battl
  ing the consequences of his past.
 DTEND;VALUE=DATE:20260121
-DTSTAMP:20251112T050035Z
+DTSTAMP:20251113T050025Z
 DTSTART;VALUE=DATE:20260120
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -52,9 +52,9 @@ BEGIN:VEVENT
 CATEGORIES:Entertainment One
 DESCRIPTION:An eight-year-old girl asks her scheming neighbor for help in 
  killing the monster under her bed that she thinks ate her family.
-DTEND;VALUE=DATE:20251206
-DTSTAMP:20251112T050035Z
-DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251212
+DTSTAMP:20251113T050025Z
+DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Dust Bunny (Theatrical Release)
@@ -69,7 +69,7 @@ DESCRIPTION:When young priest Jud Duplenticy is sent to assist charismatic
  tt to join forces with renowned detective Benoit Blanc to unravel a myste
  ry that defies all logic.
 DTEND;VALUE=DATE:20251128
-DTSTAMP:20251112T050035Z
+DTSTAMP:20251113T050025Z
 DTSTART;VALUE=DATE:20251127
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -85,7 +85,7 @@ DESCRIPTION:When young priest Jud Duplenticy is sent to assist charismatic
  tt to join forces with renowned detective Benoit Blanc to unravel a myste
  ry that defies all logic.
 DTEND;VALUE=DATE:20251212
-DTSTAMP:20251112T050035Z
+DTSTAMP:20251113T050025Z
 DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -102,7 +102,7 @@ DESCRIPTION:A former Army Ranger and struggling father turns to robbing Mc
  is double life begins to unravel\, setting off a compelling and suspensef
  ul game of cat and mouse as his past closes in.
 DTEND;VALUE=DATE:20251009
-DTSTAMP:20251112T050035Z
+DTSTAMP:20251113T050025Z
 DTSTART;VALUE=DATE:20251008
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -119,7 +119,7 @@ DESCRIPTION:A former Army Ranger and struggling father turns to robbing Mc
  is double life begins to unravel\, setting off a compelling and suspensef
  ul game of cat and mouse as his past closes in.
 DTEND;VALUE=DATE:20251111
-DTSTAMP:20251112T050035Z
+DTSTAMP:20251113T050025Z
 DTSTART;VALUE=DATE:20251110
 SEQUENCE:0
 STATUS:CONFIRMED
