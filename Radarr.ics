@@ -4,56 +4,11 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
-CATEGORIES:Warner Bros. Pictures
-DESCRIPTION:Washed-up revolutionary Bob exists in a state of stoned parano
- ia\, surviving off-grid with his spirited\, self-reliant daughter\, Willa
- . When his evil nemesis resurfaces after 16 years and she goes missing\, 
- the former radical scrambles to find her\, father and daughter both battl
- ing the consequences of his past.
-DTEND;VALUE=DATE:20250924
-DTSTAMP:20251114T050024Z
-DTSTART;VALUE=DATE:20250923
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:One Battle After Another (Theatrical Release)
-UID:Radarr_movie_2878_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Warner Bros. Pictures
-DESCRIPTION:Washed-up revolutionary Bob exists in a state of stoned parano
- ia\, surviving off-grid with his spirited\, self-reliant daughter\, Willa
- . When his evil nemesis resurfaces after 16 years and she goes missing\, 
- the former radical scrambles to find her\, father and daughter both battl
- ing the consequences of his past.
-DTEND;VALUE=DATE:20251114
-DTSTAMP:20251114T050024Z
-DTSTART;VALUE=DATE:20251113
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:One Battle After Another (Digital Release)
-UID:Radarr_movie_2878_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Warner Bros. Pictures
-DESCRIPTION:Washed-up revolutionary Bob exists in a state of stoned parano
- ia\, surviving off-grid with his spirited\, self-reliant daughter\, Willa
- . When his evil nemesis resurfaces after 16 years and she goes missing\, 
- the former radical scrambles to find her\, father and daughter both battl
- ing the consequences of his past.
-DTEND;VALUE=DATE:20260121
-DTSTAMP:20251114T050024Z
-DTSTART;VALUE=DATE:20260120
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:One Battle After Another (Physical Release)
-UID:Radarr_movie_2878_physical
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Entertainment One
 DESCRIPTION:An eight-year-old girl asks her scheming neighbor for help in 
  killing the monster under her bed that she thinks ate her family.
 DTEND;VALUE=DATE:20251212
-DTSTAMP:20251114T050024Z
+DTSTAMP:20251115T050023Z
 DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -69,7 +24,7 @@ DESCRIPTION:When young priest Jud Duplenticy is sent to assist charismatic
  tt to join forces with renowned detective Benoit Blanc to unravel a myste
  ry that defies all logic.
 DTEND;VALUE=DATE:20251128
-DTSTAMP:20251114T050024Z
+DTSTAMP:20251115T050023Z
 DTSTART;VALUE=DATE:20251127
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -85,7 +40,7 @@ DESCRIPTION:When young priest Jud Duplenticy is sent to assist charismatic
  tt to join forces with renowned detective Benoit Blanc to unravel a myste
  ry that defies all logic.
 DTEND;VALUE=DATE:20251212
-DTSTAMP:20251114T050024Z
+DTSTAMP:20251115T050023Z
 DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -102,7 +57,7 @@ DESCRIPTION:A former Army Ranger and struggling father turns to robbing Mc
  is double life begins to unravel\, setting off a compelling and suspensef
  ul game of cat and mouse as his past closes in.
 DTEND;VALUE=DATE:20251009
-DTSTAMP:20251114T050024Z
+DTSTAMP:20251115T050023Z
 DTSTART;VALUE=DATE:20251008
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -119,7 +74,7 @@ DESCRIPTION:A former Army Ranger and struggling father turns to robbing Mc
  is double life begins to unravel\, setting off a compelling and suspensef
  ul game of cat and mouse as his past closes in.
 DTEND;VALUE=DATE:20251111
-DTSTAMP:20251114T050024Z
+DTSTAMP:20251115T050023Z
 DTSTART;VALUE=DATE:20251110
 SEQUENCE:0
 STATUS:CONFIRMED
