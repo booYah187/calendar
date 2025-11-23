@@ -12,7 +12,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20251218
-DTSTAMP:20251122T050024Z
+DTSTAMP:20251123T050044Z
 DTSTART;VALUE=DATE:20251217
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -20,11 +20,37 @@ SUMMARY:Avatar: Fire and Ash (Theatrical Release)
 UID:Radarr_movie_1288_cinemas
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:CJ ENM Studios
+DESCRIPTION:After being laid off and humiliated by a ruthless job market\,
+  a veteran paper mill manager descends into violence in a desperate bid t
+ o reclaim his dignity.
+DTEND;VALUE=DATE:20250925
+DTSTAMP:20251123T050044Z
+DTSTART;VALUE=DATE:20250924
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:No Other Choice (Theatrical Release)
+UID:Radarr_movie_2882_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CJ ENM Studios
+DESCRIPTION:After being laid off and humiliated by a ruthless job market\,
+  a veteran paper mill manager descends into violence in a desperate bid t
+ o reclaim his dignity.
+DTEND;VALUE=DATE:20251121
+DTSTAMP:20251123T050044Z
+DTSTART;VALUE=DATE:20251120
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:No Other Choice (Digital Release)
+UID:Radarr_movie_2882_digital
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Entertainment One
 DESCRIPTION:An eight-year-old girl asks her scheming neighbor for help in 
  killing the monster under her bed that she thinks ate her family.
 DTEND;VALUE=DATE:20251212
-DTSTAMP:20251122T050024Z
+DTSTAMP:20251123T050044Z
 DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -40,7 +66,7 @@ DESCRIPTION:When young priest Jud Duplenticy is sent to assist charismatic
  tt to join forces with renowned detective Benoit Blanc to unravel a myste
  ry that defies all logic.
 DTEND;VALUE=DATE:20251128
-DTSTAMP:20251122T050024Z
+DTSTAMP:20251123T050044Z
 DTSTART;VALUE=DATE:20251127
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -56,7 +82,7 @@ DESCRIPTION:When young priest Jud Duplenticy is sent to assist charismatic
  tt to join forces with renowned detective Benoit Blanc to unravel a myste
  ry that defies all logic.
 DTEND;VALUE=DATE:20251212
-DTSTAMP:20251122T050024Z
+DTSTAMP:20251123T050044Z
 DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 STATUS:TENTATIVE
