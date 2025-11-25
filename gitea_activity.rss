@@ -10,6 +10,70 @@
         <title>mattflix-data</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data</link>
         <description>daily update</description>
+        <pubDate>Mon, 24 Nov 2025 07:46:45 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data-796</guid>
+    </item>
+    
+    <item>
+        <title>wiki</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/wiki</link>
+        <description>update</description>
+        <pubDate>Mon, 24 Nov 2025 06:03:52 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/wiki-795</guid>
+    </item>
+    
+    <item>
+        <title>icons</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/icons</link>
+        <description>update</description>
+        <pubDate>Mon, 24 Nov 2025 05:58:04 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/icons-794</guid>
+    </item>
+    
+    <item>
+        <title>.profile</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
+        <description>daily profile update</description>
+        <pubDate>Mon, 24 Nov 2025 05:09:23 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-793</guid>
+    </item>
+    
+    <item>
+        <title>icons</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/icons</link>
+        <description>update</description>
+        <pubDate>Mon, 24 Nov 2025 05:08:38 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/icons-792</guid>
+    </item>
+    
+    <item>
+        <title>calendar</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
+        <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
+        <pubDate>Mon, 24 Nov 2025 05:00:52 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-791</guid>
+    </item>
+    
+    <item>
+        <title>.profile</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
+        <description>daily profile update</description>
+        <pubDate>Mon, 24 Nov 2025 05:00:30 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-790</guid>
+    </item>
+    
+    <item>
+        <title>bash-hx</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx</link>
+        <description>updated history</description>
+        <pubDate>Mon, 24 Nov 2025 05:00:23 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx-789</guid>
+    </item>
+    
+    <item>
+        <title>mattflix-data</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data</link>
+        <description>daily update</description>
         <pubDate>Sun, 23 Nov 2025 08:02:48 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data-788</guid>
     </item>
@@ -180,70 +244,6 @@
         <description>update</description>
         <pubDate>Thu, 20 Nov 2025 06:47:35 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/icons-767</guid>
-    </item>
-    
-    <item>
-        <title>wiki</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/wiki</link>
-        <description>docs: create pi-hole</description>
-        <pubDate>Thu, 20 Nov 2025 06:11:13 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/wiki-766</guid>
-    </item>
-    
-    <item>
-        <title>wiki</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/wiki</link>
-        <description>update</description>
-        <pubDate>Thu, 20 Nov 2025 06:03:39 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/wiki-765</guid>
-    </item>
-    
-    <item>
-        <title>calendar</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
-        <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
-        <pubDate>Thu, 20 Nov 2025 05:01:07 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-764</guid>
-    </item>
-    
-    <item>
-        <title>bash-hx</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx</link>
-        <description>updated history</description>
-        <pubDate>Thu, 20 Nov 2025 05:00:27 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx-763</guid>
-    </item>
-    
-    <item>
-        <title>.profile</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
-        <description>daily profile update</description>
-        <pubDate>Thu, 20 Nov 2025 05:00:25 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-762</guid>
-    </item>
-    
-    <item>
-        <title>wiki</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/wiki</link>
-        <description>update</description>
-        <pubDate>Thu, 20 Nov 2025 01:48:06 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/wiki-761</guid>
-    </item>
-    
-    <item>
-        <title>wiki</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/wiki</link>
-        <description>update</description>
-        <pubDate>Thu, 20 Nov 2025 01:43:59 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/wiki-760</guid>
-    </item>
-    
-    <item>
-        <title>wiki</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/wiki</link>
-        <description>update</description>
-        <pubDate>Thu, 20 Nov 2025 00:00:51 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/wiki-759</guid>
     </item>
     
 </channel>
