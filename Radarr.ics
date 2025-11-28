@@ -12,7 +12,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20251218
-DTSTAMP:20251127T050057Z
+DTSTAMP:20251128T050038Z
 DTSTART;VALUE=DATE:20251217
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -20,51 +20,12 @@ SUMMARY:Avatar: Fire and Ash (Theatrical Release)
 UID:Radarr_movie_1288_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Element Pictures
-DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO 
- of a major company\, convinced that she is an alien intent on destroying 
- planet Earth.
-DTEND;VALUE=DATE:20251024
-DTSTAMP:20251127T050057Z
-DTSTART;VALUE=DATE:20251023
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Bugonia (Theatrical Release)
-UID:Radarr_movie_2879_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Element Pictures
-DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO 
- of a major company\, convinced that she is an alien intent on destroying 
- planet Earth.
-DTEND;VALUE=DATE:20251125
-DTSTAMP:20251127T050057Z
-DTSTART;VALUE=DATE:20251124
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Bugonia (Digital Release)
-UID:Radarr_movie_2879_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Element Pictures
-DESCRIPTION:Two conspiracy obsessed young men kidnap the high-powered CEO 
- of a major company\, convinced that she is an alien intent on destroying 
- planet Earth.
-DTEND;VALUE=DATE:20251224
-DTSTAMP:20251127T050057Z
-DTSTART;VALUE=DATE:20251223
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Bugonia (Physical Release)
-UID:Radarr_movie_2879_physical
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Walt Disney Pictures
 DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20251009
-DTSTAMP:20251127T050057Z
+DTSTAMP:20251128T050038Z
 DTSTART;VALUE=DATE:20251008
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -77,7 +38,7 @@ DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20251202
-DTSTAMP:20251127T050057Z
+DTSTAMP:20251128T050038Z
 DTSTART;VALUE=DATE:20251201
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -90,7 +51,7 @@ DESCRIPTION:A highly sophisticated Program called Ares is sent from the di
  gital world into the real world on a dangerous mission\, marking humankin
  d's first encounter with A.I. beings.
 DTEND;VALUE=DATE:20260107
-DTSTAMP:20251127T050057Z
+DTSTAMP:20251128T050038Z
 DTSTART;VALUE=DATE:20260106
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -102,7 +63,7 @@ CATEGORIES:Entertainment One
 DESCRIPTION:An eight-year-old girl asks her scheming neighbor for help in 
  killing the monster under her bed that she thinks ate her family.
 DTEND;VALUE=DATE:20251212
-DTSTAMP:20251127T050057Z
+DTSTAMP:20251128T050038Z
 DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -117,11 +78,11 @@ DESCRIPTION:When young priest Jud Duplenticy is sent to assist charismatic
  , the lack of an obvious suspect prompts local police chief Geraldine Sco
  tt to join forces with renowned detective Benoit Blanc to unravel a myste
  ry that defies all logic.
-DTEND;VALUE=DATE:20251128
-DTSTAMP:20251127T050057Z
-DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251127
+DTSTAMP:20251128T050038Z
+DTSTART;VALUE=DATE:20251126
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Wake Up Dead Man: A Knives Out Mystery (Theatrical Release)
 UID:Radarr_movie_2739_cinemas
 END:VEVENT
@@ -134,10 +95,10 @@ DESCRIPTION:When young priest Jud Duplenticy is sent to assist charismatic
  tt to join forces with renowned detective Benoit Blanc to unravel a myste
  ry that defies all logic.
 DTEND;VALUE=DATE:20251212
-DTSTAMP:20251127T050057Z
+DTSTAMP:20251128T050038Z
 DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Wake Up Dead Man: A Knives Out Mystery (Digital Release)
 UID:Radarr_movie_2739_digital
 END:VEVENT
@@ -147,7 +108,7 @@ DESCRIPTION:A ping pong drama set in New York City during the 1950s where
  up-and-coming table tennis star Marty Mauser goes to hell and back in pur
  suit of greatness.
 DTEND;VALUE=DATE:20251226
-DTSTAMP:20251127T050057Z
+DTSTAMP:20251128T050038Z
 DTSTART;VALUE=DATE:20251225
 SEQUENCE:0
 STATUS:TENTATIVE
