@@ -12,7 +12,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20251218
-DTSTAMP:20251203T050047Z
+DTSTAMP:20251204T050019Z
 DTSTART;VALUE=DATE:20251217
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -24,7 +24,7 @@ CATEGORIES:Entertainment One
 DESCRIPTION:An eight-year-old girl asks her scheming neighbor for help in 
  killing the monster under her bed that she thinks ate her family.
 DTEND;VALUE=DATE:20251212
-DTSTAMP:20251203T050047Z
+DTSTAMP:20251204T050019Z
 DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -40,7 +40,7 @@ DESCRIPTION:When young priest Jud Duplenticy is sent to assist charismatic
  tt to join forces with renowned detective Benoit Blanc to unravel a myste
  ry that defies all logic.
 DTEND;VALUE=DATE:20251127
-DTSTAMP:20251203T050047Z
+DTSTAMP:20251204T050019Z
 DTSTART;VALUE=DATE:20251126
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -56,7 +56,7 @@ DESCRIPTION:When young priest Jud Duplenticy is sent to assist charismatic
  tt to join forces with renowned detective Benoit Blanc to unravel a myste
  ry that defies all logic.
 DTEND;VALUE=DATE:20251212
-DTSTAMP:20251203T050047Z
+DTSTAMP:20251204T050019Z
 DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -68,7 +68,7 @@ CATEGORIES:A24
 DESCRIPTION:Marty Mauser\, a young man with a dream no one respects\, goes
   to hell and back in pursuit of greatness.
 DTEND;VALUE=DATE:20251226
-DTSTAMP:20251203T050047Z
+DTSTAMP:20251204T050019Z
 DTSTART;VALUE=DATE:20251225
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -76,19 +76,29 @@ SUMMARY:Marty Supreme (Theatrical Release)
 UID:Radarr_movie_2920_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Walt Disney Animation Studios
-DESCRIPTION:After cracking the biggest case in Zootopia's history\, rookie
-  cops Judy Hopps and Nick Wilde find themselves on the twisting trail of 
- a great mystery when Gary De’Snake arrives and turns the animal metropoli
- s upside down. To crack the case\, Judy and Nick must go undercover to un
- expected new parts of town\, where their growing partnership is tested li
- ke never before.
-DTEND;VALUE=DATE:20251127
-DTSTAMP:20251203T050047Z
-DTSTART;VALUE=DATE:20251126
+CATEGORIES:20th Century Studios
+DESCRIPTION:Cast out from his clan\, a young Predator finds an unlikely al
+ ly in a damaged android and embarks on a treacherous journey in search of
+  the ultimate adversary.
+DTEND;VALUE=DATE:20251106
+DTSTAMP:20251204T050019Z
+DTSTART;VALUE=DATE:20251105
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Zootopia 2 (Theatrical Release)
-UID:Radarr_movie_2923_cinemas
+SUMMARY:Predator: Badlands (Theatrical Release)
+UID:Radarr_movie_2922_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:20th Century Studios
+DESCRIPTION:Cast out from his clan\, a young Predator finds an unlikely al
+ ly in a damaged android and embarks on a treacherous journey in search of
+  the ultimate adversary.
+DTEND;VALUE=DATE:20251210
+DTSTAMP:20251204T050019Z
+DTSTART;VALUE=DATE:20251209
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Predator: Badlands (Digital Release)
+UID:Radarr_movie_2922_digital
 END:VEVENT
 END:VCALENDAR

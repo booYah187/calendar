@@ -2,205 +2,205 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART:20251225T050000Z
-SUMMARY:Stranger Things - Chapter Seven: The Bridge
-UID:886c03d6-a0b6-48c0-895a-6bc0dd0c0b28@886c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tommy and Angela's getaway turns chaotic\; Cami's plans face scrutiny.
-DTSTART:20251228T050000Z
-SUMMARY:Landman - Forever is an Instant
-UID:bd24be3b-5575-4eef-b82d-0c5379b842ab@bd24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tommy negotiates a risky offshore drilling deal as tensions rise with Cami.
-DTSTART:20251221T050000Z
-SUMMARY:Landman - Dark Night of the Soul
-UID:ea149872-75d7-414f-b12f-938438c2d57d@ea14.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260114T050000Z
-SUMMARY:Fallout - TBA
-UID:e78b5ae7-afcc-425b-b950-ef99d2b21e2a@e78b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Amid the chaos\, Tommy regroups with Cooper.
-DTSTART:20260118T050000Z
-SUMMARY:Landman - Tragedy and Flies
-UID:24f6c03d-8b98-42a5-812a-257d1d64070d@24f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251217T050000Z
-SUMMARY:Fallout - TBA
-UID:0c068e29-18fd-4876-a86d-282d0ebacd5c@0c06.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260215T050000Z
-SUMMARY:Dark Winds - tba
-UID:903252d9-b0fc-4ac2-a0de-c5a035cb1b53@9032.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tommy hires help for his father as Cami makes a risky move.
-DTSTART:20260104T050000Z
-SUMMARY:Landman - Handsome Touched Me
-UID:0ca1a9e3-d14a-44c3-b0c2-3ec02d1152a0@0ca1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260125T050000Z
-SUMMARY:The Simpsons - TBA
-UID:c42b562e-54bd-46e0-8e72-c9ca1c2d31a8@c42b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251213T050000Z
-SUMMARY:SPY x FAMILY - TBA
-UID:c73f8788-a77f-4fec-8474-3a512c929d69@c73f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A tragic crash sets off a day of reckoning for the Norris family.
-DTSTART:20251207T050000Z
-SUMMARY:Landman - Dancing Rainbows
-UID:2a7a6ed5-3988-49d8-bafe-62c9b9645e16@2a7a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251227T050000Z
-SUMMARY:SPY x FAMILY - TBA
-UID:d492aed0-ad72-4694-9ccb-10ebfda2b039@d492.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tommy juggles multiple crises\; Angela throws a dinner to welcome T.L.
-DTSTART:20251214T050000Z
-SUMMARY:Landman - The Pirate Dinner
-UID:f66795a7-f1f2-433c-a997-bb0430915d62@f667.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260107T050000Z
-SUMMARY:Fallout - TBA
-UID:743d7748-3a60-4d70-ab6b-95fd021a0b1b@743d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260204T050000Z
-SUMMARY:Fallout - TBA
-UID:2e2a99db-0e6a-4019-bdbb-caa19dc23e21@2e2a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251206T050000Z
-SUMMARY:SPY x FAMILY - AUSTIN'S TROUBLES / A NORMAL MIXER
-UID:98115de7-331f-4fac-9cd5-f5dd5a542aee@9811.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260118T050000Z
-SUMMARY:The Simpsons - TBA
-UID:155a7f7a-c5af-4c9d-958a-8f6fb8008f08@155a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251225T050000Z
-SUMMARY:Stranger Things - Chapter Six: Escape from Camazotz
-UID:0de12dc4-e12e-49bb-8d73-9ed0c8b10f92@0de1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251231T050000Z
-SUMMARY:Fallout - TBA
-UID:3b6ac4e3-8db5-433b-bbf8-1877b0bbe87a@3b6a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260215T050000Z
-SUMMARY:The Simpsons - Extreme Makeover: Homer Edition
-UID:513d8911-610f-4cda-b6e4-8e4c7f52d2b6@513d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260128T050000Z
-SUMMARY:Fallout - TBA
-UID:27e94ffa-9c99-45be-822b-dd35eb5a3e30@27e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251225T050000Z
-SUMMARY:Stranger Things - Chapter Five: Shock Jock
-UID:0acfd096-4744-4a6b-8241-cc0ec28b8d1b@0acf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:When Principal Skinner discovers that one of his students is a runaway who has been living in the school library\, he has to take the snarky\, difficult kid into his home and is forced into a role he never expected or wanted - being a parent.
-DTSTART:20251207T050000Z
-SUMMARY:The Simpsons - Guess Who's Coming to Skinner
-UID:2d071310-8205-421e-a0d3-41bde5db58e9@2d07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lynn is excited for her Swiss friend Henrik to visit\, but she grows nervous when people think they're more than friends.
-DTSTART:20251205T050000Z
-SUMMARY:The Loud House - Merry Diss-mass
-UID:2bb26965-4480-4208-8e66-56b047e96335@2bb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Angela rescues Ainsley\; Cooper asserts his leadership at a drill site.
-DTSTART:20260111T050000Z
-SUMMARY:Landman - Plans\, Tears and Sirens
-UID:21cff645-12f2-4d48-b04b-3a006f10a215@21cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Set in the near future\, Marge is competently coping with the hormonal onslaught hitting her now teenage kids when she's suddenly struck by a big life change of her own\, leaving Homer as the last sane person in the house... or is he?
-DTSTART:20251214T050000Z
-SUMMARY:The Simpsons - Parahormonal Activity
-UID:80263726-1138-4407-88c0-e0a0f3cf1be8@8026.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260111T050000Z
-SUMMARY:The Simpsons - TBA
-UID:fdbe198f-9a1e-4402-aa77-7e8c0defd263@fdbe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260121T050000Z
-SUMMARY:Fallout - TBA
-UID:997e226f-e608-4c53-bd79-51d587e6ff1a@997e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251224T050000Z
-SUMMARY:Fallout - TBA
-UID:2f41c4b6-49dc-40cb-b0ad-bdcde70ee54a@2f41.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251210T050000Z
-SUMMARY:South Park - TBA
-UID:3a9c145a-88fc-416e-846f-7339d0f4bb55@3a9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lincoln and friends start a shoveling business to raise money for David Steele on Ice tickets.
-DTSTART:20251205T050000Z
-SUMMARY:The Loud House - Just Snow With It
-UID:fd12399d-759f-4315-a31f-f040f8dc1be7@fd12.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251211T050000Z
-SUMMARY:Adventure Time: Fionna & Cake - TBA
-UID:91469e10-6ac7-4744-96c2-19595f4b8fbd@9146.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251220T050000Z
-SUMMARY:SPY x FAMILY - TBA
-UID:56b2e696-06cf-4dac-aab8-51e34728c976@56b2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251225T050000Z
-SUMMARY:Adventure Time: Fionna & Cake - TBA
-UID:9f08dd39-4a25-48b8-a0ce-c4d09199be9c@9f08.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T050000Z
-SUMMARY:Adventure Time: Fionna & Cake - The Wolves Who Wandered
-UID:5abb0646-ab0b-4dd0-9163-a85cb7b7d5c3@5abb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251231T050000Z
-SUMMARY:Stranger Things - Chapter Eight: The Rightside Up
-UID:d6b8193c-015a-4370-a367-7496589e925b@d6b8.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251218T050000Z
 SUMMARY:Adventure Time: Fionna & Cake - TBA
-UID:9f4c6abc-c104-4761-9f48-242f58b279c5@9f4c.org
+UID:07182ffa-245f-4fec-b6c3-b6f7958524ac@0718.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Homer becomes Bumblebee Man's stunt double.
 DTSTART:20260104T050000Z
 SUMMARY:The Simpsons - ¡The Fall Guy-Yi-Yi!
-UID:7d80cfbd-804f-4849-b19a-59e03e884bdb@7d80.org
+UID:f3794544-525e-447c-995d-95614db68424@f379.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T050000Z
+SUMMARY:The Simpsons - TBA
+UID:cf81ab5c-bd1a-4734-8e8a-0fd18a449519@cf81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Amid the chaos\, Tommy regroups with Cooper.
+DTSTART:20260118T050000Z
+SUMMARY:Landman - Tragedy and Flies
+UID:187c0e14-159c-4ae3-b288-f080279463dd@187c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251227T050000Z
+SUMMARY:SPY x FAMILY - TBA
+UID:5536fea8-8d4b-41a0-b7f9-1777902daae8@5536.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T050000Z
+SUMMARY:Dark Winds - tba
+UID:bc7bbda4-7232-423a-badc-b2c1adebf89b@bc7b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251210T050000Z
+SUMMARY:South Park - TBA
+UID:f2557426-7d93-4c2a-808e-dea89d0bcbe0@f255.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T050000Z
+SUMMARY:SPY x FAMILY - AUSTIN'S TROUBLES / A NORMAL MIXER
+UID:e2f2f198-d298-4e8a-9a08-65e05012ab59@e2f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251224T050000Z
+SUMMARY:Fallout - TBA
+UID:4ce0aa37-aaad-4cd5-bb6d-667b2edc99fe@4ce0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tommy and Angela's getaway turns chaotic\; Cami's plans face scrutiny.
+DTSTART:20251228T050000Z
+SUMMARY:Landman - Forever is an Instant
+UID:076131a7-745f-4d67-8113-3ecc11fdadeb@0761.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251211T050000Z
+SUMMARY:Adventure Time: Fionna & Cake - TBA
+UID:a6782097-bc60-4c1d-9e3c-c96fe2057e00@a678.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T050000Z
+SUMMARY:Fallout - TBA
+UID:76f8dcf3-5ad4-4cda-abeb-7e838dd92b68@76f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A tragic crash sets off a day of reckoning for the Norris family.
+DTSTART:20251207T050000Z
+SUMMARY:Landman - Dancing Rainbows
+UID:a6e1e4ee-44bf-4cf8-810e-b4920fdedc06@a6e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251231T050000Z
+SUMMARY:Stranger Things - Chapter Eight: The Rightside Up
+UID:6f2723d2-a16b-4af3-bca5-06819eff35d4@6f27.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260125T050000Z
+SUMMARY:The Simpsons - TBA
+UID:4e4e4c5c-55db-4218-a380-a225845764bb@4e4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tommy hires help for his father as Cami makes a risky move.
+DTSTART:20260104T050000Z
+SUMMARY:Landman - Handsome Touched Me
+UID:02545210-4db7-4df0-aa4e-f86aec3e67db@0254.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260121T050000Z
+SUMMARY:Fallout - TBA
+UID:228bdabc-1d30-4060-8d22-4448109d163e@228b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251220T050000Z
+SUMMARY:SPY x FAMILY - TBA
+UID:47cfffdc-9f4c-4762-8e89-c53c03668727@47cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260107T050000Z
+SUMMARY:Fallout - TBA
+UID:118fec10-c93b-424f-bcb4-9b3c661e0e7e@118f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T050000Z
+SUMMARY:The Simpsons - Extreme Makeover: Homer Edition
+UID:4297efa3-2b99-4cdf-a95c-a13f88c4fff3@4297.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:When Principal Skinner discovers that one of his students is a runaway who has been living in the school library\, he has to take the snarky\, difficult kid into his home and is forced into a role he never expected or wanted - being a parent.
+DTSTART:20251207T050000Z
+SUMMARY:The Simpsons - Guess Who's Coming to Skinner
+UID:2ed43501-2f67-43e8-bc9d-e305fa99961e@2ed4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lincoln and friends start a shoveling business to raise money for David Steele on Ice tickets.
+DTSTART:20251205T050000Z
+SUMMARY:The Loud House - Just Snow With It
+UID:fe6854d6-98c0-44e1-930c-14cb360fe02a@fe68.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T050000Z
+SUMMARY:Fallout - TBA
+UID:db718547-a6be-4a9c-8d8b-f578cee3e7a0@db71.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260114T050000Z
+SUMMARY:Fallout - TBA
+UID:d9c47871-682c-4bb0-bada-9106a4e2d57f@d9c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Angela rescues Ainsley\; Cooper asserts his leadership at a drill site.
+DTSTART:20260111T050000Z
+SUMMARY:Landman - Plans\, Tears and Sirens
+UID:ca629183-b7b7-4997-95de-75b2a08917e9@ca62.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251225T050000Z
+SUMMARY:Adventure Time: Fionna & Cake - TBA
+UID:6ac29c32-4712-4292-ad8f-a71bbce7029f@6ac2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Set in the near future\, Marge is competently coping with the hormonal onslaught hitting her now teenage kids when she's suddenly struck by a big life change of her own\, leaving Homer as the last sane person in the house... or is he?
+DTSTART:20251214T050000Z
+SUMMARY:The Simpsons - Parahormonal Activity
+UID:7bc4d280-c108-467c-9ef9-19600c417dde@7bc4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251225T050000Z
+SUMMARY:Stranger Things - Chapter Five: Shock Jock
+UID:41fbab7c-ad89-40de-a3b4-ed782f63afad@41fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251225T050000Z
+SUMMARY:Stranger Things - Chapter Six: Escape from Camazotz
+UID:9a11028a-606d-480b-a0d7-9871a1c757dd@9a11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tommy juggles multiple crises\; Angela throws a dinner to welcome T.L.
+DTSTART:20251214T050000Z
+SUMMARY:Landman - The Pirate Dinner
+UID:3af8e7c7-416b-407b-af9d-3fb7478e638d@3af8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251231T050000Z
+SUMMARY:Fallout - TBA
+UID:073f6685-b5a4-4ff7-afd4-1b46ad9d7c5f@073f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T050000Z
+SUMMARY:SPY x FAMILY - TBA
+UID:6e9ea1d3-4715-4bf1-b195-014f132ae075@6e9e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251225T050000Z
+SUMMARY:Stranger Things - Chapter Seven: The Bridge
+UID:02693664-0bae-4d8e-8872-aaa607cc365b@0269.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lynn is excited for her Swiss friend Henrik to visit\, but she grows nervous when people think they're more than friends.
+DTSTART:20251205T050000Z
+SUMMARY:The Loud House - Merry Diss-mass
+UID:cdae2f58-73f1-4c58-9c98-475e138589cb@cdae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T050000Z
+SUMMARY:The Simpsons - TBA
+UID:953a009c-2816-459b-bcd1-0bcce1a77a0e@953a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T050000Z
+SUMMARY:Fallout - TBA
+UID:401d2bb5-3981-430d-9e42-aeb3f2d7778f@401d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tommy negotiates a risky offshore drilling deal as tensions rise with Cami.
+DTSTART:20251221T050000Z
+SUMMARY:Landman - Dark Night of the Soul
+UID:61961651-6e0f-42d0-8279-2beef74efe04@6196.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251204T050000Z
+SUMMARY:Adventure Time: Fionna & Cake - The Wolves Who Wandered
+UID:5b26f1fd-8dee-4bb2-96d2-fe7e5361e3d3@5b26.org
 END:VEVENT
 END:VCALENDAR
