@@ -12,7 +12,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20251218
-DTSTAMP:20251213T050027Z
+DTSTAMP:20251214T050109Z
 DTSTART;VALUE=DATE:20251217
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -21,10 +21,12 @@ UID:Radarr_movie_1288_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Entertainment One
-DESCRIPTION:An eight-year-old girl asks her scheming neighbor for help in 
- killing the monster under her bed that she thinks ate her family.
+DESCRIPTION:Ten-year-old Aurora asks her hitman neighbor to kill the monst
+ er she believes ate her entire family. To protect her\, he'll need to bat
+ tle an onslaught of assassins while accepting the fact that some monsters
+  are real.
 DTEND;VALUE=DATE:20251212
-DTSTAMP:20251213T050027Z
+DTSTAMP:20251214T050109Z
 DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -36,7 +38,7 @@ CATEGORIES:A24
 DESCRIPTION:In 1950s New York\, Marty Mauser\, a young man with a dream no
   one respects\, goes to hell and back in pursuit of greatness.
 DTEND;VALUE=DATE:20251226
-DTSTAMP:20251213T050027Z
+DTSTAMP:20251214T050109Z
 DTSTART;VALUE=DATE:20251225
 SEQUENCE:0
 STATUS:TENTATIVE
