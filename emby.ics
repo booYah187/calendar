@@ -2,163 +2,188 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART:20260114T050000Z
-SUMMARY:Fallout - TBA
-UID:7cc4f4cd-c43d-4ce7-80c0-db493fb49a94@7cc4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Amid the chaos\, Tommy regroups with Cooper.
-DTSTART:20260118T050000Z
-SUMMARY:Landman - Tragedy and Flies
-UID:ce1f7041-3bd7-48c4-bbae-a1848e468366@ce1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Homer's enthusiasm skills land him a job at a secretive company with a mind-altering agenda.
-DTSTART:20260104T050000Z
-SUMMARY:The Simpsons - Seperance
-UID:755d57ce-f7e3-41c5-847b-a9341848141e@755d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251220T050000Z
-SUMMARY:SPY x FAMILY - BATTLE TO THE DEATH IN THE SEWERS
-UID:3dd6535a-57ee-439e-b418-7bdb6530e1fe@3dd6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251231T050000Z
-SUMMARY:Fallout - TBA
-UID:d7efafa6-8762-408e-8c2a-c8d802bb689d@d7ef.org
+DTSTART:20251225T050000Z
+SUMMARY:Adventure Time: Fionna & Cake - TBA
+UID:4d571d70-2c46-45fb-b8d3-b9a8fea6cfea@4d57.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T050000Z
-SUMMARY:Fallout - TBA
-UID:308530ed-9b1b-4798-9227-620d4bfe85b5@3085.org
+SUMMARY:Fallout - The Fall
+UID:4c25e955-4233-4169-8fbd-3daab9a205b0@4c25.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Tommy and Angela's getaway turns chaotic\; Cami's plans face scrutiny.
-DTSTART:20251228T050000Z
-SUMMARY:Landman - Forever is an Instant
-UID:cb783ecf-3d56-4dfc-b900-c4bda9e1c161@cb78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tommy negotiates a risky offshore drilling deal as tensions rise with Cami.
-DTSTART:20251221T050000Z
-SUMMARY:Landman - Dark Night of the Soul
-UID:1eae565d-7003-45f5-8e09-fd4f9600847c@1eae.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251227T050000Z
-SUMMARY:SPY x FAMILY - TBA
-UID:925e4d07-1c8f-466d-8377-277d0fc6c980@925e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251225T050000Z
-SUMMARY:Stranger Things - Chapter Six: Escape from Camazotz
-UID:51f39912-8312-4b78-a073-bda192247c89@51f3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251217T050000Z
-SUMMARY:Fallout - TBA
-UID:333854fb-37b2-4090-a0fb-a38c1a0a9227@3338.org
+DESCRIPTION:As the sun rises over the castle\, the players head to breakfast\, but will the Traitors’ latest move give the Faithful any clues to their identity?
+DTSTART:20260103T050000Z
+SUMMARY:The Traitors (UK) - Episode 3
+UID:45fa2eb8-674b-450a-8ca1-e24257087fe2@45fa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Claudia Winkleman invites a brand new group of people to the Scottish Highlands to play the ultimate game of detection\, backstabbing and trust.
 DTSTART:20260101T050000Z
 SUMMARY:The Traitors (UK) - Episode 1
-UID:974295fd-780d-4fd4-a3f0-d939e9062174@9742.org
+UID:69daa182-3b80-4ca6-9e98-88ccef6ef63f@69da.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260215T050000Z
-SUMMARY:The Simpsons - Extreme Makeover: Homer Edition
-UID:f7cd04e3-5610-447f-a560-8e006d8d569b@f7cd.org
+DESCRIPTION:New day\, new drama as the players arrive to a breakfast that poses more questions than provides answers. Can new leads present an opportunity to oust a Traitor\, or have the Faithful been hoodwinked?
+DTSTART:20260107T050000Z
+SUMMARY:The Traitors (UK) - Episode 4
+UID:93003b60-522e-4207-9dd1-5d415efcda54@9300.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251225T050000Z
-SUMMARY:Stranger Things - Chapter Five: Shock Jock
-UID:72e051b2-9e06-4554-86e5-1e146f0e1d12@72e0.org
+DTSTART:20260114T050000Z
+SUMMARY:Fallout - The Enemy
+UID:8cd4db18-39b7-4568-bc9f-b456cc35cb87@8cd4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T050000Z
+SUMMARY:Fallout - The Mother
+UID:971d2b2e-d7d3-413d-8ef1-8456c15d72b6@971d.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T050000Z
-SUMMARY:Fallout - TBA
-UID:d0bf60f1-559e-4784-8ecd-843aac96f413@d0bf.org
+SUMMARY:Fallout - The Knights
+UID:a4137cdd-41de-4265-b77f-00f62f6482e5@a413.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:As the game reaches the half-way point\, are the players inching closer to uncovering the Traitors? The mission encourages everyone to reflect on their time in the castle.
+DTSTART:20260109T050000Z
+SUMMARY:The Traitors (UK) - Episode 6
+UID:3cb2ee4c-5a67-4b4f-ba4d-28ae405bef75@3cb2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T050000Z
+SUMMARY:The Simpsons - TBA
+UID:f75789f4-7d9a-42f3-bada-433f220015c2@f757.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Every dollar spent is a vote cast.
+DTSTART:20251217T050000Z
+SUMMARY:Fallout - The Innovator
+UID:b0fb29ba-1aee-402c-a945-78094138bb5c@b0fb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Angela rescues Ainsley\; Cooper asserts his leadership at a drill site.
 DTSTART:20260111T050000Z
 SUMMARY:Landman - Plans\, Tears and Sirens
-UID:6f37cb06-29a0-46a9-988f-6059a2fb4e4a@6f37.org
+UID:05ea5839-8ce1-427b-a6ba-a82083023ced@05ea.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T050000Z
-SUMMARY:Fallout - TBA
-UID:ec6024a7-fd11-4e2b-866c-425156b1bd06@ec60.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260107T050000Z
-SUMMARY:Fallout - TBA
-UID:509dd7bf-741f-441d-85aa-eeeb875ede52@509d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260215T050000Z
-SUMMARY:Dark Winds - tba
-UID:7b30bf3c-c55a-4a73-84b7-3fe735c82b22@7b30.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251225T050000Z
-SUMMARY:Adventure Time: Fionna & Cake - TBA
-UID:be3e879d-3559-4af8-91d1-67110bf8794b@be3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Homer revitalizes Bumblebee Man's career when he becomes his secret stuntman. But how much punishment can a Stunt-Bee take before it starts to sting?
-DTSTART:20251228T050000Z
-SUMMARY:The Simpsons - ¡The Fall Guy-Yi-Yi!
-UID:238a9461-c8de-4911-9c4f-5e758ee41112@238a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260111T050000Z
-SUMMARY:The Simpsons - TBA
-UID:34cfb981-d55b-46a5-b483-eaf68bca702d@34cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251225T050000Z
-SUMMARY:Stranger Things - Chapter Seven: The Bridge
-UID:9d7bd597-fefd-4d6b-b80c-6d6794e015d1@9d7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:As the players face a new day\, the big question is - who survived the night and will make it to breakfast? It isn’t long before they attempt to increase the prize-pot in the mission.
-DTSTART:20260102T050000Z
-SUMMARY:The Traitors (UK) - Episode 2
-UID:482966bd-d631-42d9-9cc3-60dd32fa74d9@4829.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260118T050000Z
-SUMMARY:The Simpsons - TBA
-UID:3797d266-a4e6-4406-b8d0-c0f25536a24a@3797.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260204T050000Z
-SUMMARY:Fallout - TBA
-UID:b8dc9d2c-c80e-4c13-9788-d6325aa050ed@b8dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251231T050000Z
-SUMMARY:Stranger Things - Chapter Eight: The Rightside Up
-UID:4ec1104e-c0e1-4a96-a5ed-507dba37143d@4ec1.org
+SUMMARY:Fallout - The Casino
+UID:2c993adb-7626-4d39-82bd-be5a253c330b@2c99.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Tommy hires help for his father as Cami makes a risky move.
 DTSTART:20260104T050000Z
 SUMMARY:Landman - Handsome Touched Me
-UID:753f054d-e6e1-459a-a084-948f5eb4bc83@753f.org
+UID:cc2cc43a-d89b-4287-902e-f055cfb30d76@cc2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251225T050000Z
+SUMMARY:Stranger Things - Chapter Seven: The Bridge
+UID:755dd975-e3d1-4773-a384-7988b6cdbbf3@755d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Claudia Winkleman presents a concert featuring melodramatic versions of pop tunes heard on The Traitors from Britney Spears’ Toxic to Billie Eilish’s Bad Guy. There are also dramatic classical favourites including O Fortuna from Carmina Burana and Lacrimosa from Mozart’s Requiem\, plus an exclusive new take on the series’ famous theme tune written by composer Sam Watts. Joined by famous faces from past series as well as characters from the challenges\, this is a musical invitation into the world of The Traitors for all fans - whether you’re a Faithful or a Traitor.
 DTSTART:20260101T050000Z
 SUMMARY:The Traitors (UK) - The Traitors at the Proms
-UID:dbe74f8e-96a4-4835-93c1-498e39c9e821@dbe7.org
+UID:36e9fcce-0552-49ff-90f5-81e4e4011027@36e9.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T050000Z
-SUMMARY:Adventure Time: Fionna & Cake - TBA
-UID:71c07e5f-a5cc-472d-8a13-29989f0e20e8@71c0.org
+SUMMARY:Adventure Time: Fionna & Cake - The Worm and his Orchard
+UID:995f428e-94ab-41ee-aec5-6f8155e1a0ad@995f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251225T050000Z
+SUMMARY:Stranger Things - Chapter Six: Escape from Camazotz
+UID:b9b7a96e-52a9-407c-a4d7-bce7807cf496@b9b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:As the players face a new day\, the big question is - who survived the night and will make it to breakfast? It isn’t long before they attempt to increase the prize-pot in the mission.
+DTSTART:20260102T050000Z
+SUMMARY:The Traitors (UK) - Episode 2
+UID:7c008f9b-5a1d-4dd6-a282-fcce0f15962c@7c00.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251220T050000Z
+SUMMARY:SPY x FAMILY - BATTLE TO THE DEATH IN THE SEWERS
+UID:c3eaa741-0d5d-4434-9fad-5cbdfae3e89f@c3ea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251225T050000Z
+SUMMARY:Stranger Things - Chapter Five: Shock Jock
+UID:0c57f57b-5fbd-4e09-ab62-f7bec7c114f2@0c57.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260107T050000Z
+SUMMARY:Fallout - The Dog
+UID:81dea5e8-f41e-4966-a921-c0682e207589@81de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T050000Z
+SUMMARY:The Simpsons - Extreme Makeover: Homer Edition
+UID:bb46b9c8-d33a-4441-be56-00add561ccb2@bb46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tommy negotiates a risky offshore drilling deal as tensions rise with Cami.
+DTSTART:20251221T050000Z
+SUMMARY:Landman - Dark Night of the Soul
+UID:fb1cc111-f154-4f87-83be-028cc951bd56@fb1c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251231T050000Z
+SUMMARY:Stranger Things - Chapter Eight: The Rightside Up
+UID:46e43f7c-25a5-46c5-b671-16bc725a74f6@46e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T050000Z
+SUMMARY:Dark Winds - tba
+UID:f0fca8f2-2cb9-412e-b72c-ee1889743948@f0fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251231T050000Z
+SUMMARY:Fallout - The Sandstorm
+UID:18a3a7da-89eb-48a4-bb94-cd97e46df1ba@18a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251227T050000Z
+SUMMARY:SPY x FAMILY - TBA
+UID:3c681144-73d0-4de3-a876-89a6d07b90ad@3c68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Homer revitalizes Bumblebee Man's career when he becomes his secret stuntman. But how much punishment can a Stunt-Bee take before it starts to sting?
+DTSTART:20251228T050000Z
+SUMMARY:The Simpsons - ¡The Fall Guy-Yi-Yi!
+UID:00c9cfcc-5365-4d68-95d1-80a045f3ebfb@00c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tommy and Angela's getaway turns chaotic\; Cami's plans face scrutiny.
+DTSTART:20251228T050000Z
+SUMMARY:Landman - Forever is an Instant
+UID:6eae4b36-3be9-4232-aee6-f044186f181b@6eae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T050000Z
+SUMMARY:The Simpsons - TBA
+UID:0302b716-663a-4c5b-adbc-3eb1f7b01323@0302.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Homer's enthusiasm skills land him a job at a secretive company with a mind-altering agenda.
+DTSTART:20260104T050000Z
+SUMMARY:The Simpsons - Seperance
+UID:47cb4cda-b60c-402b-b267-94b419ffb1b9@47cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Following a sleepless night\, the players arrive at breakfast eager to share their thoughts on the Traitors’ gameplay. With a mission focused on protection from murder\, true intentions are laid bare.
+DTSTART:20260108T050000Z
+SUMMARY:The Traitors (UK) - Episode 5
+UID:72be2291-a6eb-4696-a1ff-40642149d00f@72be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Amid the chaos\, Tommy regroups with Cooper.
+DTSTART:20260118T050000Z
+SUMMARY:Landman - Tragedy and Flies
+UID:d41483f1-b508-40de-a4a3-e3d204161223@d414.org
 END:VEVENT
 END:VCALENDAR
