@@ -9,28 +9,12 @@ DESCRIPTION:Dr. Kelson finds himself in a shocking new relationship - with
   consequences that could change the world as they know it - and Spike's e
  ncounter with Jimmy Crystal becomes a nightmare he can't escape.
 DTEND;VALUE=DATE:20260115
-DTSTAMP:20251224T050021Z
+DTSTAMP:20251225T050036Z
 DTSTART;VALUE=DATE:20260114
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:28 Years Later: The Bone Temple (Theatrical Release)
 UID:Radarr_movie_1226_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:20th Century Studios
-DESCRIPTION:In the wake of the devastating war against the RDA and the los
- s of their eldest son\, Jake Sully and Neytiri face a new threat on Pando
- ra: the Ash People\, a violent and power-hungry Na'vi tribe led by the ru
- thless Varang. Jake's family must fight for their survival and the future
-  of Pandora in a conflict that pushes them to their emotional and physica
- l limits.
-DTEND;VALUE=DATE:20251218
-DTSTAMP:20251224T050021Z
-DTSTART;VALUE=DATE:20251217
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Avatar: Fire and Ash (Theatrical Release)
-UID:Radarr_movie_1288_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Entertainment One
@@ -39,7 +23,7 @@ DESCRIPTION:Ten-year-old Aurora asks her hitman neighbor to kill the monst
  tle an onslaught of assassins while accepting the fact that some monsters
   are real.
 DTEND;VALUE=DATE:20251212
-DTSTAMP:20251224T050021Z
+DTSTAMP:20251225T050036Z
 DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -53,7 +37,7 @@ DESCRIPTION:Ten-year-old Aurora asks her hitman neighbor to kill the monst
  tle an onslaught of assassins while accepting the fact that some monsters
   are real.
 DTEND;VALUE=DATE:20260114
-DTSTAMP:20251224T050021Z
+DTSTAMP:20251225T050036Z
 DTSTART;VALUE=DATE:20260113
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -65,7 +49,7 @@ CATEGORIES:A24
 DESCRIPTION:In 1950s New York City\, Marty Mauser\, a young man with a dre
  am no one respects\, goes to hell and back in pursuit of greatness.
 DTEND;VALUE=DATE:20251226
-DTSTAMP:20251224T050021Z
+DTSTAMP:20251225T050036Z
 DTSTART;VALUE=DATE:20251225
 SEQUENCE:0
 STATUS:TENTATIVE
