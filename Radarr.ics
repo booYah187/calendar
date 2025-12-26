@@ -9,7 +9,7 @@ DESCRIPTION:Dr. Kelson finds himself in a shocking new relationship - with
   consequences that could change the world as they know it - and Spike's e
  ncounter with Jimmy Crystal becomes a nightmare he can't escape.
 DTEND;VALUE=DATE:20260115
-DTSTAMP:20251225T050036Z
+DTSTAMP:20251226T050038Z
 DTSTART;VALUE=DATE:20260114
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -23,7 +23,7 @@ DESCRIPTION:Ten-year-old Aurora asks her hitman neighbor to kill the monst
  tle an onslaught of assassins while accepting the fact that some monsters
   are real.
 DTEND;VALUE=DATE:20251212
-DTSTAMP:20251225T050036Z
+DTSTAMP:20251226T050038Z
 DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -37,7 +37,7 @@ DESCRIPTION:Ten-year-old Aurora asks her hitman neighbor to kill the monst
  tle an onslaught of assassins while accepting the fact that some monsters
   are real.
 DTEND;VALUE=DATE:20260114
-DTSTAMP:20251225T050036Z
+DTSTAMP:20251226T050038Z
 DTSTART;VALUE=DATE:20260113
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -46,13 +46,13 @@ UID:Radarr_movie_2886_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:A24
-DESCRIPTION:In 1950s New York City\, Marty Mauser\, a young man with a dre
- am no one respects\, goes to hell and back in pursuit of greatness.
+DESCRIPTION:Marty Mauser\, a young man with a dream no one respects\, goes
+  to hell and back in pursuit of greatness.
 DTEND;VALUE=DATE:20251226
-DTSTAMP:20251225T050036Z
+DTSTAMP:20251226T050038Z
 DTSTART;VALUE=DATE:20251225
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Marty Supreme (Theatrical Release)
 UID:Radarr_movie_2920_cinemas
 END:VEVENT
