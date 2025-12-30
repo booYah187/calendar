@@ -2,175 +2,169 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Tommy hires help for his father as Cami makes a risky move.
-DTSTART:20260104T050000Z
-SUMMARY:Landman - Handsome Touched Me
-UID:5b8eccaa-ae61-4f6f-a859-907eee48bdc8@5b8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:When Mom and the twins win a raffle to spend a weekend at a resort\, Lana struggles to leave her pets behind.
-DTSTART:20260116T050000Z
-SUMMARY:The Loud House - Pet Project
-UID:8e8a6b10-c312-4205-8fda-be9f0506a035@8e8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:After Lincoln tests a magic trick on Grouse\, they get handcuffed together and Grouse has to spend the day at middle school.
-DTSTART:20260116T050000Z
-SUMMARY:The Loud House - Cuff Break
-UID:22a43b17-65c0-4903-99fa-aa06fe4ec898@22a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Claudia Winkleman hosts a spine-tingling concert full of dramatic tunes and asks a packed Royal Albert Hall audience to help find the hidden traitors. With surprise guests.
-DTSTART:20260101T050000Z
-SUMMARY:The Traitors (UK) - The Traitors at the Proms
-UID:d01fedf2-a3a8-40dd-be09-7bcc278012aa@d01f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:As the game reaches the half-way point\, are the players inching closer to uncovering the Traitors? The mission encourages everyone to reflect on their time in the castle.
-DTSTART:20260109T050000Z
-SUMMARY:The Traitors (UK) - Episode 6
-UID:a2e83b21-242a-43cf-9814-584735828809@a2e8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260215T050000Z
-SUMMARY:Dark Winds - tba
-UID:6ec1c932-8d07-41d8-b28d-10d5f6a3e057@6ec1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Big Whoop.
-DTSTART:20260114T050000Z
-SUMMARY:Fallout - The Wrangler
-UID:3acb866f-6a61-4927-9c66-ae12862aac89@3acb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260111T050000Z
-SUMMARY:The Simpsons - TBA
-UID:7cb40312-8b82-4015-a4bc-ceb94a183ca9@7cb4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260128T050000Z
-SUMMARY:Fallout - The Handoff
-UID:049e0219-e365-4983-a88d-6f66cf01c761@049e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251231T050000Z
-SUMMARY:Stranger Things - Chapter Eight: The Rightside Up
-UID:52ca48f3-a941-437f-a254-ecaf4bacfb18@52ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Angela rescues Ainsley\; Cooper asserts his leadership at a drill site.
-DTSTART:20260111T050000Z
-SUMMARY:Landman - Plans\, Tears and Sirens
-UID:61f49f56-c777-4e23-9697-1612734ae307@61f4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260121T050000Z
-SUMMARY:Fallout - The Other Player
-UID:8cb616e2-445d-40d2-96f0-b3b822bd6be8@8cb6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260215T050000Z
-SUMMARY:The Simpsons - Extreme Makeover: Homer Edition
-UID:fe5424f0-e524-4ab3-bf8a-2c3db0197398@fe54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Most kids are dead by this age.
-DTSTART:20251231T050000Z
-SUMMARY:Fallout - The Profligate
-UID:34ff3b49-3076-490c-9a83-6169c9efd617@34ff.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:When Lori and Bobby find a kitten\, they decide to co-parent and swap the kitten back and forth between their homes.
 DTSTART:20260109T050000Z
 SUMMARY:The Loud House - Meet the Purrents
-UID:b46b9094-8fbf-4030-b729-c222d7cc92b8@b46b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Following a sleepless night\, the players arrive at breakfast eager to share their thoughts on the Traitors’ gameplay. With a mission focused on protection from murder\, true intentions are laid bare.
-DTSTART:20260108T050000Z
-SUMMARY:The Traitors (UK) - Episode 5
-UID:879b0c2b-a3f6-4248-baed-b720c160121d@879b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Homer revitalizes Bumblebee Man's career when he becomes his secret stuntman. But how much punishment can a Stunt-Bee take before it starts to sting?
-DTSTART:20251228T050000Z
-SUMMARY:The Simpsons - ¡The Fall Guy-Yi-Yi!
-UID:243ba3c7-11e9-4c09-a995-782b75b1d2f2@243b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:After telling her family how great her apartment is\, Lori unknowingly entices her sisters to secretly take over her space.
-DTSTART:20260109T050000Z
-SUMMARY:The Loud House - Apartment Complex
-UID:9f44988b-c8bf-430c-a2cb-95c84fb5b1aa@9f44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:New day\, new drama as the players arrive to a breakfast that poses more questions than provides answers. Can new leads present an opportunity to oust a Traitor\, or have the Faithful been hoodwinked?
-DTSTART:20260107T050000Z
-SUMMARY:The Traitors (UK) - Episode 4
-UID:4a8934a8-5c4e-4b87-a72d-38b04603883f@4a89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tommy and Angela's getaway turns chaotic\; Cami's plans face scrutiny.
-DTSTART:20251228T050000Z
-SUMMARY:Landman - Forever is an Instant
-UID:a19b3d09-dbf7-4697-8d20-113cff95021e@a19b.org
+UID:04e65b0b-0ed4-49c7-9123-40cc55b60587@04e6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Amid the chaos\, Tommy regroups with Cooper.
 DTSTART:20260118T050000Z
 SUMMARY:Landman - Tragedy and Flies
-UID:12efdec6-936d-4730-92e5-edf9e7034de9@12ef.org
+UID:14a8ec43-8d89-4098-a0df-0beff0196af4@14a8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Lynn uses a crystal ball to see her future and then goes totally bananas trying to control what the future will be.
-DTSTART:20260102T050000Z
-SUMMARY:The Loud House - Crystal Ballin'
-UID:831988a7-6b95-4f46-a730-864efea88ddb@8319.org
+DTSTART:20260128T050000Z
+SUMMARY:Fallout - The Handoff
+UID:6d7eb26e-e67c-4ab0-a654-617307eccaac@6d7e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:As the sun rises over the castle\, the players head to breakfast\, but will the Traitors’ latest move give the Faithful any clues to their identity?
-DTSTART:20260103T050000Z
-SUMMARY:The Traitors (UK) - Episode 3
-UID:f47450f3-b1a6-49de-abb8-0d8bced1a722@f474.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Rock to spear and so on...
-DTSTART:20260107T050000Z
-SUMMARY:Fallout - The Demon in the Snow
-UID:b2daa3c5-7538-4a88-9ec8-c2672f6fd0b9@b2da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:As the players face a new day\, the big question is - who survived the night and will make it to breakfast? It isn’t long before they attempt to increase the prize-pot in the mission.
-DTSTART:20260102T050000Z
-SUMMARY:The Traitors (UK) - Episode 2
-UID:01816b36-33e5-4a3d-b61d-3bc680212e58@0181.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260118T050000Z
-SUMMARY:The Simpsons - TBA
-UID:9ed038e6-3c03-45e9-88fe-baeb9a3b9c1a@9ed0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260204T050000Z
-SUMMARY:Fallout - The Strip
-UID:40e263f2-0444-4a50-9fbd-d0447b270c4e@40e2.org
+DESCRIPTION:After telling her family how great her apartment is\, Lori unknowingly entices her sisters to secretly take over her space.
+DTSTART:20260109T050000Z
+SUMMARY:The Loud House - Apartment Complex
+UID:3c5c856c-e130-4cf1-abd2-b8ab0cc73342@3c5c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Lincoln\, Clyde and Kara win a gaming contest put on by a streamer named Thumbz.
 DTSTART:20260102T050000Z
 SUMMARY:The Loud House - The Most Dangerous Gamer
-UID:22b682e3-1c84-4e1f-b0c1-95869d77c52a@22b6.org
+UID:e5524d97-6329-4c7a-a0e0-cc501e2074c3@e552.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Homer's enthusiasm skills land him a job at a secretive company with a mind-altering agenda.
 DTSTART:20260104T050000Z
 SUMMARY:The Simpsons - Seperance
-UID:f04211be-8148-48be-a063-79e7baac1110@f042.org
+UID:1a52faf0-575d-493a-98bb-793f03bc4cde@1a52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Reserved
+DTSTART:20260101T050000Z
+SUMMARY:Stranger Things - Stranger Scenes: Chapter Eight:
+UID:d961e08d-0965-4f2c-ac4d-85c0428a2eb8@d961.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:As the sun rises over the castle\, the players head to breakfast\, but will the Traitors’ latest move give the Faithful any clues to their identity?
+DTSTART:20260103T050000Z
+SUMMARY:The Traitors (UK) - Episode 3
+UID:26e64034-ca70-4bcf-a903-c85329b9bede@26e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tommy hires help for his father as Cami makes a risky move.
+DTSTART:20260104T050000Z
+SUMMARY:Landman - Handsome Touched Me
+UID:e35510b1-fe6d-44ef-85a5-7568e94a7084@e355.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:As the players face a new day\, the big question is - who survived the night and will make it to breakfast? It isn’t long before they attempt to increase the prize-pot in the mission.
+DTSTART:20260102T050000Z
+SUMMARY:The Traitors (UK) - Episode 2
+UID:bcb73360-b6aa-4ae8-ae07-1002c811a79e@bcb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Big Whoop.
+DTSTART:20260114T050000Z
+SUMMARY:Fallout - The Wrangler
+UID:5bfb27ca-73cb-4ddf-8fd2-587ab941fb0f@5bfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:New day\, new drama as the players arrive to a breakfast that poses more questions than provides answers. Can new leads present an opportunity to oust a Traitor\, or have the Faithful been hoodwinked?
+DTSTART:20260107T050000Z
+SUMMARY:The Traitors (UK) - Episode 4
+UID:6a0788c2-5346-48d0-af00-755bb1180bd5@6a07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lynn uses a crystal ball to see her future and then goes totally bananas trying to control what the future will be.
+DTSTART:20260102T050000Z
+SUMMARY:The Loud House - Crystal Ballin'
+UID:2795b39e-630c-4f40-9b0c-57ad57f05bb3@2795.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:When Mom and the twins win a raffle to spend a weekend at a resort\, Lana struggles to leave her pets behind.
+DTSTART:20260116T050000Z
+SUMMARY:The Loud House - Pet Project
+UID:1ecd78ea-1c95-4559-9fff-38ee02f20b58@1ecd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T050000Z
+SUMMARY:Dark Winds - tba
+UID:4ffeb201-e902-4c34-bae8-374f69ec41b9@4ffe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Most kids are dead by this age.
+DTSTART:20251231T050000Z
+SUMMARY:Fallout - The Profligate
+UID:4eb3af69-21ac-4580-a8fb-238c55307db2@4eb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Angela rescues Ainsley\; Cooper asserts his leadership at a drill site.
+DTSTART:20260111T050000Z
+SUMMARY:Landman - Plans\, Tears and Sirens
+UID:f8f1a242-c255-4509-a895-79eaa4f45ad2@f8f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260121T050000Z
+SUMMARY:Fallout - The Other Player
+UID:15a55af4-483d-408b-a0de-4744ed3045eb@15a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T050000Z
+SUMMARY:The Simpsons - TBA
+UID:12b11934-d086-40f4-8819-1f2bf5d2eb46@12b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:After Lincoln tests a magic trick on Grouse\, they get handcuffed together and Grouse has to spend the day at middle school.
+DTSTART:20260116T050000Z
+SUMMARY:The Loud House - Cuff Break
+UID:eb13359d-7b04-4f5c-abe9-c0c6cee37cc5@eb13.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T050000Z
+SUMMARY:Fallout - The Strip
+UID:dcee00a4-edb8-4be1-8d2f-92a87a5c490e@dcee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251231T050000Z
+SUMMARY:Stranger Things - Chapter Eight: The Rightside Up
+UID:222a4550-ecf5-4f06-ab79-b8b5f6fcb1a5@222a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Claudia Winkleman hosts a spine-tingling concert full of dramatic tunes and asks a packed Royal Albert Hall audience to help find the hidden traitors. With surprise guests.
+DTSTART:20260101T050000Z
+SUMMARY:The Traitors (UK) - The Traitors at the Proms
+UID:19ebe512-a115-4878-bf1c-7dd0b8f20b45@19eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Rock to spear and so on...
+DTSTART:20260107T050000Z
+SUMMARY:Fallout - The Demon in the Snow
+UID:bece7694-5e90-4f88-8cbb-b5e16a4ae815@bece.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T050000Z
+SUMMARY:The Simpsons - TBA
+UID:957f28b4-5fe6-4539-8746-e4d20f5a4a74@957f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T050000Z
+SUMMARY:The Simpsons - Extreme Makeover: Homer Edition
+UID:7300a632-7035-40b5-8ff3-759389e50cfd@7300.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Claudia Winkleman invites a brand new group of people to the Scottish Highlands to play the ultimate game of detection\, backstabbing and trust.
 DTSTART:20260101T050000Z
 SUMMARY:The Traitors (UK) - Episode 1
-UID:b5050683-3f30-4e48-a2c1-ec836b6464f6@b505.org
+UID:a224123c-eb94-4c6a-8c50-7bd238c49586@a224.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Following a sleepless night\, the players arrive at breakfast eager to share their thoughts on the Traitors’ gameplay. With a mission focused on protection from murder\, true intentions are laid bare.
+DTSTART:20260108T050000Z
+SUMMARY:The Traitors (UK) - Episode 5
+UID:9e69b07e-d80d-4fb2-a106-f7257a62f75b@9e69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:As the game reaches the half-way point\, are the players inching closer to uncovering the Traitors? The mission encourages everyone to reflect on their time in the castle.
+DTSTART:20260109T050000Z
+SUMMARY:The Traitors (UK) - Episode 6
+UID:6699798c-8f47-4520-8f17-f0e871b38b25@6699.org
 END:VEVENT
 END:VCALENDAR
