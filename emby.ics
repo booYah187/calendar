@@ -2,155 +2,149 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART:20260215T050000Z
-SUMMARY:The Simpsons - Extreme Makeover: Homer Edition
-UID:b401cfc2-96c4-43af-864f-1ac25eb07d8a@b401.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260121T050000Z
-SUMMARY:The Traitors (UK) - Episode 10
-UID:319a3eda-63d6-4810-8476-b9f392f07b84@319a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260204T050000Z
-SUMMARY:Fallout - The Strip
-UID:5a022c3c-b878-4554-8e51-517943dd2eed@5a02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:When Lori and Bobby find a kitten\, they decide to co-parent and swap the kitten back and forth between their homes.
-DTSTART:20260109T050000Z
-SUMMARY:The Loud House - Meet the Purrents
-UID:92f1a308-3eb0-422f-9962-f7274570f395@92f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Angela rescues Ainsley\; Cooper asserts his leadership at a drill site.
-DTSTART:20260111T050000Z
-SUMMARY:Landman - Plans\, Tears and Sirens
-UID:9e0f3b3d-e9d1-4506-81ff-c2678cfd073e@9e0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Traitors’ latest gameplay makes the Faithful more determined than ever to uncover their identity. The mission puts the Traitors under intense pressure\, which continues to build at the Round Table.
-DTSTART:20260116T050000Z
-SUMMARY:The Traitors (UK) - Episode 9
-UID:1a4f7cfb-16ce-424b-b1f7-78c66d545da5@1a4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:New day\, new drama as the players arrive to a breakfast that poses more questions than provides answers. Can new leads present an opportunity to oust a Traitor\, or have the Faithful been hoodwinked?
-DTSTART:20260107T050000Z
-SUMMARY:The Traitors (UK) - Episode 4
-UID:c4bf68ab-c0b3-4f02-b375-7043bfd9744a@c4bf.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Big Whoop.
 DTSTART:20260114T050000Z
 SUMMARY:Fallout - The Wrangler
-UID:e43f17b0-f485-4114-9324-92aab53ae119@e43f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:After telling her family how great her apartment is\, Lori unknowingly entices her sisters to secretly take over her space.
-DTSTART:20260109T050000Z
-SUMMARY:The Loud House - Apartment Complex
-UID:920a4c5b-0f8f-4727-a662-15cc991e4b93@920a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260118T050000Z
-SUMMARY:The Simpsons - TBA
-UID:5bf44f01-89a4-46a8-a823-ee310b6b7199@5bf4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Following a sleepless night\, the players arrive at breakfast eager to share their thoughts on the Traitors’ gameplay. With a mission focused on protection from murder\, true intentions are laid bare.
-DTSTART:20260108T050000Z
-SUMMARY:The Traitors (UK) - Episode 5
-UID:385f35e2-9fcf-4368-aaf2-14ee63c64fad@385f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:As the sun rises over the castle\, the players head to breakfast\, but will the Traitors’ latest move give the Faithful any clues to their identity?
-DTSTART:20260103T050000Z
-SUMMARY:The Traitors (UK) - Episode 3
-UID:b77cba22-41fb-495b-8ac2-e1b3e9f61654@b77c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260215T050000Z
-SUMMARY:Dark Winds - tba
-UID:71942788-6458-48b6-a017-439c682a055d@7194.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Breakfast delivers a wake-up call for the Faithful\, with the Traitors making their next dastardly move. The mission proves to be a living nightmare for the players\, but can they hold their nerve?
-DTSTART:20260115T050000Z
-SUMMARY:The Traitors (UK) - Episode 8
-UID:dc35bcb5-8210-4389-85ac-e6fec99243a8@dc35.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260128T050000Z
-SUMMARY:Fallout - The Handoff
-UID:2537bb92-1250-43e1-9da3-3c79b3126a01@2537.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tommy hires help for his father as Cami makes a risky move.
-DTSTART:20260104T050000Z
-SUMMARY:Landman - Handsome Touched Me
-UID:39196f3d-8747-4781-8af8-7ef9187a3c41@3919.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:As the game reaches the half-way point\, are the players inching closer to uncovering the Traitors? The mission encourages everyone to reflect on their time in the castle.
-DTSTART:20260109T050000Z
-SUMMARY:The Traitors (UK) - Episode 6
-UID:ca5bbc04-3672-4b44-bda0-db9841a19741@ca5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Rock to spear and so on...
-DTSTART:20260107T050000Z
-SUMMARY:Fallout - The Demon in the Snow
-UID:6b85f799-6490-41e6-9796-8879f98ce6b0@6b85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:As the Traitors continue navigating their way through the game\, they plot their next move in the dead of night. Breakfast dials up the pressure and brings fresh allegations to the table.
-DTSTART:20260114T050000Z
-SUMMARY:The Traitors (UK) - Episode 7
-UID:157bdc07-7634-475b-a2f1-00f1cc52af67@157b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Amid the chaos\, Tommy regroups with Cooper.
-DTSTART:20260118T050000Z
-SUMMARY:Landman - Tragedy and Flies
-UID:03328d68-abeb-4519-930d-d860b6504964@0332.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:After Lincoln tests a magic trick on Grouse\, they get handcuffed together and Grouse has to spend the day at middle school.
-DTSTART:20260116T050000Z
-SUMMARY:The Loud House - Cuff Break
-UID:89da102d-919c-49fa-9649-bc419fc74ea8@89da.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260122T050000Z
-SUMMARY:The Traitors (UK) - Episode 11
-UID:f6216a0f-0ce5-4918-a864-cc0ab2ea4c53@f621.org
+UID:3007753d-df43-4013-aa67-71a8423c5393@3007.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Homer's enthusiasm skills land him a job at a secretive company with a mind-altering agenda.
 DTSTART:20260104T050000Z
 SUMMARY:The Simpsons - Seperance
-UID:993ce0cf-c854-4194-a67b-288c826b0f27@993c.org
+UID:bc918321-4648-4074-8115-ac9c33e0e593@bc91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:New day\, new drama as the players arrive to a breakfast that poses more questions than provides answers. Can new leads present an opportunity to oust a Traitor\, or have the Faithful been hoodwinked?
+DTSTART:20260107T050000Z
+SUMMARY:The Traitors (UK) - Episode 4
+UID:b61a5d6d-329c-4509-b01b-659fc34b6412@b61a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:After Lincoln tests a magic trick on Grouse\, they get handcuffed together and Grouse has to spend the day at middle school.
+DTSTART:20260116T050000Z
+SUMMARY:The Loud House - Cuff Break
+UID:fcece719-8bd8-445a-9936-cd6e44f6b332@fcec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:As the game reaches the half-way point\, are the players inching closer to uncovering the Traitors? The mission encourages everyone to reflect on their time in the castle.
+DTSTART:20260109T050000Z
+SUMMARY:The Traitors (UK) - Episode 6
+UID:09d7c8e2-435b-417c-b512-127d600d2f72@09d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:After telling her family how great her apartment is\, Lori unknowingly entices her sisters to secretly take over her space.
+DTSTART:20260109T050000Z
+SUMMARY:The Loud House - Apartment Complex
+UID:44464f23-45a3-48a0-9120-e148bc2e47d2@4446.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T050000Z
+SUMMARY:Fallout - The Handoff
+UID:049bfe2d-0c36-473e-b3cf-911a2cbab9cb@049b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260122T050000Z
+SUMMARY:The Traitors (UK) - Episode 11
+UID:d76ffa75-cb31-4a97-9cca-ace966f0c390@d76f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260121T050000Z
+SUMMARY:Fallout - The Other Player
+UID:59542eb3-e115-499d-a5bd-adbaceb5cd9b@5954.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T050000Z
+SUMMARY:The Simpsons - TBA
+UID:05b807d6-928e-4545-9ecb-556a47845b5d@05b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T050000Z
+SUMMARY:Dark Winds - tba
+UID:2486e460-1d59-4664-b004-9feb660f5ec8@2486.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Following a sleepless night\, the players arrive at breakfast eager to share their thoughts on the Traitors’ gameplay. With a mission focused on protection from murder\, true intentions are laid bare.
+DTSTART:20260108T050000Z
+SUMMARY:The Traitors (UK) - Episode 5
+UID:cf531ceb-11dd-4054-bfba-73b162f8062e@cf53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Rock to spear and so on...
+DTSTART:20260107T050000Z
+SUMMARY:Fallout - The Demon in the Snow
+UID:c89807d8-bc93-40a2-9a1e-862624cc62b6@c898.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T050000Z
+SUMMARY:The Traitors (UK) - Episode 12
+UID:008472e9-061b-4cc7-aaec-be07fe5cf46d@0084.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T050000Z
+SUMMARY:The Simpsons - TBA
+UID:c0a04f1c-6cd4-4e34-9d13-f2c57ae76b72@c0a0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:When Mom and the twins win a raffle to spend a weekend at a resort\, Lana struggles to leave her pets behind.
 DTSTART:20260116T050000Z
 SUMMARY:The Loud House - Pet Project
-UID:49d5da79-77ed-49b1-9295-55f23b16713a@49d5.org
+UID:c2200e7d-44a2-406b-996b-549101fa9736@c220.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T050000Z
+SUMMARY:Fallout - The Strip
+UID:5cab0574-b1e9-4682-85aa-3020d33391c2@5cab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tommy hires help for his father as Cami makes a risky move.
+DTSTART:20260104T050000Z
+SUMMARY:Landman - Handsome Touched Me
+UID:58949cfa-e3db-4064-bd7d-0a014895a7ff@5894.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T050000Z
-SUMMARY:Fallout - The Other Player
-UID:bcae9c15-05b7-4bb1-bdac-44ff894bfd03@bcae.org
+SUMMARY:The Traitors (UK) - Episode 10
+UID:10cc7aad-72bc-4058-bc4b-199b58653b04@10cc.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:When Lori and Bobby find a kitten\, they decide to co-parent and swap the kitten back and forth between their homes.
+DTSTART:20260109T050000Z
+SUMMARY:The Loud House - Meet the Purrents
+UID:51d7acc3-bc3b-466e-839d-a404565d8a11@51d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Amid the chaos\, Tommy regroups with Cooper.
+DTSTART:20260118T050000Z
+SUMMARY:Landman - Tragedy and Flies
+UID:7d2225ce-661a-4e5d-91fa-fb2cee8b0864@7d22.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T050000Z
+SUMMARY:The Simpsons - Extreme Makeover: Homer Edition
+UID:01a5393b-33de-4636-8ca6-6c6f47b350c0@01a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Breakfast delivers a wake-up call for the Faithful\, with the Traitors making their next dastardly move. The mission proves to be a living nightmare for the players\, but can they hold their nerve?
+DTSTART:20260115T050000Z
+SUMMARY:The Traitors (UK) - Episode 8
+UID:1d5bc13c-5ee9-43e5-9cf2-418a4fa8f9ee@1d5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Traitors’ latest gameplay makes the Faithful more determined than ever to uncover their identity. The mission puts the Traitors under intense pressure\, which continues to build at the Round Table.
+DTSTART:20260116T050000Z
+SUMMARY:The Traitors (UK) - Episode 9
+UID:08462dd1-6fcb-468c-bbdc-fedb4c4f6626@0846.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:As the Traitors continue navigating their way through the game\, they plot their next move in the dead of night. Breakfast dials up the pressure and brings fresh allegations to the table.
+DTSTART:20260114T050000Z
+SUMMARY:The Traitors (UK) - Episode 7
+UID:89cf9c1e-2d22-4ec4-89d8-5768f81c535c@89cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Angela rescues Ainsley\; Cooper asserts his leadership at a drill site.
 DTSTART:20260111T050000Z
-SUMMARY:The Simpsons - TBA
-UID:ed084e8f-4771-4bf2-bfce-e0fb15e48c25@ed08.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260123T050000Z
-SUMMARY:The Traitors (UK) - Episode 12
-UID:6f4925f7-b8ad-4339-a3a7-85e74232c1b8@6f49.org
+SUMMARY:Landman - Plans\, Tears and Sirens
+UID:5d37df56-24d2-4f5c-9410-ac02a664b3cf@5d37.org
 END:VEVENT
 END:VCALENDAR
