@@ -2,119 +2,154 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Angela rescues Ainsley\; Cooper asserts his leadership at a drill site.
-DTSTART:20260111T050000Z
-SUMMARY:Landman - Plans\, Tears and Sirens
-UID:1049fdad-9d73-4b37-8fbd-a22a97fabb28@1049.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260215T050000Z
-SUMMARY:Dark Winds - tba
-UID:1665066b-5104-4f0e-a984-ed91ee8518a2@1665.org
+SUMMARY:The Simpsons - Irrational Treasure
+UID:c890ff14-8962-4281-94e2-43ccaefe138f@c890.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T050000Z
 SUMMARY:The Traitors (UK) - Episode 10
-UID:a153d0ff-c2ae-44d3-8bee-528487669e9f@a153.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Traitors’ latest gameplay makes the Faithful more determined than ever to uncover their identity. The mission puts the Traitors under intense pressure\, which continues to build at the Round Table.
-DTSTART:20260116T050000Z
-SUMMARY:The Traitors (UK) - Episode 9
-UID:749371e9-d1ee-465b-b0dd-1f357760e8a0@7493.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260215T050000Z
-SUMMARY:The Simpsons - Extreme Makeover: Homer Edition
-UID:23d02c5e-718e-47e2-81fb-6345d5297dea@23d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260128T050000Z
-SUMMARY:Fallout - The Handoff
-UID:c58afa10-7828-48f1-a615-27074a507c43@c58a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260215T050000Z
-SUMMARY:The Simpsons - Irrational Treasure
-UID:cc32ef18-fa91-4633-bab8-99197c4958e2@cc32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Big Whoop.
-DTSTART:20260114T050000Z
-SUMMARY:Fallout - The Wrangler
-UID:78a1e92a-0c76-4d4c-a62a-bf32c59d7580@78a1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:24ee0f9f-c450-42a4-b6d0-bfccf3527fb8@24ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260121T050000Z
-SUMMARY:Fallout - The Other Player
-UID:18918269-6217-4767-91fa-f83bbb3ee780@1891.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series.
-DTSTART:20260112T050000Z
-SUMMARY:Stranger Things - One Last Adventure: The Making of Stranger Things 5
-UID:1621502c-de71-43c3-abb6-6099885df31c@1621.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lincoln and Clyde cast Luan as the villain\, Bee Trayal\, in their David Steele film and have to deal with her method acting.
-DTSTART:20260123T050000Z
-SUMMARY:The Loud House - Scene Steeler
-UID:0c93d594-c605-4ad1-a21f-077cba651469@0c93.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260122T050000Z
-SUMMARY:The Traitors (UK) - Episode 11
-UID:b6ae65ed-409b-4d5f-b996-a1734dd75c5d@b6ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Amid the chaos\, Tommy regroups with Cooper.
-DTSTART:20260118T050000Z
-SUMMARY:Landman - Tragedy and Flies
-UID:e58c0335-d9a0-4a64-b3f3-e8d23e41f174@e58c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Breakfast delivers a wake-up call for the Faithful\, with the Traitors making their next dastardly move. The mission proves to be a living nightmare for the players\, but can they hold their nerve?
-DTSTART:20260115T050000Z
-SUMMARY:The Traitors (UK) - Episode 8
-UID:8425d8e4-a9d4-439a-980b-71fb9a4c4729@8425.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:As the Traitors continue navigating their way through the game\, they plot their next move in the dead of night. Breakfast dials up the pressure and brings fresh allegations to the table.
-DTSTART:20260114T050000Z
-SUMMARY:The Traitors (UK) - Episode 7
-UID:59bb55d3-c347-4eac-bdbe-0a48340df32d@59bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:When Leni is put in charge of the school's prom\, she is determined to make it the most memorable night ever.
-DTSTART:20260123T050000Z
-SUMMARY:The Loud House - Prom-Com
-UID:eb247caf-c987-4ab8-83bf-c23ebc5bb928@eb24.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260204T050000Z
-SUMMARY:Fallout - The Strip
-UID:1b0c5842-9ce4-4d8f-8e3d-6c774e7beb0e@1b0c.org
+UID:2960dbaf-994a-41a9-aee4-6241d4075df8@2960.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:When Mom and the twins win a raffle to spend a weekend at a resort\, Lana struggles to leave her pets behind.
 DTSTART:20260116T050000Z
 SUMMARY:The Loud House - Pet Project
-UID:5b95152b-0308-4794-a2ec-6b28a591489e@5b95.org
+UID:5867434e-d006-49cf-9ad8-f82bb3fbd3d4@5867.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:38dd0fad-92cd-491e-a580-f17f572ee575@38dd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:ddcf950e-178a-479a-95d9-53f9429c15e2@ddcf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T050000Z
+SUMMARY:Dark Winds - tba
+UID:9c5ab148-96f5-4882-bcc5-1621ca972a99@9c5a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:3289ffd8-de59-465d-9857-fae04c313011@3289.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:As the Traitors continue navigating their way through the game\, they plot their next move in the dead of night. Breakfast dials up the pressure and brings fresh allegations to the table.
+DTSTART:20260114T050000Z
+SUMMARY:The Traitors (UK) - Episode 7
+UID:c8d6d3bd-a503-4e44-afe7-b4f650077c60@c8d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Angela rescues Ainsley\; Cooper asserts his leadership at a drill site.
+DTSTART:20260111T050000Z
+SUMMARY:Landman - Plans\, Tears and Sirens
+UID:4625023a-e28b-4bc7-89b5-a52a9e2cfb0d@4625.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:fa506697-ce62-4cfd-8633-2d130aa9c443@fa50.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260121T050000Z
+SUMMARY:Fallout - The Other Player
+UID:f1779ec3-eee9-42b4-9f28-da6240b40cfc@f177.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:When Leni is put in charge of the school's prom\, she is determined to make it the most memorable night ever.
+DTSTART:20260123T050000Z
+SUMMARY:The Loud House - Prom-Com
+UID:53b7bf07-5b72-4265-b8ca-8232a4d8a8dd@53b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T050000Z
+SUMMARY:The Traitors (UK) - Episode 12
+UID:f210adae-8e24-4394-8c62-af9ee1cadfb9@f210.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T050000Z
+SUMMARY:The Simpsons - Extreme Makeover: Homer Edition
+UID:e374f714-a6cb-4f49-ad5f-0b13d6da7526@e374.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Big Whoop.
+DTSTART:20260114T050000Z
+SUMMARY:Fallout - The Wrangler
+UID:bd44c9f4-454a-45f2-a93a-8af080369cca@bd44.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:70636ba4-69f3-43be-b84f-58a5fb3749ba@7063.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:6b287438-65af-4a41-890c-af9676b6f271@6b28.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T050000Z
+SUMMARY:Fallout - The Handoff
+UID:a1b95fbe-2130-4e8f-b935-ee5c0fb3a01e@a1b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260122T050000Z
+SUMMARY:The Traitors (UK) - Episode 11
+UID:f6524f85-4938-4ee6-9a67-0ecb8f8e2f63@f652.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:After Lincoln tests a magic trick on Grouse\, they get handcuffed together and Grouse has to spend the day at middle school.
 DTSTART:20260116T050000Z
 SUMMARY:The Loud House - Cuff Break
-UID:22227140-b19b-4765-9953-2a13a63a0d89@2222.org
+UID:3af158a4-1909-4075-8ef7-7f872087aacf@3af1.org
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260204T050000Z
+SUMMARY:Fallout - The Strip
+UID:1d35bc34-87a1-40f9-a15d-8bb8585a49e1@1d35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Breakfast delivers a wake-up call for the Faithful\, with the Traitors making their next dastardly move. The mission proves to be a living nightmare for the players\, but can they hold their nerve?
+DTSTART:20260115T050000Z
+SUMMARY:The Traitors (UK) - Episode 8
+UID:71cbdcff-7b49-4841-b9c4-016e2ade9804@71cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Amid the chaos\, Tommy regroups with Cooper.
+DTSTART:20260118T050000Z
+SUMMARY:Landman - Tragedy and Flies
+UID:1aad8c80-125f-424b-959a-3d1de03a6c75@1aad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Traitors’ latest gameplay makes the Faithful more determined than ever to uncover their identity. The mission puts the Traitors under intense pressure\, which continues to build at the Round Table.
+DTSTART:20260116T050000Z
+SUMMARY:The Traitors (UK) - Episode 9
+UID:fc899799-fcc8-4c32-8f77-56877bf6afbd@fc89.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:e693355f-2c97-4e5c-bbdc-7490c8dec57b@e693.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lincoln and Clyde cast Luan as the villain\, Bee Trayal\, in their David Steele film and have to deal with her method acting.
 DTSTART:20260123T050000Z
-SUMMARY:The Traitors (UK) - Episode 12
-UID:5fd6caae-ef0b-4871-8eab-ef21c5ff686b@5fd6.org
+SUMMARY:The Loud House - Scene Steeler
+UID:c8d303f6-a742-41a5-b8b4-59e835b4e96c@c8d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:f2f907ca-0e78-4308-8f0e-b9b26e1aae8a@f2f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series.
+DTSTART:20260112T050000Z
+SUMMARY:Stranger Things - One Last Adventure: The Making of Stranger Things 5
+UID:6c0f1f2b-2827-4ab6-a3c9-b6991047f617@6c0f.org
 END:VEVENT
 END:VCALENDAR
