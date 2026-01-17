@@ -9,37 +9,11 @@ DESCRIPTION:Dr. Kelson finds himself in a shocking new relationship - with
   consequences that could change the world as they know it - and Spike's e
  ncounter with Jimmy Crystal becomes a nightmare he can't escape.
 DTEND;VALUE=DATE:20260115
-DTSTAMP:20260116T050029Z
+DTSTAMP:20260117T050034Z
 DTSTART;VALUE=DATE:20260114
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:28 Years Later: The Bone Temple (Theatrical Release)
 UID:Radarr_movie_1226_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:A24
-DESCRIPTION:In 1950s New York\, table tennis player Marty Mauser\, a young
-  man with a dream no one respects\, goes to Hell and back in pursuit of g
- reatness.
-DTEND;VALUE=DATE:20251226
-DTSTAMP:20260116T050029Z
-DTSTART;VALUE=DATE:20251225
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Marty Supreme (Theatrical Release)
-UID:Radarr_movie_2920_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:A24
-DESCRIPTION:In 1950s New York\, table tennis player Marty Mauser\, a young
-  man with a dream no one respects\, goes to Hell and back in pursuit of g
- reatness.
-DTEND;VALUE=DATE:20260204
-DTSTAMP:20260116T050029Z
-DTSTART;VALUE=DATE:20260203
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Marty Supreme (Digital Release)
-UID:Radarr_movie_2920_digital
 END:VEVENT
 END:VCALENDAR
