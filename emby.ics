@@ -2,133 +2,133 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Amid the chaos\, Tommy regroups with Cooper.
-DTSTART:20260118T050000Z
-SUMMARY:Landman - Tragedy and Flies
-UID:b534f801-b6b0-4ca3-b2ad-5a24ce104ad8@b534.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260121T050000Z
-SUMMARY:Fallout - The Other Player
-UID:1764233c-18b8-4442-85ca-e522875f2669@1764.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:c542de83-5026-4935-b35a-78aed7362603@c542.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260215T050000Z
-SUMMARY:The Simpsons - Irrational Treasure
-UID:97a15c4c-db27-4f95-9357-758895124148@97a1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260204T050000Z
-SUMMARY:Fallout - The Strip
-UID:c8ff41d3-8f5f-47d0-a2af-a7365ae43dbd@c8ff.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:82382e8e-4eed-4410-94cd-1829688908b2@8238.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:High above the Giza Plateau stands Egypt's most mysterious ancient site: the Lost Pyramid of Abu Rawash\; today\, it lies in ruins\, but some researchers believe these stone blocks hold profound secrets about an extraterrestrial civilization that existed in ancient Egypt long before our recorded history.
 DTSTART:20260122T050000Z
 SUMMARY:Ancient Aliens - Egypt's Lost Pyramids
-UID:17f51afe-bc5a-498b-ac88-832da437d164@17f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:In the western Pacific Ocean is a vast area known as Oceania that is home to the world's most remote and mysterious islands. They are known for massive stone structures\, statuary strange figures\, and countless legends of otherworldly visitors. Could it be that these islands are the remnants of a lost alien civilization?
-DTSTART:20260129T050000Z
-SUMMARY:Ancient Aliens - Island of the Gods
-UID:e8da90d9-0b00-4687-85a5-66030eb2665f@e8da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:After Lynn sees cousin Shiloh's athletic skills\, she gets overly competitive to prove she's the greatest Loud of all time.
-DTSTART:20260130T050000Z
-SUMMARY:The Loud House - The GLOAT
-UID:e08acdb2-2dfc-48a3-8ea7-584d68e4425c@e08a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:When Leni is put in charge of the school's prom\, she is determined to make it the most memorable night ever.
-DTSTART:20260123T050000Z
-SUMMARY:The Loud House - Prom-Com
-UID:a6de8cee-54b1-444e-8b3f-8d85095e80d3@a6de.org
+UID:c821eb2f-8107-48fe-a868-8bd4136d6d00@c821.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T040000Z
 SUMMARY:BEEF - TBA
-UID:3a8e2fab-567d-4867-9af6-509930ff3ff9@3a8e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:085196fa-fb75-4ba6-ad22-cc192b596eaf@0851.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:As the finalists head to breakfast\, the players look back on how they reached this point. The question – Who do you think is a Traitor? – has never been more pressing\,
-DTSTART:20260123T050000Z
-SUMMARY:The Traitors (UK) - The Final
-UID:292bff0a-e561-4a67-a3e4-2e82ba6896a0@292b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260128T050000Z
-SUMMARY:Fallout - The Handoff
-UID:348a0d6d-97de-4c31-8490-d8a5d6d0d149@348a.org
+UID:39d1a8fa-9eb9-42c9-aa94-28c1fba18071@39d1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:With the end of the game in sight\, the penultimate day in the castle commences. The mission offers a unique opportunity to the Faithful\, but will they buckle under the pressure?
 DTSTART:20260122T050000Z
 SUMMARY:The Traitors (UK) - Episode 11
-UID:81eb7b24-4039-4f87-8566-03d18cee5d00@81eb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:ef26f02a-362b-4cf3-9c25-df21b2d55d81@ef26.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260215T050000Z
-SUMMARY:Dark Winds - tba
-UID:e2587f6b-6f06-477e-9186-415f1fdfc458@e258.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:03763c27-8527-4649-90c0-a0cf80459745@0376.org
+UID:b44ca166-901d-4538-92ad-3bb9b865ff8b@b44c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:As the players enter the game’s final quarter\, breakfast reveals a move no-one saw coming. But does it give any clues to the Traitors identity?
 DTSTART:20260121T050000Z
 SUMMARY:The Traitors (UK) - Episode 10
-UID:06c58e75-b422-43bd-b1cf-feeb48e9a3c1@06c5.org
+UID:369cabe2-f5d2-4f0d-9ab7-0536ee8c4c09@369c.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T040000Z
 SUMMARY:BEEF - TBA
-UID:7c19d4fe-c0ec-4d2e-9e4a-5fc035770671@7c19.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:963820ca-0fb4-4f7c-b9fb-494824d8b9a2@9638.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:To earn her next patch and become a golden Snickerdoodle\, Lola must spend quality time with Sunset Canyon senior\, Bernie.
-DTSTART:20260130T050000Z
-SUMMARY:The Loud House - Rough Patch
-UID:3a9e3c86-cbb8-4f4a-a641-4aa4b75f9bb2@3a9e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260215T050000Z
-SUMMARY:The Simpsons - Extreme Makeover: Homer Edition
-UID:f68c9f76-882f-46d9-916f-13247f9eb0b5@f68c.org
+UID:4b4f280d-48e2-4ee3-af6b-5d63ccfb00c5@4b4f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Lincoln and Clyde cast Luan as the villain\, Bee Trayal\, in their David Steele film and have to deal with her method acting.
 DTSTART:20260123T050000Z
 SUMMARY:The Loud House - Scene Steeler
-UID:4519c167-5901-48ea-907a-2817f01df889@4519.org
+UID:6dead840-3709-4b1c-a68f-817e21a3f95a@6dea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:9d4d235e-2d3e-4a2d-b3c6-6a283d11c870@9d4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:To earn her next patch and become a golden Snickerdoodle\, Lola must spend quality time with Sunset Canyon senior\, Bernie.
+DTSTART:20260130T050000Z
+SUMMARY:The Loud House - Rough Patch
+UID:3d6caea9-346f-438d-9a83-967b922a2040@3d6c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T050000Z
+SUMMARY:Fallout - The Strip
+UID:5e917900-11cd-40c9-8ac8-48fdfb299da2@5e91.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:2966fbd7-0202-4752-b7e8-8def079380fa@2966.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:When Leni is put in charge of the school's prom\, she is determined to make it the most memorable night ever.
+DTSTART:20260123T050000Z
+SUMMARY:The Loud House - Prom-Com
+UID:04ed7efa-7b38-4a76-b426-2510a96980b1@04ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T050000Z
+SUMMARY:Fallout - The Handoff
+UID:0d09a044-84d2-4746-abd5-7c7eee934c7a@0d09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:In the western Pacific Ocean is a vast area known as Oceania that is home to the world's most remote and mysterious islands. They are known for massive stone structures\, statuary strange figures\, and countless legends of otherworldly visitors. Could it be that these islands are the remnants of a lost alien civilization?
+DTSTART:20260129T050000Z
+SUMMARY:Ancient Aliens - Island of the Gods
+UID:336e54dd-a2d9-46c5-a5ac-60140cad4418@336e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T050000Z
+SUMMARY:Dark Winds - tba
+UID:23907c4c-1495-4ad1-bcf9-30c46de56660@2390.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:1d15b237-a857-473c-b1ac-ea0c3746eed1@1d15.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:19fb1332-0fc4-48d0-87cc-83e6da3e392a@19fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T050000Z
+SUMMARY:The Simpsons - Irrational Treasure
+UID:b0b49b41-52ff-4df9-b38e-99216fa50bba@b0b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:As the finalists head to breakfast\, the players look back on how they reached this point. The question – Who do you think is a Traitor? – has never been more pressing\,
+DTSTART:20260123T050000Z
+SUMMARY:The Traitors (UK) - The Final
+UID:c90343c8-59c0-4f6b-bc34-f3aaa569ed9b@c903.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:78929518-a587-4b66-9529-c81c7d168c37@7892.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T050000Z
+SUMMARY:The Simpsons - Extreme Makeover: Homer Edition
+UID:a9fe4c66-f8ca-426a-85e7-9da604484c37@a9fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:After Lynn sees cousin Shiloh's athletic skills\, she gets overly competitive to prove she's the greatest Loud of all time.
+DTSTART:20260130T050000Z
+SUMMARY:The Loud House - The GLOAT
+UID:1b856bbb-c0df-4b20-a0cc-edab8de50785@1b85.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260121T050000Z
+SUMMARY:Fallout - The Other Player
+UID:0a01b1f9-f48e-4436-9537-1754329216f5@0a01.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:6fdca895-6a8f-4a5e-ad76-c10b7c198cdc@6fdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Amid the chaos\, Tommy regroups with Cooper.
+DTSTART:20260118T050000Z
+SUMMARY:Landman - Tragedy and Flies
+UID:59d0de37-e5ff-4d96-ab2a-b21c7d3bd644@59d0.org
 END:VEVENT
 END:VCALENDAR
