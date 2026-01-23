@@ -2,127 +2,116 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:High above the Giza Plateau stands Egypt's most mysterious ancient site: the Lost Pyramid of Abu Rawash\; today\, it lies in ruins\, but some researchers believe these stone blocks hold profound secrets about an extraterrestrial civilization that existed in ancient Egypt long before our recorded history.
-DTSTART:20260122T050000Z
-SUMMARY:Ancient Aliens - Egypt's Lost Pyramids
-UID:433b079a-5162-4b7b-8cf2-c3299af70697@433b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:In the western Pacific Ocean is a vast area known as Oceania that is home to the world's most remote and mysterious islands. They are known for massive stone structures\, statuary strange figures\, and countless legends of otherworldly visitors. Could it be that these islands are the remnants of a lost alien civilization?
-DTSTART:20260129T050000Z
-SUMMARY:Ancient Aliens - Island of the Gods
-UID:0fe26739-d3bd-4766-9ca9-dc654eb6c8a2@0fe2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:When Leni is put in charge of the school's prom\, she is determined to make it the most memorable night ever.
+DESCRIPTION:As the finalists head to breakfast\, the players look back on how they reached this point. The question – Who do you think is a Traitor? – has never been more pressing\,
 DTSTART:20260123T050000Z
-SUMMARY:The Loud House - Prom-Com
-UID:8a8580bd-32b9-42b5-a21a-b829cf5fedd5@8a85.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260204T050000Z
-SUMMARY:Fallout - The Strip
-UID:9d9a4fa5-4daf-4932-b5f8-6747d0be3348@9d9a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:432c36a3-b6ee-4194-bacb-ac664e0407fb@432c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260121T050000Z
-SUMMARY:Fallout - The Other Player
-UID:3bdb96ff-37a5-4527-838b-72ba7315abeb@3bdb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:With the end of the game in sight\, the penultimate day in the castle commences. The mission offers a unique opportunity to the Faithful\, but will they buckle under the pressure?
-DTSTART:20260122T050000Z
-SUMMARY:The Traitors (UK) - Episode 11
-UID:cd8c2e52-40f8-4842-bdf8-1f88acfd3a32@cd8c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:9eb4cf5d-c1b2-4dfc-b04f-a3d20693f1af@9eb4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:9bbddf20-5e1d-4048-b022-8a042b5e23dd@9bbd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:0c97da53-898c-42f1-af9f-f960e35b85d9@0c97.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260128T050000Z
-SUMMARY:Fallout - The Handoff
-UID:48d57051-7af5-4004-8e2b-0d0e359ca4e0@48d5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:4b30349f-32a1-4f7d-a6f0-ef39ea3cadb6@4b30.org
+SUMMARY:The Traitors (UK) - The Final
+UID:12474243-c7a6-447e-86a7-c3ce7ae6f811@1247.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:After Lynn sees cousin Shiloh's athletic skills\, she gets overly competitive to prove she's the greatest Loud of all time.
 DTSTART:20260130T050000Z
 SUMMARY:The Loud House - The GLOAT
-UID:a168a548-1d8c-45c6-8cd3-0d7d26fbcfbe@a168.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260215T050000Z
-SUMMARY:Dark Winds - tba
-UID:2ff8df96-00e0-452f-b818-0c9bc60d292d@2ff8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:9137e737-6701-432e-adab-cb2196758d54@9137.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:As the players enter the game’s final quarter\, breakfast reveals a move no-one saw coming. But does it give any clues to the Traitors identity?
-DTSTART:20260121T050000Z
-SUMMARY:The Traitors (UK) - Episode 10
-UID:a27cfdf3-fc68-453c-8c9f-f91a6e0a899a@a27c.org
+UID:2a102470-fc46-498a-aad9-ede79454168c@2a10.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:To earn her next patch and become a golden Snickerdoodle\, Lola must spend quality time with Sunset Canyon senior\, Bernie.
 DTSTART:20260130T050000Z
 SUMMARY:The Loud House - Rough Patch
-UID:8db5f3aa-3497-48a9-8979-d30695b2cf9a@8db5.org
+UID:996e7899-1e31-4adb-96ca-a77a7ccd2f10@996e.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260215T050000Z
-SUMMARY:The Simpsons - Irrational Treasure
-UID:9db5e4f1-e090-4197-9133-81ef08de67c2@9db5.org
+SUMMARY:Dark Winds - tba
+UID:017f19ff-c504-4d41-a33f-b67a525010ac@017f.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:6ad056a5-51e6-4efe-a002-516bbe3c8acf@6ad0.org
+DESCRIPTION:High above the Giza Plateau stands Egypt's most mysterious ancient site: the Lost Pyramid of Abu Rawash\; today\, it lies in ruins\, but some researchers believe these stone blocks hold profound secrets about an extraterrestrial civilization that existed in ancient Egypt long before our recorded history.
+DTSTART:20260122T050000Z
+SUMMARY:Ancient Aliens - Egypt's Lost Pyramids
+UID:1321162f-b894-4a55-871a-ee198d96ce6a@1321.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:With the end of the game in sight\, the penultimate day in the castle commences. The mission offers a unique opportunity to the Faithful\, but will they buckle under the pressure?
+DTSTART:20260122T050000Z
+SUMMARY:The Traitors (UK) - Episode 11
+UID:06526f75-260c-4260-b7e2-3758d238aa00@0652.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Lincoln and Clyde cast Luan as the villain\, Bee Trayal\, in their David Steele film and have to deal with her method acting.
 DTSTART:20260123T050000Z
 SUMMARY:The Loud House - Scene Steeler
-UID:5ad99df6-cf0e-40f3-99d2-e311e81026f0@5ad9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260215T050000Z
-SUMMARY:The Simpsons - Extreme Makeover: Homer Edition
-UID:0f499c36-0cc4-414b-a98a-e613088f53a4@0f49.org
+UID:b304d1f2-3dd0-420f-af05-833723584bb3@b304.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T040000Z
 SUMMARY:BEEF - TBA
-UID:239388e5-5ff4-4257-97ea-560fe2785cf1@2393.org
+UID:ba359626-604e-4718-80c3-04f01769c973@ba35.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:As the finalists head to breakfast\, the players look back on how they reached this point. The question – Who do you think is a Traitor? – has never been more pressing\,
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:cb73b9ee-f4f7-4d8c-89a2-2d6ff8bb3fe9@cb73.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:ccb5ee9c-faad-40f9-b7ca-edf83500c1c3@ccb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:In the western Pacific Ocean is a vast area known as Oceania that is home to the world's most remote and mysterious islands. They are known for massive stone structures\, statuary strange figures\, and countless legends of otherworldly visitors. Could it be that these islands are the remnants of a lost alien civilization?
+DTSTART:20260129T050000Z
+SUMMARY:Ancient Aliens - Island of the Gods
+UID:2f2ae1a7-1afc-431b-a0b6-61488d3b2543@2f2a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:a395e5eb-c64b-4058-9277-75cd1e0fd2a6@a395.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T050000Z
+SUMMARY:Fallout - The Handoff
+UID:2d639652-4f34-4a68-936c-e75ca52a2d43@2d63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:6ad089ce-4cfd-4b9b-a89e-b88c7597de6d@6ad0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T050000Z
+SUMMARY:The Simpsons - Extreme Makeover: Homer Edition
+UID:110becb8-99a0-4d58-b2a3-9da0e286bb5c@110b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:1006655e-4d07-4baa-91d7-be1c70ec4a76@1006.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:When Leni is put in charge of the school's prom\, she is determined to make it the most memorable night ever.
 DTSTART:20260123T050000Z
-SUMMARY:The Traitors (UK) - The Final
-UID:8c03a016-b08b-4fb6-a0a0-86f1f2f68d03@8c03.org
+SUMMARY:The Loud House - Prom-Com
+UID:ec2fdfdb-348a-4d36-b8ed-3c33aa46405f@ec2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:6c3a0857-a6aa-4a83-a91d-13d2698839c0@6c3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T050000Z
+SUMMARY:Fallout - The Strip
+UID:e2c821c7-342d-455b-90bd-966ba5960e80@e2c8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T050000Z
+SUMMARY:The Simpsons - Irrational Treasure
+UID:7f2369d3-f280-4cd8-9b15-f7c3d012041d@7f23.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:16cd2cdd-ae74-4dd4-89d1-226bd65f6526@16cd.org
 END:VEVENT
 END:VCALENDAR
