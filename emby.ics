@@ -2,116 +2,195 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:As the finalists head to breakfast\, the players look back on how they reached this point. The question – Who do you think is a Traitor? – has never been more pressing\,
-DTSTART:20260123T050000Z
-SUMMARY:The Traitors (UK) - The Final
-UID:12474243-c7a6-447e-86a7-c3ce7ae6f811@1247.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:After Lynn sees cousin Shiloh's athletic skills\, she gets overly competitive to prove she's the greatest Loud of all time.
-DTSTART:20260130T050000Z
-SUMMARY:The Loud House - The GLOAT
-UID:2a102470-fc46-498a-aad9-ede79454168c@2a10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:To earn her next patch and become a golden Snickerdoodle\, Lola must spend quality time with Sunset Canyon senior\, Bernie.
-DTSTART:20260130T050000Z
-SUMMARY:The Loud House - Rough Patch
-UID:996e7899-1e31-4adb-96ca-a77a7ccd2f10@996e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260215T050000Z
-SUMMARY:Dark Winds - tba
-UID:017f19ff-c504-4d41-a33f-b67a525010ac@017f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:High above the Giza Plateau stands Egypt's most mysterious ancient site: the Lost Pyramid of Abu Rawash\; today\, it lies in ruins\, but some researchers believe these stone blocks hold profound secrets about an extraterrestrial civilization that existed in ancient Egypt long before our recorded history.
-DTSTART:20260122T050000Z
-SUMMARY:Ancient Aliens - Egypt's Lost Pyramids
-UID:1321162f-b894-4a55-871a-ee198d96ce6a@1321.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:With the end of the game in sight\, the penultimate day in the castle commences. The mission offers a unique opportunity to the Faithful\, but will they buckle under the pressure?
-DTSTART:20260122T050000Z
-SUMMARY:The Traitors (UK) - Episode 11
-UID:06526f75-260c-4260-b7e2-3758d238aa00@0652.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lincoln and Clyde cast Luan as the villain\, Bee Trayal\, in their David Steele film and have to deal with her method acting.
-DTSTART:20260123T050000Z
-SUMMARY:The Loud House - Scene Steeler
-UID:b304d1f2-3dd0-420f-af05-833723584bb3@b304.org
+DTSTART:20260128T050000Z
+SUMMARY:Fallout - The Handoff
+UID:cf423c6f-5019-4b8f-a9b0-b1f6bde5e262@cf42.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T040000Z
 SUMMARY:BEEF - TBA
-UID:ba359626-604e-4718-80c3-04f01769c973@ba35.org
+UID:90189197-47df-41c1-b87d-053d202fdee5@9018.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T040000Z
+SUMMARY:Invincible (2021) - TBA
+UID:adf20803-9091-496e-ae6c-983eaa757655@adf2.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T040000Z
 SUMMARY:BEEF - TBA
-UID:cb73b9ee-f4f7-4d8c-89a2-2d6ff8bb3fe9@cb73.org
+UID:5694025b-97df-4076-940e-8ba5dc5f61a2@5694.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T040000Z
 SUMMARY:BEEF - TBA
-UID:ccb5ee9c-faad-40f9-b7ca-edf83500c1c3@ccb5.org
+UID:06b5e1e3-2e7c-4662-a586-a062a2b1a607@06b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T050000Z
+SUMMARY:Fallout - The Strip
+UID:d919d6a0-01fd-4444-9ec5-755a3bc815ab@d919.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260403T040000Z
+SUMMARY:For All Mankind - TBA
+UID:b53db95c-19d5-4b9d-b736-55d0926bdc97@b53d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260424T040000Z
+SUMMARY:For All Mankind - TBA
+UID:81ee8978-5405-484d-8ee8-ef65b68b16b8@81ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:767c7621-5c16-4e89-87e2-be5c6ffcc2c4@767c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:In the western Pacific Ocean is a vast area known as Oceania that is home to the world's most remote and mysterious islands. They are known for massive stone structures\, statuary strange figures\, and countless legends of otherworldly visitors. Could it be that these islands are the remnants of a lost alien civilization?
 DTSTART:20260129T050000Z
 SUMMARY:Ancient Aliens - Island of the Gods
-UID:2f2ae1a7-1afc-431b-a0b6-61488d3b2543@2f2a.org
+UID:4e2a2095-8952-4edb-8440-308d664e3910@4e2a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T040000Z
+SUMMARY:Invincible (2021) - TBA
+UID:f89b4c60-6c8f-48fd-ad11-b97ae9a90ef9@f89b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Marge's crusade to get the family dog in better shape leads to her entering Santa's Little Helper in canine agility competitions and a trip to the National Dog Show in Philadelphia. There\, Marge and Homer suddenly find themselves — and the dog — mixed up in a historical conspiracy adventure worthy of a "National Treasure" movie.
+DTSTART:20260215T050000Z
+SUMMARY:The Simpsons - Irrational Treasure
+UID:7747e8bb-ab8f-46a0-9492-81351cddde55@7747.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T040000Z
+SUMMARY:For All Mankind - TBA
+UID:04daf70f-17df-4dd4-a76c-ae48a1f6920d@04da.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T050000Z
+SUMMARY:Dark Winds - tba
+UID:21577309-4294-44b2-9011-cd4d23f3626d@2157.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lincoln and Clyde cast Luan as the villain\, Bee Trayal\, in their David Steele film and have to deal with her method acting.
+DTSTART:20260123T050000Z
+SUMMARY:The Loud House - Scene Steeler
+UID:f4e23e26-cf5b-4174-aacc-40f9a0aba942@f4e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T040000Z
+SUMMARY:For All Mankind - TBA
+UID:00fa2b38-1357-49a8-b642-4036f0a82919@00fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:As the finalists head to breakfast\, the players look back on how they reached this point. The question – Who do you think is a Traitor? – has never been more pressing\,
+DTSTART:20260123T050000Z
+SUMMARY:The Traitors (UK) - The Final
+UID:dd6d243d-213a-4693-a98a-26166f2001ad@dd6d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T040000Z
+SUMMARY:For All Mankind - TBA
+UID:86e41046-27a5-474a-85c4-1b259f8cb604@86e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T040000Z
+SUMMARY:Invincible (2021) - You Gave Me No Choice
+UID:b8e86c01-18ab-4f25-89ea-01f33a5cd3f3@b8e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T040000Z
+SUMMARY:For All Mankind - TBA
+UID:dfb6a090-18b6-4266-9b66-35225ed799cd@dfb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:After Lynn sees cousin Shiloh's athletic skills\, she gets overly competitive to prove she's the greatest Loud of all time.
+DTSTART:20260130T050000Z
+SUMMARY:The Loud House - The GLOAT
+UID:474c5bcf-089a-47fc-9615-cab18d7c1765@474c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T040000Z
+SUMMARY:Invincible (2021) - TBA
+UID:2ccc9661-7eff-4d39-b8f1-f82347d3200f@2ccc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T040000Z
+SUMMARY:For All Mankind - TBA
+UID:b62fa2e1-c3f1-4792-a6c5-c606963e2fd4@b62f.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T040000Z
 SUMMARY:BEEF - TBA
-UID:a395e5eb-c64b-4058-9277-75cd1e0fd2a6@a395.org
+UID:a0467a4a-31f3-420a-a730-fa90921476b7@a046.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260128T050000Z
-SUMMARY:Fallout - The Handoff
-UID:2d639652-4f34-4a68-936c-e75ca52a2d43@2d63.org
+DTSTART:20260401T040000Z
+SUMMARY:Invincible (2021) - TBA
+UID:91d5f0c3-92d6-4ebe-8c6d-628c90ed8830@91d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T040000Z
+SUMMARY:For All Mankind - TBA
+UID:d7632178-ca29-418b-909c-1625d458eceb@d763.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T040000Z
+SUMMARY:For All Mankind - TBA
+UID:2dc0a11b-83f1-4d83-a904-73deaf743708@2dc0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T040000Z
 SUMMARY:BEEF - TBA
-UID:6ad089ce-4cfd-4b9b-a89e-b88c7597de6d@6ad0.org
+UID:8fe07154-9e9c-4636-bfcc-ca54abc6e44e@8fe0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260215T050000Z
 SUMMARY:The Simpsons - Extreme Makeover: Homer Edition
-UID:110becb8-99a0-4d58-b2a3-9da0e286bb5c@110b.org
+UID:b52bf914-55d9-4fd5-905c-419fe5b21ef8@b52b.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T040000Z
 SUMMARY:BEEF - TBA
-UID:1006655e-4d07-4baa-91d7-be1c70ec4a76@1006.org
+UID:170ac825-9c68-499f-b4fe-766802457fde@170a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T040000Z
+SUMMARY:Invincible (2021) - TBA
+UID:0d46f6a8-9ac7-4f84-a645-f3cf7a055751@0d46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:To earn her next patch and become a golden Snickerdoodle\, Lola must spend quality time with Sunset Canyon senior\, Bernie.
+DTSTART:20260130T050000Z
+SUMMARY:The Loud House - Rough Patch
+UID:be068026-18e3-404d-8fe8-49eb6378c6e5@be06.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T040000Z
+SUMMARY:Invincible (2021) - TBA
+UID:079ea938-6019-43ab-840f-37eaab1c8e51@079e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T040000Z
+SUMMARY:For All Mankind - TBA
+UID:1c31a0a4-2f39-420f-ac84-597d839ba592@1c31.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T040000Z
+SUMMARY:Invincible (2021) - TBA
+UID:afc867cf-483f-4f83-8879-d99fbba40112@afc8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:When Leni is put in charge of the school's prom\, she is determined to make it the most memorable night ever.
 DTSTART:20260123T050000Z
 SUMMARY:The Loud House - Prom-Com
-UID:ec2fdfdb-348a-4d36-b8ed-3c33aa46405f@ec2f.org
+UID:d38fe374-2b92-45f9-bc6a-99219a404449@d38f.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T040000Z
 SUMMARY:BEEF - TBA
-UID:6c3a0857-a6aa-4a83-a91d-13d2698839c0@6c3a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260204T050000Z
-SUMMARY:Fallout - The Strip
-UID:e2c821c7-342d-455b-90bd-966ba5960e80@e2c8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260215T050000Z
-SUMMARY:The Simpsons - Irrational Treasure
-UID:7f2369d3-f280-4cd8-9b15-f7c3d012041d@7f23.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:16cd2cdd-ae74-4dd4-89d1-226bd65f6526@16cd.org
+UID:89a10100-7b84-474b-8225-e6c02060b7b0@89a1.org
 END:VEVENT
 END:VCALENDAR

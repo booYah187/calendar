@@ -10,6 +10,38 @@
         <title>mattflix-data</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data</link>
         <description>daily update</description>
+        <pubDate>Fri, 23 Jan 2026 07:45:20 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data-1130</guid>
+    </item>
+    
+    <item>
+        <title>calendar</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
+        <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
+        <pubDate>Fri, 23 Jan 2026 05:00:42 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-1129</guid>
+    </item>
+    
+    <item>
+        <title>.profile</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
+        <description>daily profile update</description>
+        <pubDate>Fri, 23 Jan 2026 05:00:29 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-1128</guid>
+    </item>
+    
+    <item>
+        <title>bash-hx</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx</link>
+        <description>updated history</description>
+        <pubDate>Fri, 23 Jan 2026 05:00:18 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx-1127</guid>
+    </item>
+    
+    <item>
+        <title>mattflix-data</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data</link>
+        <description>daily update</description>
         <pubDate>Thu, 22 Jan 2026 07:48:12 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data-1126</guid>
     </item>
@@ -212,38 +244,6 @@
         <description>update</description>
         <pubDate>Sun, 18 Jan 2026 05:04:17 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/wiki-1101</guid>
-    </item>
-    
-    <item>
-        <title>calendar</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
-        <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
-        <pubDate>Sun, 18 Jan 2026 05:01:05 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-1100</guid>
-    </item>
-    
-    <item>
-        <title>.profile</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
-        <description>daily profile update</description>
-        <pubDate>Sun, 18 Jan 2026 05:00:57 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-1099</guid>
-    </item>
-    
-    <item>
-        <title>webdav</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/webdav</link>
-        <description>update notes</description>
-        <pubDate>Sun, 18 Jan 2026 05:00:36 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/webdav-1097</guid>
-    </item>
-    
-    <item>
-        <title>bash-hx</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx</link>
-        <description>updated history</description>
-        <pubDate>Sun, 18 Jan 2026 05:00:36 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx-1098</guid>
     </item>
     
 </channel>
