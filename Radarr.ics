@@ -8,7 +8,7 @@ CATEGORIES:A24
 DESCRIPTION:Marty Mauser\, a young man with a dream no one respects\, goes
   to hell and back in pursuit of greatness.
 DTEND;VALUE=DATE:20251226
-DTSTAMP:20260126T050024Z
+DTSTAMP:20260127T050025Z
 DTSTART;VALUE=DATE:20251225
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -20,7 +20,7 @@ CATEGORIES:A24
 DESCRIPTION:Marty Mauser\, a young man with a dream no one respects\, goes
   to hell and back in pursuit of greatness.
 DTEND;VALUE=DATE:20260204
-DTSTAMP:20260126T050024Z
+DTSTAMP:20260127T050025Z
 DTSTART;VALUE=DATE:20260203
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -36,7 +36,7 @@ DESCRIPTION:After cracking the biggest case in Zootopia's history\, rookie
  expected new parts of town\, where their growing partnership is tested li
  ke never before.
 DTEND;VALUE=DATE:20251127
-DTSTAMP:20260126T050024Z
+DTSTAMP:20260127T050025Z
 DTSTART;VALUE=DATE:20251126
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -52,7 +52,7 @@ DESCRIPTION:After cracking the biggest case in Zootopia's history\, rookie
  expected new parts of town\, where their growing partnership is tested li
  ke never before.
 DTEND;VALUE=DATE:20260128
-DTSTAMP:20260126T050024Z
+DTSTAMP:20260127T050025Z
 DTSTART;VALUE=DATE:20260127
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -60,12 +60,28 @@ SUMMARY:Zootopia 2 (Digital Release)
 UID:Radarr_movie_2923_digital
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Walt Disney Animation Studios
+DESCRIPTION:After cracking the biggest case in Zootopia's history\, rookie
+  cops Judy Hopps and Nick Wilde find themselves on the twisting trail of 
+ a great mystery when Gary De'Snake arrives and turns the animal metropoli
+ s upside down. To crack the case\, Judy and Nick must go undercover to un
+ expected new parts of town\, where their growing partnership is tested li
+ ke never before.
+DTEND;VALUE=DATE:20260304
+DTSTAMP:20260127T050025Z
+DTSTART;VALUE=DATE:20260303
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Zootopia 2 (Physical Release)
+UID:Radarr_movie_2923_physical
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:StudioCanal
 DESCRIPTION:Disowned at birth by his obscenely wealthy family\, blue-colla
  r Becket Redfellow will stop at nothing to reclaim his inheritance\, no m
  atter how many relatives stand in his way.
 DTEND;VALUE=DATE:20260221
-DTSTAMP:20260126T050024Z
+DTSTAMP:20260127T050025Z
 DTSTART;VALUE=DATE:20260220
 SEQUENCE:0
 STATUS:TENTATIVE
