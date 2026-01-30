@@ -2,196 +2,216 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART:20260515T040000Z
+DTSTART:20260424T040000Z
 SUMMARY:For All Mankind - TBA
-UID:4d58a2cf-3818-4fdb-b607-f0ba48092685@4d58.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260318T040000Z
-SUMMARY:Invincible (2021) - TBA
-UID:ef5b392b-e5f4-4532-b017-03acde291672@ef5b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:a041f963-7df6-4e08-a8b8-32097161156c@a041.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260522T040000Z
-SUMMARY:For All Mankind - TBA
-UID:27934413-c288-4f3a-b405-1a5748348f2c@2793.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:When Rusty and Amber rekindle their romance\, their plans are thrown into chaos when their business rival parents forbid the relationship.
-DTSTART:20260213T050000Z
-SUMMARY:The Loud House - My Phony Valentine
-UID:baf0d732-92a3-4373-9bd2-06768891edcc@baf0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260325T040000Z
-SUMMARY:Invincible (2021) - TBA
-UID:b94fbcac-7b20-4573-97d6-19c580221b96@b94f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260408T040000Z
-SUMMARY:Invincible (2021) - TBA
-UID:c7a3a528-e83f-4025-a0b3-a7d95ba498bc@c7a3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260529T040000Z
-SUMMARY:For All Mankind - TBA
-UID:a0e7c8e7-52d3-4869-b69a-577e9cac796c@a0e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lori launches a desperate plan to prove she's winning her breakup by finding a new boyfriend before her social media reputation takes a hit.
-DTSTART:20260213T050000Z
-SUMMARY:The Loud House - Man of My Schemes
-UID:ee9df78f-b0fb-4209-9504-0d676b0dd920@ee9d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260401T040000Z
-SUMMARY:Invincible (2021) - TBA
-UID:397ab6c8-4456-4490-bcd1-26f05f7f2536@397a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:When Lincoln's spirited Gran Gran Myrtle spies a tell-tale tattoo on Boy Jordan's kindly grandmother during Grandparents Day\, she launches a full-tilt mission to expose a long-vanished jewel thief.
-DTSTART:20260206T050000Z
-SUMMARY:The Loud House - Spy Dames
-UID:5599e4b2-f9f6-449d-a2d2-8fbd4ab34072@5599.org
+UID:346a7efa-5e23-4ab2-9d17-a71b7d6f2739@346a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Marge's crusade to get the family dog in better shape leads to her entering Santa's Little Helper in canine agility competitions and a trip to the National Dog Show in Philadelphia. There\, Marge and Homer suddenly find themselves — and the dog — mixed up in a historical conspiracy adventure worthy of a "National Treasure" movie.
 DTSTART:20260215T050000Z
 SUMMARY:The Simpsons - Irrational Treasure
-UID:3c6e63c1-1705-43b9-ba63-5e83a8832f7c@3c6e.org
+UID:48ce8a6c-542b-47c7-aa93-0a59a2e2e528@48ce.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:2c8719fc-e919-4666-a567-22a20b478289@2c87.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260318T040000Z
-SUMMARY:Invincible (2021) - TBA
-UID:80ab0a46-f674-443b-a4b9-e13c79d6e28e@80ab.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260417T040000Z
+DTSTART:20260501T040000Z
 SUMMARY:For All Mankind - TBA
-UID:cf1a92b7-5c4d-4bb9-88b6-3aad8ed1b925@cf1a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260415T040000Z
-SUMMARY:Invincible (2021) - TBA
-UID:9f438af9-b27c-4e3b-83b3-3c1ad40833f3@9f43.org
+UID:ee38220c-0399-42b2-8560-9de2692dbccd@ee38.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T040000Z
 SUMMARY:BEEF - TBA
-UID:3c1012bb-06c4-4c70-97b4-ac35447edc3d@3c10.org
+UID:07b0e89a-8fce-4401-b3f4-088c9a4182eb@07b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T040000Z
+SUMMARY:Invincible (2021) - TBA
+UID:e74a4863-5cc8-432e-bca1-afd6c6d76ea3@e74a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260403T040000Z
+SUMMARY:For All Mankind - TBA
+UID:f3a41ec9-7bb2-4f98-b6a6-2c8dedf1d83a@f3a4.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T040000Z
 SUMMARY:Invincible (2021) - You Gave Me No Choice
-UID:743e39a5-972a-4fa8-81a9-cdbe806ef23d@743e.org
+UID:7b1698a2-aa14-4091-9f7e-dc6bbc34d6ef@7b16.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260508T040000Z
-SUMMARY:For All Mankind - TBA
-UID:768db2f3-8b06-4458-a094-ba22255a1b3c@768d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260203T050000Z
-SUMMARY:Fallout - The Strip
-UID:6bac0bf8-75ae-4760-bc9b-498b3869dc43@6bac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260327T040000Z
-SUMMARY:For All Mankind - TBA
-UID:463c9471-2873-4bbc-97d9-40b632c165eb@463c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260215T050000Z
-SUMMARY:Dark Winds - tba
-UID:1c2b521c-a021-4347-81e5-63525db514fc@1c2b.org
+DTSTART:20260419T040000Z
+SUMMARY:From - The Arrival
+UID:5da12eb7-8eee-4d07-8440-fc6c2d240ca9@5da1.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T040000Z
 SUMMARY:For All Mankind - TBA
-UID:ab00e815-6ae2-4a64-8b75-6adb860d2cf6@ab00.org
+UID:2d50acdc-04ad-434c-9531-cacd85613844@2d50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lori launches a desperate plan to prove she's winning her breakup by finding a new boyfriend before her social media reputation takes a hit.
+DTSTART:20260213T050000Z
+SUMMARY:The Loud House - Man of My Schemes
+UID:325592e6-62bd-43c8-ab02-a14d2f84d6d2@3255.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T040000Z
 SUMMARY:BEEF - TBA
-UID:7ce187e5-6f5c-4c52-864e-d6a3ac0d5724@7ce1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:a0e65236-dc1e-4776-8278-e1fdf4d1ab00@a0e6.org
+UID:952874c4-5a0f-4da0-a766-14dcc061b7b7@9528.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:To earn her next patch and become a golden Snickerdoodle\, Lola must spend quality time with Sunset Canyon senior\, Bernie.
 DTSTART:20260130T050000Z
 SUMMARY:The Loud House - Rough Patch
-UID:1cab6414-d9a8-4b70-ba5f-60efc4c5cc9a@1cab.org
+UID:f5610b0b-03ce-49c3-85f9-7ca69e365bad@f561.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:After Lynn sees cousin Shiloh's athletic skills\, she gets overly competitive to prove she's the greatest Loud of all time.
-DTSTART:20260130T050000Z
-SUMMARY:The Loud House - The GLOAT
-UID:3d5beaa3-da80-4069-8043-5afdfd5efe78@3d5b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:75f14e55-7134-40cc-bcbb-522fc9c6568d@75f1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260424T040000Z
-SUMMARY:For All Mankind - TBA
-UID:0f9f9f75-dae2-4d01-9abf-5380742fdea8@0f9f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:33b62061-ffc6-4395-a149-ce8d8f21da1f@33b6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260422T040000Z
+DTSTART:20260401T040000Z
 SUMMARY:Invincible (2021) - TBA
-UID:0054633f-49c3-407a-bfbb-4e65fc43d4e4@0054.org
+UID:add987c9-c93c-415d-a201-fcf859d4b873@add9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:In the western Pacific Ocean is a vast area known as Oceania that is home to the world's most remote and mysterious islands. They are known for massive stone structures\, statuary strange figures\, and countless legends of otherworldly visitors. Could it be that these islands are the remnants of a lost alien civilization?
-DTSTART:20260129T050000Z
-SUMMARY:Ancient Aliens - Island of the Gods
-UID:1609e3aa-0f0b-4e5c-aa3e-90510a70cf97@1609.org
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:2ac0c8c5-29aa-47c9-acb6-8a60a21c2e72@2ac0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T040000Z
+SUMMARY:Invincible (2021) - TBA
+UID:a18847ea-4774-4025-a995-60c9d7616dff@a188.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:When Lincoln's spirited Gran Gran Myrtle spies a tell-tale tattoo on Boy Jordan's kindly grandmother during Grandparents Day\, she launches a full-tilt mission to expose a long-vanished jewel thief.
+DTSTART:20260206T050000Z
+SUMMARY:The Loud House - Spy Dames
+UID:a62ff242-6a02-4e84-ac3a-54b49c01ec95@a62f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T040000Z
+SUMMARY:For All Mankind - TBA
+UID:826e1ddb-7c3f-44b1-bd01-2d97939dc62d@826e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T050000Z
+SUMMARY:The Simpsons - Homer? A Cracker Bro?
+UID:511bcb16-99c9-4b77-bba4-dbf7418405b8@511b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T040000Z
+SUMMARY:For All Mankind - TBA
+UID:6e464b50-8107-455a-a5c2-9a1dc64ed511@6e46.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260215T050000Z
+SUMMARY:Dark Winds - tba
+UID:7ba9b699-118e-425b-8519-bdb449be2718@7ba9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T040000Z
+SUMMARY:For All Mankind - TBA
+UID:a10132ad-0073-4039-8ec1-87a880e5e9cc@a101.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260510T040000Z
+SUMMARY:From - The Heart Is a Lonely Hunter
+UID:db287786-f81b-449e-a399-ea85d515bac7@db28.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T040000Z
+SUMMARY:Invincible (2021) - TBA
+UID:0839e0e6-e796-410b-9f8f-f0b5abfa2b61@0839.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Leni and Miguel's dating advice podcast takes a chaotic turn.
 DTSTART:20260206T050000Z
 SUMMARY:The Loud House - Cupid's Harrow
-UID:57ed1dd2-0ad9-4a24-8abf-854a9b6ee043@57ed.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260215T050000Z
-SUMMARY:The Simpsons - Extreme Makeover: Homer Edition
-UID:1d586867-39a9-416b-a88e-2d52ee495fd9@1d58.org
+UID:72ec478f-b7d9-4e22-997d-e914ccc3ce02@72ec.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T040000Z
 SUMMARY:BEEF - TBA
-UID:783e8f8e-0108-4209-94c2-1cb1f7bd4755@783e.org
+UID:204bd170-f7be-4ec3-8ed2-8ecfc66bf7b0@204b.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260501T040000Z
-SUMMARY:For All Mankind - TBA
-UID:85578231-2f5c-4409-9e11-7d20c1bf4a13@8557.org
+DESCRIPTION:After Lynn sees cousin Shiloh's athletic skills\, she gets overly competitive to prove she's the greatest Loud of all time.
+DTSTART:20260130T050000Z
+SUMMARY:The Loud House - The GLOAT
+UID:2848785a-9d65-4717-81c1-d72245fc7cfb@2848.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260403T040000Z
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:d2992c18-6fdb-466c-8a90-32a0d861f735@d299.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T040000Z
+SUMMARY:Invincible (2021) - TBA
+UID:c3d08e51-4c58-4ab6-8356-f0c5274c3684@c3d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T050000Z
+SUMMARY:Fallout - The Strip
+UID:77ac0598-ba79-43c4-b736-d32a1a8e64bb@77ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:3b69cdfa-1283-4e76-843a-633b80844a20@3b69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T040000Z
+SUMMARY:From - Fray
+UID:2ad9d9b8-fe5a-4955-b96c-ef1dd144456b@2ad9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T040000Z
+SUMMARY:Invincible (2021) - TBA
+UID:e7e2ca8d-6635-48a0-8580-70afd2e6b0ea@e7e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:965f05da-e359-424d-b2c6-965371a7332e@965f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T040000Z
 SUMMARY:For All Mankind - TBA
-UID:89ffe334-d065-4198-9378-54a08e756e2a@89ff.org
+UID:bead5261-2ce0-4cec-bdeb-39e3f2f13f5d@bead.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260503T040000Z
+SUMMARY:From - TBA
+UID:a24a1bf5-32cd-4a07-8858-941a44808b3d@a24a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T040000Z
+SUMMARY:For All Mankind - TBA
+UID:aad95a09-729a-4e43-b6b6-d3a8b119e601@aad9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:In the western Pacific Ocean is a vast area known as Oceania that is home to the world's most remote and mysterious islands. They are known for massive stone structures\, statuary strange figures\, and countless legends of otherworldly visitors. Could it be that these islands are the remnants of a lost alien civilization?
+DTSTART:20260129T050000Z
+SUMMARY:Ancient Aliens - Island of the Gods
+UID:e64b34d8-7bae-48e4-9936-c4fd4798f4ab@e64b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:c8253109-102d-431d-afc8-b6696dae3871@c825.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T040000Z
+SUMMARY:Invincible (2021) - TBA
+UID:7bf72a7b-43da-452f-b0b7-5dec536a44b2@7bf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:When Rusty and Amber rekindle their romance\, their plans are thrown into chaos when their business rival parents forbid the relationship.
+DTSTART:20260213T050000Z
+SUMMARY:The Loud House - My Phony Valentine
+UID:7ba229fe-5406-436a-9932-133bea100901@7ba2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T040000Z
+SUMMARY:For All Mankind - TBA
+UID:4e823f67-42ed-4f56-8061-8e112473d3f0@4e82.org
 END:VEVENT
 END:VCALENDAR
