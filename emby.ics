@@ -2,252 +2,252 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART:20260807T040000Z
-SUMMARY:Sugar (2024) - TBA
-UID:c3d676c2-f848-4347-8c9a-5ab74472b17d@c3d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Homer strikes up an unlikely friendship with Kirk Van Houten\, which leads to them launching a hugely successful business venture together - a "crumbless" cracker that sweeps the nation. But when Kirk's darkest secrets are revealed\, Homer has to choose between his family and his fortune... and may just end up going in jail.
-DTSTART:20260215T050000Z
-SUMMARY:The Simpsons - Homer? A Cracker Bro?
-UID:40c4ecb8-8fa8-485f-992d-04ca1b7d05c6@40c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:When Lori becomes the star of the Dream Boat to find her soulmate\, a desperate Bobby goes undercover as a contestant to win her back from a "perfect" rival suitor.
-DTSTART:20260227T050000Z
-SUMMARY:The Loud House - Living the Dream Boat
-UID:0ea9528f-1d02-497b-a1b1-4421cdccddb6@0ea9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260426T040000Z
-SUMMARY:From - Fray
-UID:b925a8f2-b275-46dd-a172-95c61fea1ae0@b925.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:When Lincoln's spirited Gran Gran Myrtle spies a tell-tale tattoo on Boy Jordan's kindly grandmother during Grandparents Day\, she launches a full-tilt mission to expose a long-vanished jewel thief.
-DTSTART:20260206T050000Z
-SUMMARY:The Loud House - Spy Dames
-UID:91db5d7d-96ef-4acb-a2b2-7998a3d900f5@91db.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260403T040000Z
-SUMMARY:For All Mankind - TBA
-UID:3b207227-2672-4469-95f5-05099ca5eee2@3b20.org
+DESCRIPTION:From a stone circle in Turkey that challenges the timeline of human history to gigantic stone spheres in Bosnia and Egypt’s most unusual tombs\, could these monuments provide proof of extraterrestrial visitation?
+DTSTART:20260219T050000Z
+SUMMARY:Ancient Aliens - Mysterious Monuments
+UID:bc7db620-f7cc-434f-8dab-a81d86cbba8d@bc7d.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T040000Z
 SUMMARY:BEEF - TBA
-UID:b7ff3d20-bec6-4de9-9283-fc4229e2fdc3@b7ff.org
+UID:26fb656f-0ada-48b5-84a2-bd008844401a@26fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:d9d5a27f-e8c7-4e71-bb1d-d3ba5756534f@d9d5.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T040000Z
 SUMMARY:Invincible (2021) - TBA
-UID:5f3b4af6-95fe-41d3-82a9-748a75822c59@5f3b.org
+UID:85400c5b-90c5-451c-9d35-d33a7f2a044f@8540.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260215T050000Z
-SUMMARY:Dark Winds - tba
-UID:99b7ad84-6c2a-4ef3-bdb2-d522c573f7f3@99b7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260318T040000Z
-SUMMARY:Invincible (2021) - You Gave Me No Choice
-UID:555a5226-97a8-4e53-a6a2-aebfd7d3a862@555a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260318T040000Z
+DTSTART:20260422T040000Z
 SUMMARY:Invincible (2021) - TBA
-UID:2ca5cbbd-081b-4bb8-9459-e2d034b8a584@2ca5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260401T040000Z
-SUMMARY:Invincible (2021) - TBA
-UID:05459c2b-4ad0-4034-aa2d-0c92fb6607f6@0545.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:When Stella overhears her classmates calling her a "teacher's pet"\, she sets out to change her squeaky-clean image.
-DTSTART:20260220T050000Z
-SUMMARY:The Loud House - Student of the Jeer
-UID:c73b0e2e-6276-48d3-af94-de7d1a903874@c73b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260325T040000Z
-SUMMARY:Invincible (2021) - TBA
-UID:1ff23d17-2695-4c51-a381-27e310194b07@1ff2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:b530232d-d51a-4ae0-a1e4-7998a4fffd1a@b530.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260529T040000Z
-SUMMARY:For All Mankind - TBA
-UID:f6df1736-033c-4e95-99dd-5bdada871023@f6df.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260619T040000Z
-SUMMARY:Sugar (2024) - TBA
-UID:01a17c50-8a49-4aca-bf9a-a9d8260b2be3@01a1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260417T040000Z
-SUMMARY:For All Mankind - TBA
-UID:3641bcce-1416-47e9-a348-9d2487d598d0@3641.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260522T040000Z
-SUMMARY:For All Mankind - TBA
-UID:a5697e51-8738-4bb3-8ff6-cf3b73e6a28c@a569.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:9d194408-85f8-4949-9a86-598acc560571@9d19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Marge's crusade to get the family dog in better shape leads to her entering Santa's Little Helper in canine agility competitions and a trip to the National Dog Show in Philadelphia. There\, Marge and Homer suddenly find themselves — and the dog — mixed up in a historical conspiracy adventure worthy of a "National Treasure" movie.
-DTSTART:20260215T050000Z
-SUMMARY:The Simpsons - Irrational Treasure
-UID:f08468ec-4adc-4a02-8b05-afa0b2057314@f084.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:795d9924-3711-44b9-b811-439be9071118@795d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260703T040000Z
-SUMMARY:Sugar (2024) - TBA
-UID:2728df90-2ade-4dbb-867e-893f3a945708@2728.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260327T040000Z
-SUMMARY:For All Mankind - TBA
-UID:157f041d-f06c-442d-ad18-d65b8786b2a5@157f.org
+UID:1935e4b1-19e4-4167-9349-e76df0efe08a@1935.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T040000Z
 SUMMARY:Invincible (2021) - TBA
-UID:9447ce29-3fa1-4f89-97e4-da2113c37ed6@9447.org
+UID:61bd90e4-3d3b-4d4e-ba58-41ef242da214@61bd.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - TBA
-UID:6c8fcab6-dc0c-4bea-9ef5-98b17ac116a5@6c8f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260710T040000Z
+DTSTART:20260717T040000Z
 SUMMARY:Sugar (2024) - TBA
-UID:4d73a89c-0db9-4bd0-8267-ed8acdf0e013@4d73.org
+UID:9f060f07-dd5f-413c-a86d-388634d48dd2@9f06.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Lori's barista job takes an exciting turn when she's invited to apply to a prestigious coffee university.
-DTSTART:20260220T050000Z
-SUMMARY:The Loud House - Bean Dreams
-UID:fe56218f-9bef-40ee-a9e5-3d55ba147eeb@fe56.org
+DTSTART:20260417T040000Z
+SUMMARY:For All Mankind - TBA
+UID:01d82da2-2857-4df9-80d5-cc3c4af07cca@01d8.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260503T040000Z
 SUMMARY:From - TBA
-UID:279d3584-cfc4-427a-ad15-d39922d1714a@279d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260731T040000Z
-SUMMARY:Sugar (2024) - TBA
-UID:f9117ab8-8358-4f5e-a40b-a0e2567c0e60@f911.org
+UID:dadb5e65-ab8a-46a2-9fad-355086124d55@dadb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:When Rusty and Amber rekindle their romance\, their plans are thrown into chaos when their business rival parents forbid the relationship.
 DTSTART:20260213T050000Z
 SUMMARY:The Loud House - My Phony Valentine
-UID:b811ee1d-dc80-41f6-9901-a74820f72331@b811.org
+UID:c1e3b52d-f7b6-41b5-a9ed-332950d5bc73@c1e3.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260508T040000Z
-SUMMARY:For All Mankind - TBA
-UID:2c441210-d683-4e73-9ede-54a512bef25c@2c44.org
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:188f5ebc-f494-4cac-8271-e850e489884b@188f.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260410T040000Z
+DTSTART:20260215T050000Z
+SUMMARY:Dark Winds - tba
+UID:656ccc88-1f3d-4ef7-b575-2cef4a2626d3@656c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260424T040000Z
 SUMMARY:For All Mankind - TBA
-UID:7c19f137-69a0-497e-95d5-c2a4262d0fc1@7c19.org
+UID:0c604051-2c19-4488-94a5-53d51a68a141@0c60.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260510T040000Z
 SUMMARY:From - The Heart Is a Lonely Hunter
-UID:d32648fe-914d-4e78-822c-8955e07a6f19@d326.org
+UID:ade71b9d-62a2-47ee-a931-2ab049deca0a@ade7.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260515T040000Z
+DTSTART:20260401T040000Z
+SUMMARY:Invincible (2021) - TBA
+UID:711076bb-09cc-4f0f-ad7b-830d135ac5e1@7110.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260403T040000Z
 SUMMARY:For All Mankind - TBA
-UID:18cec342-d3dd-40af-9722-f67ce517b3ad@18ce.org
+UID:412dc139-6c05-480a-a078-4462727d398a@412d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Lori launches a desperate plan to prove she's winning her breakup by finding a new boyfriend before her social media reputation takes a hit.
 DTSTART:20260213T050000Z
 SUMMARY:The Loud House - Man of My Schemes
-UID:3c30b94f-0940-438c-aeac-2bd9f685a8a9@3c30.org
+UID:062ccb26-2711-4e7d-ba6b-9a2649a6b568@062c.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260422T040000Z
-SUMMARY:Invincible (2021) - TBA
-UID:9c891c31-f09f-4d46-8f8d-57edb3cadc75@9c89.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260424T040000Z
-SUMMARY:For All Mankind - TBA
-UID:19f3220b-611a-4705-9b68-cf5acd7eede3@19f3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260419T040000Z
-SUMMARY:From - The Arrival
-UID:874a044d-502f-44a5-99e3-f6899b365282@874a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260717T040000Z
+DTSTART:20260710T040000Z
 SUMMARY:Sugar (2024) - TBA
-UID:9021c01d-bdfc-49b8-a5ef-186ccf268881@9021.org
+UID:a5f8cb25-e0ba-434d-9850-a78a8584e1a0@a5f8.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260724T040000Z
-SUMMARY:Sugar (2024) - TBA
-UID:1469504d-8991-4882-b35b-c677ea910c2f@1469.org
+DESCRIPTION:Lori's barista job takes an exciting turn when she's invited to apply to a prestigious coffee university.
+DTSTART:20260220T050000Z
+SUMMARY:The Loud House - Bean Dreams
+UID:7a5a6920-aaae-47ba-826f-5da6abd14b4a@7a5a.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T040000Z
 SUMMARY:BEEF - TBA
-UID:265d55f2-11e5-4b88-b103-58d566344c4e@265d.org
+UID:c6d3d5e1-f19c-433d-b435-2cf8ba49bbb8@c6d3.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T040000Z
 SUMMARY:Invincible (2021) - TBA
-UID:fd734f0b-57a6-47be-912c-6510e1a3ebf1@fd73.org
+UID:722a9a83-662f-44ae-a753-9db6c8e8d1bc@722a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260807T040000Z
+SUMMARY:Sugar (2024) - TBA
+UID:04bdbbfd-42ef-4f81-a976-16e27b91fc3e@04bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Homer strikes up an unlikely friendship with Kirk Van Houten\, which leads to them launching a hugely successful business venture together - a "crumbless" cracker that sweeps the nation. But when Kirk's darkest secrets are revealed\, Homer has to choose between his family and his fortune... and may just end up going in jail.
+DTSTART:20260215T050000Z
+SUMMARY:The Simpsons - Homer? A Cracker Bro?
+UID:057f2aaf-ad8c-43d4-8bcd-62dcfe6062ea@057f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:286ab409-4c39-4dec-8c61-bc8c0e7abd35@286a.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260626T040000Z
 SUMMARY:Sugar (2024) - TBA
-UID:737d5f01-5000-423f-bf39-630de142d665@737d.org
+UID:6a05016a-57f8-4f6e-b93e-28d2903c26d7@6a05.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T040000Z
+SUMMARY:For All Mankind - TBA
+UID:382cad21-2ced-4deb-99ed-d12d4d085435@382c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T040000Z
+SUMMARY:Sugar (2024) - TBA
+UID:39c00273-de91-4478-9694-c8ba3b2abbd9@39c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T040000Z
+SUMMARY:From - Fray
+UID:7df1b583-ddb4-4e35-ba2e-4ac1be3af034@7df1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260724T040000Z
+SUMMARY:Sugar (2024) - TBA
+UID:d4524653-f805-4aa7-aa8f-a578234a2fcc@d452.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T040000Z
+SUMMARY:Invincible (2021) - You Gave Me No Choice
+UID:d27eebe4-6635-4e06-911f-8578d8323e8f@d27e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T040000Z
+SUMMARY:Invincible (2021) - TBA
+UID:b7ef4d71-5777-4e34-9b35-3e7cdf7984b1@b7ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260731T040000Z
+SUMMARY:Sugar (2024) - TBA
+UID:bdcae4c0-044d-4d01-b693-37764c227203@bdca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Found along the California coast to New York’s Hudson Valley\, and Northern England to Southern Chile\, could these mysterious locations provide evidence of an extraterrestrial presence on Earth?
+DTSTART:20260212T050000Z
+SUMMARY:Ancient Aliens - UFO Hot Spots
+UID:2b4511fa-c099-4269-a1aa-1c47634a85fa@2b45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Marge's crusade to get the family dog in better shape leads to her entering Santa's Little Helper in canine agility competitions and a trip to the National Dog Show in Philadelphia. There\, Marge and Homer suddenly find themselves — and the dog — mixed up in a historical conspiracy adventure worthy of a "National Treasure" movie.
+DTSTART:20260215T050000Z
+SUMMARY:The Simpsons - Irrational Treasure
+UID:ee3a7b2b-eb5c-49f4-9345-3f5860fffc72@ee3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:When Lori becomes the star of the Dream Boat to find her soulmate\, a desperate Bobby goes undercover as a contestant to win her back from a "perfect" rival suitor.
+DTSTART:20260227T050000Z
+SUMMARY:The Loud House - Living the Dream Boat
+UID:3314d54b-51a4-4d77-8a21-ef0e87727758@3314.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260419T040000Z
+SUMMARY:From - The Arrival
+UID:28df320c-ac02-4abb-a3d9-7ef08c4e3918@28df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T040000Z
+SUMMARY:Invincible (2021) - TBA
+UID:93d7b551-d712-4357-bbfa-e49fa6321643@93d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T040000Z
+SUMMARY:For All Mankind - TBA
+UID:e5d2f8ae-454d-463b-9228-854b2f80150c@e5d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260703T040000Z
+SUMMARY:Sugar (2024) - TBA
+UID:09d012b4-a6a7-4ae7-95c0-60cfdce5740b@09d0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T040000Z
 SUMMARY:BEEF - TBA
-UID:1b49683b-993e-47de-a13e-b22a49865a09@1b49.org
+UID:6f447226-eec4-4189-a1ee-bc91ca82fdcc@6f44.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T040000Z
+SUMMARY:For All Mankind - TBA
+UID:bfc2163b-ac79-4c4c-a62e-0efea40cb384@bfc2.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260501T040000Z
 SUMMARY:For All Mankind - TBA
-UID:9f4ffae5-6ac3-4743-ad48-6c9471418de2@9f4f.org
+UID:5043da09-2782-48dd-b4cf-6d6e9d38ffd5@5043.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:When Stella overhears her classmates calling her a "teacher's pet"\, she sets out to change her squeaky-clean image.
+DTSTART:20260220T050000Z
+SUMMARY:The Loud House - Student of the Jeer
+UID:84a86c5a-c4e2-4699-b84f-63d01b75ba32@84a8.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T040000Z
 SUMMARY:BEEF - TBA
-UID:a4773718-256f-434c-8e85-951c96920dea@a477.org
+UID:3ae575ef-4445-47da-9393-daf0fd866fc1@3ae5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Leni and Miguel's dating advice podcast takes a chaotic turn.
-DTSTART:20260206T050000Z
-SUMMARY:The Loud House - Cupid's Harrow
-UID:861651b9-f5e2-4cbe-a748-9659ae8f3e83@8616.org
+DTSTART:20260416T040000Z
+SUMMARY:BEEF - TBA
+UID:ecfa9f24-a7c8-40f5-b804-235e61c1fa31@ecfa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T040000Z
+SUMMARY:For All Mankind - TBA
+UID:54f626be-0ce7-47c1-96f7-4cb549262195@54f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T040000Z
+SUMMARY:For All Mankind - TBA
+UID:654dea16-8aaa-4229-97bf-eb38500f09c4@654d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T040000Z
+SUMMARY:For All Mankind - TBA
+UID:f547a058-558d-47d9-9b75-e065aa7891c8@f547.org
 END:VEVENT
 END:VCALENDAR

@@ -4,12 +4,36 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:A24
+DESCRIPTION:Marty Mauser\, a young man with a dream no one respects\, goes
+  to hell and back in pursuit of greatness.
+DTEND;VALUE=DATE:20251226
+DTSTAMP:20260208T050108Z
+DTSTART;VALUE=DATE:20251225
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Marty Supreme (Theatrical Release)
+UID:Radarr_movie_2920_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:A24
+DESCRIPTION:Marty Mauser\, a young man with a dream no one respects\, goes
+  to hell and back in pursuit of greatness.
+DTEND;VALUE=DATE:20260211
+DTSTAMP:20260208T050108Z
+DTSTART;VALUE=DATE:20260210
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Marty Supreme (Digital Release)
+UID:Radarr_movie_2920_digital
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:StudioCanal
 DESCRIPTION:Disowned at birth by his obscenely wealthy family\, blue-colla
  r Becket Redfellow will stop at nothing to reclaim his inheritance\, no m
  atter how many relatives stand in his way.
 DTEND;VALUE=DATE:20260221
-DTSTAMP:20260207T050025Z
+DTSTAMP:20260208T050108Z
 DTSTART;VALUE=DATE:20260220
 SEQUENCE:0
 STATUS:TENTATIVE
