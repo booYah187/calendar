@@ -8,7 +8,7 @@ CATEGORIES:A24
 DESCRIPTION:Marty Mauser\, a young man with a dream no one respects\, goes
   to hell and back in pursuit of greatness.
 DTEND;VALUE=DATE:20251226
-DTSTAMP:20260208T050108Z
+DTSTAMP:20260209T050023Z
 DTSTART;VALUE=DATE:20251225
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -20,7 +20,7 @@ CATEGORIES:A24
 DESCRIPTION:Marty Mauser\, a young man with a dream no one respects\, goes
   to hell and back in pursuit of greatness.
 DTEND;VALUE=DATE:20260211
-DTSTAMP:20260208T050108Z
+DTSTAMP:20260209T050023Z
 DTSTART;VALUE=DATE:20260210
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -33,11 +33,26 @@ DESCRIPTION:Disowned at birth by his obscenely wealthy family\, blue-colla
  r Becket Redfellow will stop at nothing to reclaim his inheritance\, no m
  atter how many relatives stand in his way.
 DTEND;VALUE=DATE:20260221
-DTSTAMP:20260208T050108Z
+DTSTAMP:20260209T050023Z
 DTSTART;VALUE=DATE:20260220
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:How to Make a Killing (Theatrical Release)
 UID:Radarr_movie_2925_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Pixar
+DESCRIPTION:Scientists have discovered how to "hop" human consciousness in
+ to lifelike robotic animals\, allowing people to communicate with animals
+  as animals. Animal lover Mabel seizes an opportunity to use the technolo
+ gy\, uncovering mysteries within the animal world that are beyond anythin
+ g she could have imagined.
+DTEND;VALUE=DATE:20260305
+DTSTAMP:20260209T050023Z
+DTSTART;VALUE=DATE:20260304
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Hoppers (Theatrical Release)
+UID:Radarr_movie_2974_cinemas
 END:VEVENT
 END:VCALENDAR
