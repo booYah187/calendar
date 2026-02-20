@@ -4,12 +4,26 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:
+DESCRIPTION:When an unemployed reporter is hypnotized as part of a past li
+ fe regression event\, he wakes not with memories of life as royalty or so
+ me other glamorous person\, but instead finds himself haunted by the memo
+ ries of a serial killer.
+DTEND;VALUE=DATE:20260321
+DTSTAMP:20260220T050027Z
+DTSTART;VALUE=DATE:20260320
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Past Life (Theatrical Release)
+UID:Radarr_movie_2907_cinemas
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:StudioCanal
 DESCRIPTION:Disowned at birth by his obscenely wealthy family\, blue-colla
  r Becket Redfellow will stop at nothing to reclaim his inheritance\, no m
  atter how many relatives stand in his way.
 DTEND;VALUE=DATE:20260221
-DTSTAMP:20260219T050052Z
+DTSTAMP:20260220T050027Z
 DTSTART;VALUE=DATE:20260220
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -24,7 +38,7 @@ DESCRIPTION:Scientists have discovered how to "hop" human consciousness in
  gy\, uncovering mysteries within the animal world that are beyond anythin
  g she could have imagined.
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260219T050052Z
+DTSTAMP:20260220T050027Z
 DTSTART;VALUE=DATE:20260304
 SEQUENCE:0
 STATUS:TENTATIVE
