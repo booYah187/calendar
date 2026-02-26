@@ -10,7 +10,7 @@ DESCRIPTION:When an unemployed reporter is hypnotized as part of a past li
  me other glamorous person\, but instead finds himself haunted by the memo
  ries of a serial killer.
 DTEND;VALUE=DATE:20260321
-DTSTAMP:20260225T050023Z
+DTSTAMP:20260226T050038Z
 DTSTART;VALUE=DATE:20260320
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -23,12 +23,46 @@ DESCRIPTION:Disowned at birth by his obscenely wealthy family\, blue-colla
  r Becket Redfellow will stop at nothing to reclaim his inheritance\, no m
  atter how many relatives stand in his way.
 DTEND;VALUE=DATE:20260221
-DTSTAMP:20260225T050023Z
+DTSTAMP:20260226T050038Z
 DTSTART;VALUE=DATE:20260220
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:How to Make a Killing (Theatrical Release)
 UID:Radarr_movie_2925_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:New Element Media
+DESCRIPTION:Offering unprecedented access to the 20 days leading up to the
+  2025 Presidential Inauguration — through the eyes of the First Lady-elec
+ t herself — step inside Melania Trump's world as she orchestrates inaugur
+ ation plans\, navigates the complexities of the White House transition\, 
+ and reenters public life with her family. With exclusive footage capturin
+ g critical meetings\, private conversations\, and never-before-seen envir
+ onments\, Mrs. Trump returns to one of the world's most powerful roles.
+DTEND;VALUE=DATE:20260131
+DTSTAMP:20260226T050038Z
+DTSTART;VALUE=DATE:20260130
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Melania (Theatrical Release)
+UID:Radarr_movie_2972_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:New Element Media
+DESCRIPTION:Offering unprecedented access to the 20 days leading up to the
+  2025 Presidential Inauguration — through the eyes of the First Lady-elec
+ t herself — step inside Melania Trump's world as she orchestrates inaugur
+ ation plans\, navigates the complexities of the White House transition\, 
+ and reenters public life with her family. With exclusive footage capturin
+ g critical meetings\, private conversations\, and never-before-seen envir
+ onments\, Mrs. Trump returns to one of the world's most powerful roles.
+DTEND;VALUE=DATE:20260225
+DTSTAMP:20260226T050038Z
+DTSTART;VALUE=DATE:20260224
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Melania (Digital Release)
+UID:Radarr_movie_2972_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Pixar
@@ -38,7 +72,7 @@ DESCRIPTION:Scientists have discovered how to "hop" human consciousness in
  gy\, uncovering mysteries within the animal world that are beyond anythin
  g she could have imagined.
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260225T050023Z
+DTSTAMP:20260226T050038Z
 DTSTART;VALUE=DATE:20260304
 SEQUENCE:0
 STATUS:TENTATIVE
