@@ -10,25 +10,12 @@ DESCRIPTION:When an unemployed reporter is hypnotized as part of a past li
  me other glamorous person\, but instead finds himself haunted by the memo
  ries of a serial killer.
 DTEND;VALUE=DATE:20260321
-DTSTAMP:20260227T050020Z
+DTSTAMP:20260228T050032Z
 DTSTART;VALUE=DATE:20260320
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Past Life (Theatrical Release)
 UID:Radarr_movie_2907_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:StudioCanal
-DESCRIPTION:Disowned at birth by his obscenely wealthy family\, blue-colla
- r Becket Redfellow will stop at nothing to reclaim his inheritance\, no m
- atter how many relatives stand in his way.
-DTEND;VALUE=DATE:20260221
-DTSTAMP:20260227T050020Z
-DTSTART;VALUE=DATE:20260220
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:How to Make a Killing (Theatrical Release)
-UID:Radarr_movie_2925_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:New Element Media
@@ -40,7 +27,7 @@ DESCRIPTION:Offering unprecedented access to the 20 days leading up to the
  g critical meetings\, private conversations\, and never-before-seen envir
  onments\, Mrs. Trump returns to one of the world's most powerful roles.
 DTEND;VALUE=DATE:20260131
-DTSTAMP:20260227T050020Z
+DTSTAMP:20260228T050032Z
 DTSTART;VALUE=DATE:20260130
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -57,7 +44,7 @@ DESCRIPTION:Offering unprecedented access to the 20 days leading up to the
  g critical meetings\, private conversations\, and never-before-seen envir
  onments\, Mrs. Trump returns to one of the world's most powerful roles.
 DTEND;VALUE=DATE:20260225
-DTSTAMP:20260227T050020Z
+DTSTAMP:20260228T050032Z
 DTSTART;VALUE=DATE:20260224
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -72,7 +59,7 @@ DESCRIPTION:Scientists have discovered how to "hop" human consciousness in
  gy\, uncovering mysteries within the animal world that are beyond anythin
  g she could have imagined.
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260227T050020Z
+DTSTAMP:20260228T050032Z
 DTSTART;VALUE=DATE:20260304
 SEQUENCE:0
 STATUS:TENTATIVE
