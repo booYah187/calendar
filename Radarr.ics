@@ -4,13 +4,28 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:Illumination
+DESCRIPTION:Having thwarted Bowser's previous plot to marry Princess Peach
+ \, Mario and Luigi now face a fresh threat in Bowser Jr.\, who is determi
+ ned to liberate his father from captivity and restore the family legacy. 
+ Alongside companions new and old\, the brothers travel across the stars t
+ o stop the young heir's crusade.
+DTEND;VALUE=DATE:20260402
+DTSTAMP:20260304T050020Z
+DTSTART;VALUE=DATE:20260401
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Super Mario Galaxy Movie (Theatrical Release)
+UID:Radarr_movie_2675_cinemas
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:
 DESCRIPTION:When an unemployed reporter is hypnotized as part of a past li
  fe regression event\, he wakes not with memories of life as royalty or so
  me other glamorous person\, but instead finds himself haunted by the memo
  ries of a serial killer.
 DTEND;VALUE=DATE:20260321
-DTSTAMP:20260303T050024Z
+DTSTAMP:20260304T050020Z
 DTSTART;VALUE=DATE:20260320
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -24,7 +39,7 @@ DESCRIPTION:Two colleagues become stranded on a deserted island\, the only
  vances and work together to survive\, but ultimately\, it's a battle of w
  ills and wits to make it out alive.
 DTEND;VALUE=DATE:20260129
-DTSTAMP:20260303T050024Z
+DTSTAMP:20260304T050020Z
 DTSTART;VALUE=DATE:20260128
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -38,7 +53,7 @@ DESCRIPTION:Two colleagues become stranded on a deserted island\, the only
  vances and work together to survive\, but ultimately\, it's a battle of w
  ills and wits to make it out alive.
 DTEND;VALUE=DATE:20260325
-DTSTAMP:20260303T050024Z
+DTSTAMP:20260304T050020Z
 DTSTART;VALUE=DATE:20260324
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -53,11 +68,41 @@ DESCRIPTION:Scientists have discovered how to 'hop' human consciousness in
  gy\, uncovering mysteries within the animal world beyond anything she cou
  ld have imagined.
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260303T050024Z
+DTSTAMP:20260304T050020Z
 DTSTART;VALUE=DATE:20260304
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Hoppers (Theatrical Release)
 UID:Radarr_movie_2974_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount Pictures
+DESCRIPTION:When a new Ghostface killer emerges in the quiet town where Si
+ dney Prescott has built a new life\, her darkest fears are realized as he
+ r daughter becomes the next target. Determined to protect her family\, Si
+ dney must face the horrors of her past to put an end to the bloodshed onc
+ e and for all.
+DTEND;VALUE=DATE:20260226
+DTSTAMP:20260304T050020Z
+DTSTART;VALUE=DATE:20260225
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Scream 7 (Theatrical Release)
+UID:Radarr_movie_1287_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount Pictures
+DESCRIPTION:When a new Ghostface killer emerges in the quiet town where Si
+ dney Prescott has built a new life\, her darkest fears are realized as he
+ r daughter becomes the next target. Determined to protect her family\, Si
+ dney must face the horrors of her past to put an end to the bloodshed onc
+ e and for all.
+DTEND;VALUE=DATE:20260401
+DTSTAMP:20260304T050020Z
+DTSTART;VALUE=DATE:20260331
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Scream 7 (Digital Release)
+UID:Radarr_movie_1287_digital
 END:VEVENT
 END:VCALENDAR
