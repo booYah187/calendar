@@ -4,6 +4,38 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:20th Century Studios
+DESCRIPTION:In the wake of the devastating war against the RDA and the los
+ s of their eldest son\, Jake Sully and Neytiri face a new threat on Pando
+ ra: the Ash People\, a violent and power-hungry Na'vi tribe led by the ru
+ thless Varang. Jake's family must fight for their survival and the future
+  of Pandora in a conflict that pushes them to their emotional and physica
+ l limits.
+DTEND;VALUE=DATE:20251218
+DTSTAMP:20260309T040019Z
+DTSTART;VALUE=DATE:20251217
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Avatar: Fire and Ash (Theatrical Release)
+UID:Radarr_movie_1288_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:20th Century Studios
+DESCRIPTION:In the wake of the devastating war against the RDA and the los
+ s of their eldest son\, Jake Sully and Neytiri face a new threat on Pando
+ ra: the Ash People\, a violent and power-hungry Na'vi tribe led by the ru
+ thless Varang. Jake's family must fight for their survival and the future
+  of Pandora in a conflict that pushes them to their emotional and physica
+ l limits.
+DTEND;VALUE=DATE:20260401
+DTSTAMP:20260309T040019Z
+DTSTART;VALUE=DATE:20260331
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Avatar: Fire and Ash (Digital Release)
+UID:Radarr_movie_1288_digital
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Illumination
 DESCRIPTION:Having thwarted Bowser's previous plot to marry Princess Peach
  \, Mario and Luigi now face a fresh threat in Bowser Jr.\, who is determi
@@ -11,7 +43,7 @@ DESCRIPTION:Having thwarted Bowser's previous plot to marry Princess Peach
  Alongside companions new and old\, the brothers travel across the stars t
  o stop the young heir's crusade.
 DTEND;VALUE=DATE:20260402
-DTSTAMP:20260308T050029Z
+DTSTAMP:20260309T040019Z
 DTSTART;VALUE=DATE:20260401
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -25,7 +57,7 @@ DESCRIPTION:When an unemployed reporter is hypnotized as part of a past li
  me other glamorous person\, but instead finds himself haunted by the memo
  ries of a serial killer.
 DTEND;VALUE=DATE:20260321
-DTSTAMP:20260308T050029Z
+DTSTAMP:20260309T040019Z
 DTSTART;VALUE=DATE:20260320
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -42,7 +74,7 @@ DESCRIPTION:Offering unprecedented access to the 20 days leading up to the
  g critical meetings\, private conversations\, and never-before-seen envir
  onments\, Mrs. Trump returns to one of the world's most powerful roles.
 DTEND;VALUE=DATE:20260131
-DTSTAMP:20260308T050029Z
+DTSTAMP:20260309T040019Z
 DTSTART;VALUE=DATE:20260130
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -59,7 +91,7 @@ DESCRIPTION:Offering unprecedented access to the 20 days leading up to the
  g critical meetings\, private conversations\, and never-before-seen envir
  onments\, Mrs. Trump returns to one of the world's most powerful roles.
 DTEND;VALUE=DATE:20260310
-DTSTAMP:20260308T050029Z
+DTSTAMP:20260309T040019Z
 DTSTART;VALUE=DATE:20260309
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -74,7 +106,7 @@ DESCRIPTION:Scientists have discovered how to 'hop' human consciousness in
  gy\, uncovering mysteries within the animal world beyond anything she cou
  ld have imagined.
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260308T050029Z
+DTSTAMP:20260309T040019Z
 DTSTART;VALUE=DATE:20260304
 SEQUENCE:0
 STATUS:CONFIRMED
