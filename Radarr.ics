@@ -12,7 +12,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20251218
-DTSTAMP:20260310T040022Z
+DTSTAMP:20260311T040032Z
 DTSTART;VALUE=DATE:20251217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -28,7 +28,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20260401
-DTSTAMP:20260310T040022Z
+DTSTAMP:20260311T040032Z
 DTSTART;VALUE=DATE:20260331
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -37,10 +37,13 @@ UID:Radarr_movie_1288_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Illumination
-DESCRIPTION:A new movie based on the world of Super Mario Bros. that furth
- er broadens Mario's world with a bright and fun story. Plot TBA.
+DESCRIPTION:Having thwarted Bowser's previous plot to marry Princess Peach
+ \, Mario and Luigi now face a fresh threat in Bowser Jr.\, who is determi
+ ned to liberate his father from captivity and restore the family legacy. 
+ Alongside companions new and old\, the brothers travel across the stars t
+ o stop the young heir's crusade.
 DTEND;VALUE=DATE:20260402
-DTSTAMP:20260310T040022Z
+DTSTAMP:20260311T040032Z
 DTSTART;VALUE=DATE:20260401
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -54,7 +57,7 @@ DESCRIPTION:When an unemployed reporter is hypnotized as part of a past li
  me other glamorous person\, but instead finds himself haunted by the memo
  ries of a serial killer.
 DTEND;VALUE=DATE:20260321
-DTSTAMP:20260310T040022Z
+DTSTAMP:20260311T040032Z
 DTSTART;VALUE=DATE:20260320
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -69,7 +72,7 @@ DESCRIPTION:Scientists have discovered how to 'hop' human consciousness in
  gy\, uncovering mysteries within the animal world beyond anything she cou
  ld have imagined.
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260310T040022Z
+DTSTAMP:20260311T040032Z
 DTSTART;VALUE=DATE:20260304
 SEQUENCE:0
 STATUS:CONFIRMED
