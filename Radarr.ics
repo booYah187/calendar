@@ -12,7 +12,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20251218
-DTSTAMP:20260318T040024Z
+DTSTAMP:20260319T040029Z
 DTSTART;VALUE=DATE:20251217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -28,7 +28,7 @@ DESCRIPTION:In the wake of the devastating war against the RDA and the los
   of Pandora in a conflict that pushes them to their emotional and physica
  l limits.
 DTEND;VALUE=DATE:20260401
-DTSTAMP:20260318T040024Z
+DTSTAMP:20260319T040029Z
 DTSTART;VALUE=DATE:20260331
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -43,7 +43,7 @@ DESCRIPTION:Having thwarted Bowser's previous plot to marry Princess Peach
  Alongside companions new and old\, the brothers travel across the stars t
  o stop the young heir's crusade.
 DTEND;VALUE=DATE:20260402
-DTSTAMP:20260318T040024Z
+DTSTAMP:20260319T040029Z
 DTSTART;VALUE=DATE:20260401
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -57,12 +57,26 @@ DESCRIPTION:When an unemployed reporter is hypnotized as part of a past li
  me other glamorous person\, but instead finds himself haunted by the memo
  ries of a serial killer.
 DTEND;VALUE=DATE:20260321
-DTSTAMP:20260318T040024Z
+DTSTAMP:20260319T040029Z
 DTSTART;VALUE=DATE:20260320
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Past Life (Theatrical Release)
 UID:Radarr_movie_2907_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:
+DESCRIPTION:When an unemployed reporter is hypnotized as part of a past li
+ fe regression event\, he wakes not with memories of life as royalty or so
+ me other glamorous person\, but instead finds himself haunted by the memo
+ ries of a serial killer.
+DTEND;VALUE=DATE:20260405
+DTSTAMP:20260319T040029Z
+DTSTART;VALUE=DATE:20260404
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Past Life (Digital Release)
+UID:Radarr_movie_2907_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Lord Miller
@@ -73,9 +87,9 @@ DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
  scientific knowledge and unorthodox ideas to save everything on Earth fro
  m extinction… but an unexpected friendship means he may not have to do it
   alone.
-DTEND;VALUE=DATE:20260314
-DTSTAMP:20260318T040024Z
-DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260319
+DTSTAMP:20260319T040029Z
+DTSTART;VALUE=DATE:20260318
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Project Hail Mary (Theatrical Release)
