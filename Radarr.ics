@@ -4,6 +4,38 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:20th Century Studios
+DESCRIPTION:In the wake of the devastating war against the RDA and the los
+ s of their eldest son\, Jake Sully and Neytiri face a new threat on Pando
+ ra: the Ash People\, a violent and power-hungry Na'vi tribe led by the ru
+ thless Varang. Jake's family must fight for their survival and the future
+  of Pandora in a conflict that pushes them to their emotional and physica
+ l limits.
+DTEND;VALUE=DATE:20251218
+DTSTAMP:20260324T040042Z
+DTSTART;VALUE=DATE:20251217
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Avatar: Fire and Ash (Theatrical Release)
+UID:Radarr_movie_1288_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:20th Century Studios
+DESCRIPTION:In the wake of the devastating war against the RDA and the los
+ s of their eldest son\, Jake Sully and Neytiri face a new threat on Pando
+ ra: the Ash People\, a violent and power-hungry Na'vi tribe led by the ru
+ thless Varang. Jake's family must fight for their survival and the future
+  of Pandora in a conflict that pushes them to their emotional and physica
+ l limits.
+DTEND;VALUE=DATE:20260401
+DTSTAMP:20260324T040042Z
+DTSTART;VALUE=DATE:20260331
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Avatar: Fire and Ash (Digital Release)
+UID:Radarr_movie_1288_digital
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Illumination
 DESCRIPTION:Having thwarted Bowser's previous plot to marry Princess Peach
  \, Mario and Luigi now face a fresh threat in Bowser Jr.\, who is determi
@@ -11,7 +43,7 @@ DESCRIPTION:Having thwarted Bowser's previous plot to marry Princess Peach
  Alongside companions new and old\, the brothers travel across the stars t
  o stop the young heir's crusade.
 DTEND;VALUE=DATE:20260402
-DTSTAMP:20260323T040046Z
+DTSTAMP:20260324T040042Z
 DTSTART;VALUE=DATE:20260401
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -25,7 +57,7 @@ DESCRIPTION:When an unemployed reporter is hypnotized as part of a past li
  me other glamorous person\, but instead finds himself haunted by the memo
  ries of a serial killer.
 DTEND;VALUE=DATE:20260321
-DTSTAMP:20260323T040046Z
+DTSTAMP:20260324T040042Z
 DTSTART;VALUE=DATE:20260320
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -39,54 +71,12 @@ DESCRIPTION:When an unemployed reporter is hypnotized as part of a past li
  me other glamorous person\, but instead finds himself haunted by the memo
  ries of a serial killer.
 DTEND;VALUE=DATE:20260405
-DTSTAMP:20260323T040046Z
+DTSTAMP:20260324T040042Z
 DTSTART;VALUE=DATE:20260404
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Past Life (Digital Release)
 UID:Radarr_movie_2907_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Raimi Productions
-DESCRIPTION:Two colleagues become stranded on a deserted island\, the only
-  survivors of a plane crash. On the island\, they must overcome past grie
- vances and work together to survive\, but ultimately\, it's a battle of w
- ills and wits to make it out alive.
-DTEND;VALUE=DATE:20260129
-DTSTAMP:20260323T040046Z
-DTSTART;VALUE=DATE:20260128
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Send Help (Theatrical Release)
-UID:Radarr_movie_2971_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Raimi Productions
-DESCRIPTION:Two colleagues become stranded on a deserted island\, the only
-  survivors of a plane crash. On the island\, they must overcome past grie
- vances and work together to survive\, but ultimately\, it's a battle of w
- ills and wits to make it out alive.
-DTEND;VALUE=DATE:20260325
-DTSTAMP:20260323T040046Z
-DTSTART;VALUE=DATE:20260324
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Send Help (Digital Release)
-UID:Radarr_movie_2971_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Raimi Productions
-DESCRIPTION:Two colleagues become stranded on a deserted island\, the only
-  survivors of a plane crash. On the island\, they must overcome past grie
- vances and work together to survive\, but ultimately\, it's a battle of w
- ills and wits to make it out alive.
-DTEND;VALUE=DATE:20260422
-DTSTAMP:20260323T040046Z
-DTSTART;VALUE=DATE:20260421
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Send Help (Physical Release)
-UID:Radarr_movie_2971_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Lord Miller
@@ -98,7 +88,7 @@ DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
  m extinction… but an unexpected friendship means he may not have to do it
   alone.
 DTEND;VALUE=DATE:20260319
-DTSTAMP:20260323T040046Z
+DTSTAMP:20260324T040042Z
 DTSTART;VALUE=DATE:20260318
 SEQUENCE:0
 STATUS:CONFIRMED
