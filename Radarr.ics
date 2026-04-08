@@ -11,11 +11,45 @@ DESCRIPTION:Having thwarted Bowser's previous plot to marry Princess Peach
  Alongside companions new and old\, the brothers travel across the stars t
  o stop the young heir's crusade.
 DTEND;VALUE=DATE:20260402
-DTSTAMP:20260407T040033Z
+DTSTAMP:20260408T040047Z
 DTSTART;VALUE=DATE:20260401
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:The Super Mario Galaxy Movie (Theatrical Release)
 UID:Radarr_movie_2675_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Lord Miller
+DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
+ rs from home with no recollection of who he is or how he got there. As hi
+ s memory returns\, he begins to uncover his mission: solve the riddle of 
+ the mysterious substance causing the sun to die out. He must call on his 
+ scientific knowledge and unorthodox ideas to save everything on Earth fro
+ m extinction… but an unexpected friendship means he may not have to do it
+  alone.
+DTEND;VALUE=DATE:20260319
+DTSTAMP:20260408T040047Z
+DTSTART;VALUE=DATE:20260318
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Project Hail Mary (Theatrical Release)
+UID:Radarr_movie_2983_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Lord Miller
+DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
+ rs from home with no recollection of who he is or how he got there. As hi
+ s memory returns\, he begins to uncover his mission: solve the riddle of 
+ the mysterious substance causing the sun to die out. He must call on his 
+ scientific knowledge and unorthodox ideas to save everything on Earth fro
+ m extinction… but an unexpected friendship means he may not have to do it
+  alone.
+DTEND;VALUE=DATE:20260407
+DTSTAMP:20260408T040047Z
+DTSTART;VALUE=DATE:20260406
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Project Hail Mary (Digital Release)
+UID:Radarr_movie_2983_digital
 END:VEVENT
 END:VCALENDAR
