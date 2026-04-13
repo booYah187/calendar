@@ -3,4 +3,38 @@ NAME:Radarr Movies Calendar
 PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
+BEGIN:VEVENT
+CATEGORIES:Lord Miller
+DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
+ rs from home with no recollection of who he is or how he got there. As hi
+ s memory returns\, he begins to uncover his mission: solve the riddle of 
+ the mysterious substance causing the sun to die out. He must call on his 
+ scientific knowledge and unorthodox ideas to save everything on Earth fro
+ m extinction… but an unexpected friendship means he may not have to do it
+  alone.
+DTEND;VALUE=DATE:20260319
+DTSTAMP:20260413T040030Z
+DTSTART;VALUE=DATE:20260318
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Project Hail Mary (Theatrical Release)
+UID:Radarr_movie_2983_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Lord Miller
+DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
+ rs from home with no recollection of who he is or how he got there. As hi
+ s memory returns\, he begins to uncover his mission: solve the riddle of 
+ the mysterious substance causing the sun to die out. He must call on his 
+ scientific knowledge and unorthodox ideas to save everything on Earth fro
+ m extinction… but an unexpected friendship means he may not have to do it
+  alone.
+DTEND;VALUE=DATE:20260429
+DTSTAMP:20260413T040030Z
+DTSTART;VALUE=DATE:20260428
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Project Hail Mary (Digital Release)
+UID:Radarr_movie_2983_digital
+END:VEVENT
 END:VCALENDAR
