@@ -3,4 +3,23 @@ NAME:Radarr Movies Calendar
 PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
+BEGIN:VEVENT
+CATEGORIES:RZA Productions
+DESCRIPTION:After serving his country in the Army\, Unique is falsely accu
+ sed of assault and sent to prison. Once released\, Unique sets up shop in
+  Ohio to restart his life\, linking up with his only surviving relative\,
+  Ramsey. There’s something insidious happening in this town\, though\, as
+  its racist sheriff and his crew of similarly bigoted acolytes all have a
+  knack for violence and share a gruesome secret pertaining to a recent st
+ ring of missing young Black men. When they set their sights on Unique and
+  turn his life upside down\, the former soldier has no choice but to brin
+ g the ruckus down on the sheriff and his goons.
+DTEND;VALUE=DATE:20260502
+DTSTAMP:20260417T040046Z
+DTSTART;VALUE=DATE:20260501
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:One Spoon of Chocolate (Theatrical Release)
+UID:Radarr_movie_2980_cinemas
+END:VEVENT
 END:VCALENDAR
