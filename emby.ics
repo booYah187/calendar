@@ -2,174 +2,127 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART:20260724T040000Z
-SUMMARY:Sugar (2024) - Cautionary Tale
-UID:e2e1218e-f938-4dbb-9f40-a0ea7b22265f@e2e1.org
+DTSTART:20260717T040000Z
+SUMMARY:Sugar (2024) - Unknowns
+UID:6b5c126f-2ed4-40f6-9f9d-a77a5ef414fe@6b5c.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260529T040000Z
-SUMMARY:For All Mankind - This Land Is Our Land
-UID:0a78599b-89c9-4be6-bfd2-436448075d61@0a78.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261122T050000Z
-SUMMARY:The Chosen - TBA
-UID:a300eb0a-1230-44d9-bd27-16636f7a71cb@a300.org
+DESCRIPTION:Chaos erupts on Mars following a shocking revelation.
+DTSTART:20260424T040000Z
+SUMMARY:For All Mankind - Svoboda
+UID:9f776e9f-7c60-4960-b1aa-22522d09668b@9f77.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261115T050000Z
 SUMMARY:The Chosen - TBA
-UID:0c65f2e8-0e73-490f-9228-692d39b12276@0c65.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260619T040000Z
-SUMMARY:Sugar (2024) - Away from Home
-UID:9a4f6b6e-619f-4d3d-b888-3a6220c762ba@9a4f.org
+UID:fbfef308-f730-47ae-9b82-b00f190fc956@fbfe.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260626T040000Z
 SUMMARY:Sugar (2024) - Downer Town
-UID:af85a0dd-6f42-4565-9728-29048c6934e4@af85.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261206T050000Z
-SUMMARY:The Chosen - TBA
-UID:54b414df-110a-42f6-8c98-72afd445e215@54b4.org
+UID:7a2d1283-871f-455c-8349-f50cd38c8f2d@7a2d.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261115T050000Z
 SUMMARY:The Chosen - TBA
-UID:3b9bce38-08d7-4ea1-bf49-19917f6eaeec@3b9b.org
+UID:0f7618b2-f800-4e36-bb5c-e3dfa2d95201@0f76.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ashley\, Lindsay and Ava's girls' getaway to Seoul is upended by old tensions\, new revelations and shocking confessions at 30\,000 feet.
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - The Hour of Separation
-UID:616ab7e3-624d-4a5a-808c-42949fb9c4f8@616a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261129T050000Z
+DTSTART:20261122T050000Z
 SUMMARY:The Chosen - TBA
-UID:4cbe265d-b9d7-4c1e-a321-c3dbdf42b8c6@4cbe.org
+UID:83cbce01-6d2d-4860-abab-edb5e90b8e36@83cb.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260731T040000Z
-SUMMARY:Sugar (2024) - What Else Can You Do?
-UID:2a971d1d-6cb2-4278-b2bd-1013692b9072@2a97.org
+DTSTART:20260619T040000Z
+SUMMARY:Sugar (2024) - Away from Home
+UID:7b75e005-5885-436b-a526-56ca8bdfe566@7b75.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Josh and Lindsay consider a new chapter for their lives. Ashley encourages Austin to get closer to Eunice.
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - The Increasing Flimsiness of Any Certainties About the Future
-UID:9521bd38-2974-4f48-8128-17934fbd91dd@9521.org
+DTSTART:20260513T040000Z
+SUMMARY:Good Omens - TBA
+UID:87423c1d-fbf0-47ae-a184-66bbe0107908@8742.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260807T040000Z
+SUMMARY:Sugar (2024) - Like Sugar
+UID:8fe97abf-dd0c-4bee-a970-e1da232f8f00@8fe9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Alex takes Ed’s advice and finds a new project to focus on: a job at Helios.
 DTSTART:20260417T040000Z
 SUMMARY:For All Mankind - Open Source
-UID:6ee7961b-1df6-4810-b600-739070fc1a5a@6ee7.org
+UID:ee6ce9dc-6771-4a4d-a2e3-cee549d88050@ee6c.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260703T040000Z
 SUMMARY:Sugar (2024) - Watch Face
-UID:b0fd0fcf-4e2b-4f66-bb07-1c0e32cf5efa@b0fd.org
+UID:0b3ae0f3-63ea-41dc-a25c-bea73bfdf4eb@0b3a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260501T040000Z
-SUMMARY:For All Mankind - No Sudden Moves
-UID:06351152-c6a1-4365-90f0-1cbde3413d1e@0635.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260508T040000Z
-SUMMARY:For All Mankind - The Sirens of Titan
-UID:25fcf3aa-5b1c-4373-9d0a-2d7dd208f8c9@25fc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260717T040000Z
-SUMMARY:Sugar (2024) - Unknowns
-UID:f0858304-63bf-4aad-8e6c-b20047a65a99@f085.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260515T040000Z
-SUMMARY:For All Mankind - Brave New World
-UID:0d0ae372-0bc1-4fb2-b295-fc18a19eee85@0d0a.org
+DTSTART:20261206T050000Z
+SUMMARY:The Chosen - TBA
+UID:72ae5771-b6d9-482a-8e24-85b0d1cac426@72ae.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for\, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.
 DTSTART:20260520T040000Z
 SUMMARY:The Mandalorian - Star Wars: The Mandalorian and Grogu
-UID:7c771658-62a8-44b7-8780-cd112d23e552@7c77.org
+UID:2755f33a-149c-450f-a5ba-311f2e6f416c@2755.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261115T050000Z
-SUMMARY:The Chosen - TBA
-UID:be19cbc8-4f7c-4653-88ee-1ac2d9646701@be19.org
+DTSTART:20260501T040000Z
+SUMMARY:For All Mankind - No Sudden Moves
+UID:a37db3c8-5ef7-491d-af61-a57a432b3930@a37d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:When Austin and Ashley are trapped for hours in an ER waiting room\, Josh sees an opportunity to turn the tables.
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - Oh\, the Comfort\, the Inexpressible Comfort
-UID:9f7ed879-547a-4731-bbc9-6d461e0aead8@9f7e.org
+DTSTART:20260515T040000Z
+SUMMARY:For All Mankind - Brave New World
+UID:e91f302d-d98f-4762-aadb-b070b6b9bc61@e91f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mark confronts his darkest fears as his life changes forever.
 DTSTART:20260422T040000Z
 SUMMARY:Invincible (2021) - DON'T LEAVE ME HANGING HERE
-UID:25decf49-418c-44e6-bf58-c2a51100c77c@25de.org
+UID:8b2eeee0-091b-4219-8b33-3c045901c77f@8b2e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T050000Z
+SUMMARY:The Chosen - TBA
+UID:7d6d94ec-2746-4c32-9082-7e4a0a831012@7d6d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261129T050000Z
+SUMMARY:The Chosen - TBA
+UID:b6d8e922-b141-4aab-aaf1-b901d4899a71@b6d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T040000Z
+SUMMARY:For All Mankind - This Land Is Our Land
+UID:464a8768-632f-49a7-a986-3d9eed6ebb17@464a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260724T040000Z
+SUMMARY:Sugar (2024) - Cautionary Tale
+UID:0e864eba-e020-40a6-8821-37bfffffedcc@0e86.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T040000Z
 SUMMARY:For All Mankind - Sons and Daughters
-UID:ada177b5-b58d-4f28-a5c6-64b82b01899e@ada1.org
+UID:f748a9de-c6c2-4083-8039-f470923d0055@f748.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T040000Z
+SUMMARY:For All Mankind - The Sirens of Titan
+UID:72215b00-dcd4-4845-9563-9bbd2ea6d9d8@7221.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260710T040000Z
 SUMMARY:Sugar (2024) - Off 15
-UID:38e227b8-1da3-4408-bb2d-04dafe20f266@38e2.org
+UID:477bbf10-91d8-42de-a970-b5742bc96ab1@477b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Josh and Austin try to mend fences with a training session. Lindsay tutors Ashley in the delicate art of winning over the club's wives.
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - Those Blue Remembered Hills
-UID:9f0b4836-b6bf-4596-98e7-e5bc2eace5a0@9f0b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260513T040000Z
-SUMMARY:Good Omens - TBA
-UID:c29f0b6b-90ba-4fc6-80be-1cd069b69dc2@c29f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260807T040000Z
-SUMMARY:Sugar (2024) - Like Sugar
-UID:4e27d87a-caa5-4027-9846-84fe794b5560@4e27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:While Josh tries to play off Ashley's ascendance at the club\, Lindsay seeks petty revenge. The Chairwoman proposes changes at the gym.
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - A New Starting Point for Further Desires
-UID:5094ce45-291f-4a1f-883b-4e8f730ebd4e@5094.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260424T040000Z
-SUMMARY:For All Mankind - Svoboda
-UID:32f3c305-57bd-4a51-97c3-daadf2f361e8@32f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Fighting for survival on the Chairwoman's home turf\, both couples must decide what — and for whom — they're willing to sacrifice.
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - It Will Stay This Way and You Will Obey
-UID:26a162e0-1bfd-4dc2-922c-6a637f60cb67@26a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lindsay and Josh's marital strife comes to a head when an unexpected crisis hits home.
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - I Am Killing My Flesh Without It
-UID:a16fd0de-bab6-4255-9998-3563ac7961cb@a16f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Country-club employees Ashley and Austin witness a vicious fight between their boss and his wife — and decide to leverage it to get ahead.
-DTSTART:20260416T040000Z
-SUMMARY:BEEF - All the Things We're Never Going to Have
-UID:eaa3c663-cea0-4078-bc26-ea71c74ceb9e@eaa3.org
+DTSTART:20260731T040000Z
+SUMMARY:Sugar (2024) - What Else Can You Do?
+UID:7bf5575a-3949-4d11-894f-5802c21eb766@7bf5.org
 END:VEVENT
 END:VCALENDAR
