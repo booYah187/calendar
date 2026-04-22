@@ -4,6 +4,21 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:Lucasfilm Ltd.
+DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
+ tered throughout the galaxy. As the fledgling New Republic works to prote
+ ct everything the Rebellion fought for\, they have enlisted the help of l
+ egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
+ ogu.
+DTEND;VALUE=DATE:20260521
+DTSTAMP:20260422T040036Z
+DTSTART;VALUE=DATE:20260520
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Star Wars: The Mandalorian and Grogu (Theatrical Release)
+UID:Radarr_movie_2096_cinemas
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Pixar
 DESCRIPTION:Scientists have discovered how to 'hop' human consciousness in
  to lifelike robotic animals\, allowing people to communicate with animals
@@ -11,7 +26,7 @@ DESCRIPTION:Scientists have discovered how to 'hop' human consciousness in
  gy\, uncovering mysteries within the animal world beyond anything she cou
  ld have imagined.
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260421T040030Z
+DTSTAMP:20260422T040036Z
 DTSTART;VALUE=DATE:20260304
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -26,7 +41,7 @@ DESCRIPTION:Scientists have discovered how to 'hop' human consciousness in
  gy\, uncovering mysteries within the animal world beyond anything she cou
  ld have imagined.
 DTEND;VALUE=DATE:20260506
-DTSTAMP:20260421T040030Z
+DTSTAMP:20260422T040036Z
 DTSTART;VALUE=DATE:20260505
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -45,7 +60,7 @@ DESCRIPTION:After serving his country in the Army\, Unique is falsely accu
   turn his life upside down\, the former soldier has no choice but to brin
  g the ruckus down on the sheriff and his goons.
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260421T040030Z
+DTSTAMP:20260422T040036Z
 DTSTART;VALUE=DATE:20260501
 SEQUENCE:0
 STATUS:TENTATIVE
