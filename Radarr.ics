@@ -11,42 +11,12 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260521
-DTSTAMP:20260428T040435Z
+DTSTAMP:20260429T040038Z
 DTSTART;VALUE=DATE:20260520
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Star Wars: The Mandalorian and Grogu (Theatrical Release)
 UID:Radarr_movie_2096_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Pixar
-DESCRIPTION:Scientists have discovered how to 'hop' human consciousness in
- to lifelike robotic animals\, allowing people to communicate with animals
-  as animals. Animal lover Mabel seizes an opportunity to use the technolo
- gy\, uncovering mysteries within the animal world beyond anything she cou
- ld have imagined.
-DTEND;VALUE=DATE:20260305
-DTSTAMP:20260428T040435Z
-DTSTART;VALUE=DATE:20260304
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Hoppers (Theatrical Release)
-UID:Radarr_movie_2974_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Pixar
-DESCRIPTION:Scientists have discovered how to 'hop' human consciousness in
- to lifelike robotic animals\, allowing people to communicate with animals
-  as animals. Animal lover Mabel seizes an opportunity to use the technolo
- gy\, uncovering mysteries within the animal world beyond anything she cou
- ld have imagined.
-DTEND;VALUE=DATE:20260429
-DTSTAMP:20260428T040435Z
-DTSTART;VALUE=DATE:20260428
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Hoppers (Digital Release)
-UID:Radarr_movie_2974_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:RZA Productions
@@ -60,7 +30,7 @@ DESCRIPTION:After serving his country in the Army\, Unique is falsely accu
   turn his life upside down\, the former soldier has no choice but to brin
  g the ruckus down on the sheriff and his goons.
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260428T040435Z
+DTSTAMP:20260429T040038Z
 DTSTART;VALUE=DATE:20260501
 SEQUENCE:0
 STATUS:TENTATIVE
