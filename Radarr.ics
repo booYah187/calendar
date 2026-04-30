@@ -11,7 +11,7 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260521
-DTSTAMP:20260429T040038Z
+DTSTAMP:20260430T040036Z
 DTSTART;VALUE=DATE:20260520
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -30,11 +30,43 @@ DESCRIPTION:After serving his country in the Army\, Unique is falsely accu
   turn his life upside down\, the former soldier has no choice but to brin
  g the ruckus down on the sheriff and his goons.
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260429T040038Z
+DTSTAMP:20260430T040036Z
 DTSTART;VALUE=DATE:20260501
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:One Spoon of Chocolate (Theatrical Release)
 UID:Radarr_movie_2980_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Lord Miller
+DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
+ rs from home with no recollection of who he is or how he got there. As hi
+ s memory returns\, he begins to uncover his mission: solve the riddle of 
+ the mysterious substance causing the sun to die out. He must call on his 
+ scientific knowledge and unorthodox ideas to save everything on Earth fro
+ m extinction.
+DTEND;VALUE=DATE:20260319
+DTSTAMP:20260430T040036Z
+DTSTART;VALUE=DATE:20260318
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Project Hail Mary (Theatrical Release)
+UID:Radarr_movie_2983_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Lord Miller
+DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
+ rs from home with no recollection of who he is or how he got there. As hi
+ s memory returns\, he begins to uncover his mission: solve the riddle of 
+ the mysterious substance causing the sun to die out. He must call on his 
+ scientific knowledge and unorthodox ideas to save everything on Earth fro
+ m extinction.
+DTEND;VALUE=DATE:20260516
+DTSTAMP:20260430T040036Z
+DTSTART;VALUE=DATE:20260515
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Project Hail Mary (Physical Release)
+UID:Radarr_movie_2983_physical
 END:VEVENT
 END:VCALENDAR
