@@ -11,7 +11,7 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260521
-DTSTAMP:20260430T040036Z
+DTSTAMP:20260501T040030Z
 DTSTART;VALUE=DATE:20260520
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -30,10 +30,10 @@ DESCRIPTION:After serving his country in the Army\, Unique is falsely accu
   turn his life upside down\, the former soldier has no choice but to brin
  g the ruckus down on the sheriff and his goons.
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260430T040036Z
+DTSTAMP:20260501T040030Z
 DTSTART;VALUE=DATE:20260501
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:One Spoon of Chocolate (Theatrical Release)
 UID:Radarr_movie_2980_cinemas
 END:VEVENT
@@ -46,7 +46,7 @@ DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
  scientific knowledge and unorthodox ideas to save everything on Earth fro
  m extinction.
 DTEND;VALUE=DATE:20260319
-DTSTAMP:20260430T040036Z
+DTSTAMP:20260501T040030Z
 DTSTART;VALUE=DATE:20260318
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -62,7 +62,7 @@ DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
  scientific knowledge and unorthodox ideas to save everything on Earth fro
  m extinction.
 DTEND;VALUE=DATE:20260516
-DTSTAMP:20260430T040036Z
+DTSTAMP:20260501T040030Z
 DTSTART;VALUE=DATE:20260515
 SEQUENCE:0
 STATUS:CONFIRMED
