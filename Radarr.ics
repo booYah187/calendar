@@ -11,12 +11,42 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260521
-DTSTAMP:20260502T040042Z
+DTSTAMP:20260503T040034Z
 DTSTART;VALUE=DATE:20260520
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Star Wars: The Mandalorian and Grogu (Theatrical Release)
 UID:Radarr_movie_2096_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Illumination
+DESCRIPTION:Having thwarted Bowser's previous plot to marry Princess Peach
+ \, Mario and Luigi now face a fresh threat in Bowser Jr.\, who is determi
+ ned to liberate his father from captivity and restore the family legacy. 
+ Alongside companions new and old\, the brothers travel across the stars t
+ o stop the young heir's crusade.
+DTEND;VALUE=DATE:20260402
+DTSTAMP:20260503T040034Z
+DTSTART;VALUE=DATE:20260401
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Super Mario Galaxy Movie (Theatrical Release)
+UID:Radarr_movie_2675_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Illumination
+DESCRIPTION:Having thwarted Bowser's previous plot to marry Princess Peach
+ \, Mario and Luigi now face a fresh threat in Bowser Jr.\, who is determi
+ ned to liberate his father from captivity and restore the family legacy. 
+ Alongside companions new and old\, the brothers travel across the stars t
+ o stop the young heir's crusade.
+DTEND;VALUE=DATE:20260506
+DTSTAMP:20260503T040034Z
+DTSTART;VALUE=DATE:20260505
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Super Mario Galaxy Movie (Digital Release)
+UID:Radarr_movie_2675_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:RZA Productions
@@ -30,7 +60,7 @@ DESCRIPTION:After serving his country in the Army\, Unique is falsely accu
   turn his life upside down\, the former soldier has no choice but to brin
  g the ruckus down on the sheriff and his goons.
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260502T040042Z
+DTSTAMP:20260503T040034Z
 DTSTART;VALUE=DATE:20260501
 SEQUENCE:0
 STATUS:CONFIRMED
