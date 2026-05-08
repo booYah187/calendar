@@ -11,7 +11,7 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260521
-DTSTAMP:20260508T040017Z
+DTSTAMP:20260508T041631Z
 DTSTART;VALUE=DATE:20260520
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -26,7 +26,7 @@ DESCRIPTION:Having thwarted Bowser's previous plot to marry Princess Peach
  Alongside companions new and old\, the brothers travel across the stars t
  o stop the young heir's crusade.
 DTEND;VALUE=DATE:20260402
-DTSTAMP:20260508T040018Z
+DTSTAMP:20260508T041631Z
 DTSTART;VALUE=DATE:20260401
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -41,7 +41,7 @@ DESCRIPTION:Having thwarted Bowser's previous plot to marry Princess Peach
  Alongside companions new and old\, the brothers travel across the stars t
  o stop the young heir's crusade.
 DTEND;VALUE=DATE:20260520
-DTSTAMP:20260508T040018Z
+DTSTAMP:20260508T041631Z
 DTSTART;VALUE=DATE:20260519
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -60,7 +60,7 @@ DESCRIPTION:After serving his country in the Army\, Unique is falsely accu
   turn his life upside down\, the former soldier has no choice but to brin
  g the ruckus down on the sheriff and his goons.
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260508T040018Z
+DTSTAMP:20260508T041631Z
 DTSTART;VALUE=DATE:20260501
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -69,14 +69,14 @@ UID:Radarr_movie_2980_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Edko Films
-DESCRIPTION:After the daughter of Wang Wei is kidnapped by a criminal netw
- ork and he receives no help from the corrupt police\, Wei sets out on a r
- ampage to find her himself. His only ally is Navin – a relentless journal
- ist whose wife has mysteriously disappeared. Fueled by a furious vengeanc
- e\, the unlikely duo ruthlessly fights against the kidnappers in this exp
- losive martial arts showdown.
+DESCRIPTION:After Wang Wei's daughter is kidnapped by a criminal network a
+ nd he receives no help from the corrupt police\, Wei sets out to find her
+  himself. His only ally is Navin\, a relentless journalist whose wife has
+  mysteriously disappeared. Fueled by a furious vengeance\, the unlikely d
+ uo ruthlessly battle the kidnappers in this explosive martial arts showdo
+ wn.
 DTEND;VALUE=DATE:20260606
-DTSTAMP:20260508T040018Z
+DTSTAMP:20260508T041631Z
 DTSTART;VALUE=DATE:20260605
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -90,7 +90,7 @@ DESCRIPTION:Grappling with his past after a life of crime and murder\, Rob
  his last. In the hands of a mysterious woman\, he is offered a chance at 
  salvation.
 DTEND;VALUE=DATE:20260605
-DTSTAMP:20260508T040018Z
+DTSTAMP:20260508T041631Z
 DTSTART;VALUE=DATE:20260604
 SEQUENCE:0
 STATUS:TENTATIVE
