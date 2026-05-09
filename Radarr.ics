@@ -11,7 +11,7 @@ DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
  egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
  ogu.
 DTEND;VALUE=DATE:20260521
-DTSTAMP:20260508T041631Z
+DTSTAMP:20260509T040033Z
 DTSTART;VALUE=DATE:20260520
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -19,53 +19,36 @@ SUMMARY:Star Wars: The Mandalorian and Grogu (Theatrical Release)
 UID:Radarr_movie_2096_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Illumination
-DESCRIPTION:Having thwarted Bowser's previous plot to marry Princess Peach
- \, Mario and Luigi now face a fresh threat in Bowser Jr.\, who is determi
- ned to liberate his father from captivity and restore the family legacy. 
- Alongside companions new and old\, the brothers travel across the stars t
- o stop the young heir's crusade.
-DTEND;VALUE=DATE:20260402
-DTSTAMP:20260508T041631Z
-DTSTART;VALUE=DATE:20260401
+CATEGORIES:Lord Miller
+DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
+ rs from home with no recollection of who he is or how he got there. As hi
+ s memory returns\, he begins to uncover his mission: solve the riddle of 
+ the mysterious substance causing the sun to die out. He must call on his 
+ scientific knowledge and unorthodox ideas to save everything on Earth fro
+ m extinction.
+DTEND;VALUE=DATE:20260319
+DTSTAMP:20260509T040033Z
+DTSTART;VALUE=DATE:20260318
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:The Super Mario Galaxy Movie (Theatrical Release)
-UID:Radarr_movie_2675_cinemas
+SUMMARY:Project Hail Mary (Theatrical Release)
+UID:Radarr_movie_2983_cinemas
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Illumination
-DESCRIPTION:Having thwarted Bowser's previous plot to marry Princess Peach
- \, Mario and Luigi now face a fresh threat in Bowser Jr.\, who is determi
- ned to liberate his father from captivity and restore the family legacy. 
- Alongside companions new and old\, the brothers travel across the stars t
- o stop the young heir's crusade.
-DTEND;VALUE=DATE:20260520
-DTSTAMP:20260508T041631Z
-DTSTART;VALUE=DATE:20260519
+CATEGORIES:Lord Miller
+DESCRIPTION:Science teacher Ryland Grace wakes up on a spaceship light yea
+ rs from home with no recollection of who he is or how he got there. As hi
+ s memory returns\, he begins to uncover his mission: solve the riddle of 
+ the mysterious substance causing the sun to die out. He must call on his 
+ scientific knowledge and unorthodox ideas to save everything on Earth fro
+ m extinction.
+DTEND;VALUE=DATE:20260513
+DTSTAMP:20260509T040033Z
+DTSTART;VALUE=DATE:20260512
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:The Super Mario Galaxy Movie (Digital Release)
-UID:Radarr_movie_2675_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:RZA Productions
-DESCRIPTION:After serving his country in the Army\, Unique is falsely accu
- sed of assault and sent to prison. Once released\, Unique sets up shop in
-  Ohio to restart his life\, linking up with his only surviving relative\,
-  Ramsey. There’s something insidious happening in this town\, though\, as
-  its racist sheriff and his crew of similarly bigoted acolytes all have a
-  knack for violence and share a gruesome secret pertaining to a recent st
- ring of missing young Black men. When they set their sights on Unique and
-  turn his life upside down\, the former soldier has no choice but to brin
- g the ruckus down on the sheriff and his goons.
-DTEND;VALUE=DATE:20260502
-DTSTAMP:20260508T041631Z
-DTSTART;VALUE=DATE:20260501
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:One Spoon of Chocolate (Theatrical Release)
-UID:Radarr_movie_2980_cinemas
+SUMMARY:Project Hail Mary (Digital Release)
+UID:Radarr_movie_2983_digital
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Edko Films
@@ -76,7 +59,7 @@ DESCRIPTION:After Wang Wei's daughter is kidnapped by a criminal network a
  uo ruthlessly battle the kidnappers in this explosive martial arts showdo
  wn.
 DTEND;VALUE=DATE:20260606
-DTSTAMP:20260508T041631Z
+DTSTAMP:20260509T040033Z
 DTSTART;VALUE=DATE:20260605
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -90,7 +73,7 @@ DESCRIPTION:Grappling with his past after a life of crime and murder\, Rob
  his last. In the hands of a mysterious woman\, he is offered a chance at 
  salvation.
 DTEND;VALUE=DATE:20260605
-DTSTAMP:20260508T041631Z
+DTSTAMP:20260509T040033Z
 DTSTART;VALUE=DATE:20260604
 SEQUENCE:0
 STATUS:TENTATIVE
