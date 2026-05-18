@@ -7,6 +7,14 @@
     <atom:link href="https://blacklungindustries.ddns.net/gitea/api/v1/users/mattyj513/activities/feeds" rel="self" type="application/rss+xml" />
     
     <item>
+        <title>radical</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/radical</link>
+        <description>No Message</description>
+        <pubDate>Sun, 17 May 2026 22:06:03 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/radical-1776</guid>
+    </item>
+    
+    <item>
         <title>mattflix-public</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public</link>
         <description>daily update</description>
@@ -236,14 +244,6 @@
         <description>updated history</description>
         <pubDate>Tue, 12 May 2026 04:00:23 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx-1747</guid>
-    </item>
-    
-    <item>
-        <title>mattflix-data</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data</link>
-        <description>daily update</description>
-        <pubDate>Mon, 11 May 2026 09:05:33 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data-1746</guid>
     </item>
     
 </channel>
