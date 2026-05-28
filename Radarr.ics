@@ -4,21 +4,6 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
-CATEGORIES:Lucasfilm Ltd.
-DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
- tered throughout the galaxy. As the fledgling New Republic works to prote
- ct everything the Rebellion fought for\, they have enlisted the help of l
- egendary Mandalorian bounty hunter Din Djarin and his young apprentice Gr
- ogu.
-DTEND;VALUE=DATE:20260521
-DTSTAMP:20260527T040018Z
-DTSTART;VALUE=DATE:20260520
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Mandalorian and Grogu (Theatrical Release)
-UID:Radarr_movie_2096_cinemas
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Edko Films
 DESCRIPTION:After Wang Wei's daughter is kidnapped by a criminal network a
  nd he receives no help from the corrupt police\, Wei sets out to find her
@@ -27,7 +12,7 @@ DESCRIPTION:After Wang Wei's daughter is kidnapped by a criminal network a
  uo ruthlessly battle the kidnappers in this explosive martial arts showdo
  wn.
 DTEND;VALUE=DATE:20260611
-DTSTAMP:20260527T040018Z
+DTSTAMP:20260528T040037Z
 DTSTART;VALUE=DATE:20260610
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -41,7 +26,7 @@ DESCRIPTION:Grappling with his past after a life of crime and murder\, Rob
  his last. In the hands of a mysterious woman\, he is offered a chance at 
  salvation.
 DTEND;VALUE=DATE:20260619
-DTSTAMP:20260527T040018Z
+DTSTAMP:20260528T040037Z
 DTSTART;VALUE=DATE:20260618
 SEQUENCE:0
 STATUS:TENTATIVE
