@@ -12,10 +12,10 @@ DESCRIPTION:After Wang Wei's daughter is kidnapped by a criminal network a
  uo ruthlessly battle the kidnappers in this explosive martial arts showdo
  wn.
 DTEND;VALUE=DATE:20260611
-DTSTAMP:20260609T040023Z
+DTSTAMP:20260610T040021Z
 DTSTART;VALUE=DATE:20260610
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Furious (Theatrical Release)
 UID:Radarr_movie_2984_cinemas
 END:VEVENT
@@ -26,7 +26,7 @@ DESCRIPTION:Grappling with his past after a life of crime and murder\, Rob
  his last. In the hands of a mysterious woman\, he is offered a chance at 
  salvation.
 DTEND;VALUE=DATE:20260619
-DTSTAMP:20260609T040023Z
+DTSTAMP:20260610T040021Z
 DTSTART;VALUE=DATE:20260618
 SEQUENCE:0
 STATUS:TENTATIVE
