@@ -4,6 +4,21 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:Imagine Entertainment
+DESCRIPTION:Following the death of his father\, Jay Gardiner goes diving o
+ ff the central Coast of California in search of his remains\, but is swal
+ lowed by a massive sperm whale. While trapped inside its belly with only 
+ one hour of oxygen left\, Jay comes to realize that the hard-earned lesso
+ ns his father imparted may be the key to his escape.
+DTEND;VALUE=DATE:20260617
+DTSTAMP:20260611T040028Z
+DTSTART;VALUE=DATE:20260616
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Whalefall (Theatrical Release)
+UID:Radarr_movie_2915_cinemas
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Edko Films
 DESCRIPTION:After Wang Wei's daughter is kidnapped by a criminal network a
  nd he receives no help from the corrupt police\, Wei sets out to find her
@@ -12,7 +27,7 @@ DESCRIPTION:After Wang Wei's daughter is kidnapped by a criminal network a
  uo ruthlessly battle the kidnappers in this explosive martial arts showdo
  wn.
 DTEND;VALUE=DATE:20260611
-DTSTAMP:20260610T040021Z
+DTSTAMP:20260611T040028Z
 DTSTART;VALUE=DATE:20260610
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -26,7 +41,7 @@ DESCRIPTION:Grappling with his past after a life of crime and murder\, Rob
  his last. In the hands of a mysterious woman\, he is offered a chance at 
  salvation.
 DTEND;VALUE=DATE:20260619
-DTSTAMP:20260610T040021Z
+DTSTAMP:20260611T040028Z
 DTSTART;VALUE=DATE:20260618
 SEQUENCE:0
 STATUS:TENTATIVE
