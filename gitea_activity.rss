@@ -9,6 +9,38 @@
     <item>
         <title>the-stretch</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/the-stretch</link>
+        <description>update added scoring logic</description>
+        <pubDate>Sun, 14 Jun 2026 05:25:40 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/the-stretch-1846</guid>
+    </item>
+    
+    <item>
+        <title>calendar</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
+        <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
+        <pubDate>Sun, 14 Jun 2026 04:01:02 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-1845</guid>
+    </item>
+    
+    <item>
+        <title>.profile</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
+        <description>daily profile update</description>
+        <pubDate>Sun, 14 Jun 2026 04:00:42 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-1844</guid>
+    </item>
+    
+    <item>
+        <title>bash-hx</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx</link>
+        <description>updated history</description>
+        <pubDate>Sun, 14 Jun 2026 04:00:35 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx-1843</guid>
+    </item>
+    
+    <item>
+        <title>the-stretch</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/the-stretch</link>
         <description>initial quiz display logic</description>
         <pubDate>Sat, 13 Jun 2026 13:05:41 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/the-stretch-1842</guid>
@@ -212,38 +244,6 @@
         <description>daily profile update</description>
         <pubDate>Tue, 09 Jun 2026 04:00:28 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-1817</guid>
-    </item>
-    
-    <item>
-        <title>bash-hx</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx</link>
-        <description>updated history</description>
-        <pubDate>Tue, 09 Jun 2026 04:00:19 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx-1816</guid>
-    </item>
-    
-    <item>
-        <title>the-stretch</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/the-stretch</link>
-        <description>update</description>
-        <pubDate>Tue, 09 Jun 2026 03:15:42 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/the-stretch-1815</guid>
-    </item>
-    
-    <item>
-        <title>mattflix-data</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data</link>
-        <description>daily update</description>
-        <pubDate>Mon, 08 Jun 2026 10:18:04 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data-1814</guid>
-    </item>
-    
-    <item>
-        <title>calendar</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/calendar</link>
-        <description>Update gitea_activity.rss Sonarr.ics Radarr.ics emby.ics weather.png</description>
-        <pubDate>Mon, 08 Jun 2026 04:00:37 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/calendar-1813</guid>
     </item>
     
 </channel>
