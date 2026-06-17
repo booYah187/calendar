@@ -4,6 +4,21 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:Universal Pictures
+DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
+ d perilous journey home following the Trojan War. Throughout his voyage\,
+  he is forced to confront the whims of gods\, mythological monsters\, and
+  trials that stretch both his cunning and his humanity to the breaking po
+ int.
+DTEND;VALUE=DATE:20260716
+DTSTAMP:20260617T040032Z
+DTSTART;VALUE=DATE:20260715
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Odyssey (Theatrical Release)
+UID:Radarr_movie_2928_cinemas
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Edko Films
 DESCRIPTION:After Wang Wei's daughter is kidnapped by a criminal network a
  nd he receives no help from the corrupt police\, Wei sets out to find her
@@ -12,7 +27,7 @@ DESCRIPTION:After Wang Wei's daughter is kidnapped by a criminal network a
  uo ruthlessly battle the kidnappers in this explosive martial arts showdo
  wn.
 DTEND;VALUE=DATE:20260611
-DTSTAMP:20260616T040022Z
+DTSTAMP:20260617T040032Z
 DTSTART;VALUE=DATE:20260610
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -26,7 +41,7 @@ DESCRIPTION:Grappling with his past after a life of crime and murder\, Rob
  his last. In the hands of a mysterious woman\, he is offered a chance at 
  salvation.
 DTEND;VALUE=DATE:20260619
-DTSTAMP:20260616T040022Z
+DTSTAMP:20260617T040032Z
 DTSTART;VALUE=DATE:20260618
 SEQUENCE:0
 STATUS:TENTATIVE
