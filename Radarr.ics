@@ -11,7 +11,7 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20260716
-DTSTAMP:20260618T040108Z
+DTSTAMP:20260619T040021Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -25,10 +25,10 @@ DESCRIPTION:Grappling with his past after a life of crime and murder\, Rob
  his last. In the hands of a mysterious woman\, he is offered a chance at 
  salvation.
 DTEND;VALUE=DATE:20260619
-DTSTAMP:20260618T040108Z
+DTSTAMP:20260619T040021Z
 DTSTART;VALUE=DATE:20260618
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Death of Robin Hood (Theatrical Release)
 UID:Radarr_movie_3007_cinemas
 END:VEVENT
