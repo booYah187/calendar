@@ -11,7 +11,7 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20260716
-DTSTAMP:20260629T040021Z
+DTSTAMP:20260630T040033Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -27,7 +27,7 @@ DESCRIPTION:After Wang Wei's daughter is kidnapped by a criminal network a
  uo ruthlessly battle the kidnappers in this explosive martial arts showdo
  wn.
 DTEND;VALUE=DATE:20260611
-DTSTAMP:20260629T040021Z
+DTSTAMP:20260630T040033Z
 DTSTART;VALUE=DATE:20260610
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -43,11 +43,39 @@ DESCRIPTION:After Wang Wei's daughter is kidnapped by a criminal network a
  uo ruthlessly battle the kidnappers in this explosive martial arts showdo
  wn.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20260629T040021Z
+DTSTAMP:20260630T040033Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:The Furious (Digital Release)
 UID:Radarr_movie_2984_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Lyrical Media
+DESCRIPTION:Grappling with his past after a life of crime and murder\, Rob
+ in Hood finds himself gravely injured after a battle he thought would be 
+ his last. In the hands of a mysterious woman\, he is offered a chance at 
+ salvation.
+DTEND;VALUE=DATE:20260619
+DTSTAMP:20260630T040033Z
+DTSTART;VALUE=DATE:20260618
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Death of Robin Hood (Theatrical Release)
+UID:Radarr_movie_3007_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Lyrical Media
+DESCRIPTION:Grappling with his past after a life of crime and murder\, Rob
+ in Hood finds himself gravely injured after a battle he thought would be 
+ his last. In the hands of a mysterious woman\, he is offered a chance at 
+ salvation.
+DTEND;VALUE=DATE:20260722
+DTSTAMP:20260630T040033Z
+DTSTART;VALUE=DATE:20260721
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Death of Robin Hood (Digital Release)
+UID:Radarr_movie_3007_digital
 END:VEVENT
 END:VCALENDAR
