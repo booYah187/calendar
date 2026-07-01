@@ -11,12 +11,28 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20260716
-DTSTAMP:20260630T040033Z
+DTSTAMP:20260701T040026Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Odyssey (Theatrical Release)
 UID:Radarr_movie_2928_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Marvel Studios
+DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
+  remember him—and the pressure of seeing his old friends move on without 
+ him—sparks a change in Peter Parker he may not have the power to control.
+  But that transformation might also be the only thing that can stop a sho
+ cking new threat to the city and those he loves - a powerful villain no o
+ ne can even see.
+DTEND;VALUE=DATE:20260730
+DTSTAMP:20260701T040026Z
+DTSTART;VALUE=DATE:20260729
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Spider-Man: Brand New Day (Theatrical Release)
+UID:Radarr_movie_2929_cinemas
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Edko Films
@@ -27,7 +43,7 @@ DESCRIPTION:After Wang Wei's daughter is kidnapped by a criminal network a
  uo ruthlessly battle the kidnappers in this explosive martial arts showdo
  wn.
 DTEND;VALUE=DATE:20260611
-DTSTAMP:20260630T040033Z
+DTSTAMP:20260701T040026Z
 DTSTART;VALUE=DATE:20260610
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -43,7 +59,7 @@ DESCRIPTION:After Wang Wei's daughter is kidnapped by a criminal network a
  uo ruthlessly battle the kidnappers in this explosive martial arts showdo
  wn.
 DTEND;VALUE=DATE:20260715
-DTSTAMP:20260630T040033Z
+DTSTAMP:20260701T040026Z
 DTSTART;VALUE=DATE:20260714
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -57,7 +73,7 @@ DESCRIPTION:Grappling with his past after a life of crime and murder\, Rob
  his last. In the hands of a mysterious woman\, he is offered a chance at 
  salvation.
 DTEND;VALUE=DATE:20260619
-DTSTAMP:20260630T040033Z
+DTSTAMP:20260701T040026Z
 DTSTART;VALUE=DATE:20260618
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -71,7 +87,7 @@ DESCRIPTION:Grappling with his past after a life of crime and murder\, Rob
  his last. In the hands of a mysterious woman\, he is offered a chance at 
  salvation.
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260630T040033Z
+DTSTAMP:20260701T040026Z
 DTSTART;VALUE=DATE:20260721
 SEQUENCE:0
 STATUS:CONFIRMED
