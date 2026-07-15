@@ -11,7 +11,7 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20260716
-DTSTAMP:20260714T040018Z
+DTSTAMP:20260715T040032Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -27,7 +27,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
 DTEND;VALUE=DATE:20260730
-DTSTAMP:20260714T040018Z
+DTSTAMP:20260715T040032Z
 DTSTART;VALUE=DATE:20260729
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -41,7 +41,7 @@ DESCRIPTION:Grappling with his past after a life of crime and murder\, Rob
  his last. In the hands of a mysterious woman\, he is offered a chance at 
  salvation.
 DTEND;VALUE=DATE:20260619
-DTSTAMP:20260714T040018Z
+DTSTAMP:20260715T040032Z
 DTSTART;VALUE=DATE:20260618
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -55,47 +55,11 @@ DESCRIPTION:Grappling with his past after a life of crime and murder\, Rob
  his last. In the hands of a mysterious woman\, he is offered a chance at 
  salvation.
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260714T040018Z
+DTSTAMP:20260715T040032Z
 DTSTART;VALUE=DATE:20260721
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:The Death of Robin Hood (Digital Release)
 UID:Radarr_movie_3007_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Atomic Monster
-DESCRIPTION:A strange doorway appears in the basement of a furniture showr
- oom.
-DTEND;VALUE=DATE:20260528
-DTSTAMP:20260714T040018Z
-DTSTART;VALUE=DATE:20260527
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Backrooms (Theatrical Release)
-UID:Radarr_movie_3022_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Atomic Monster
-DESCRIPTION:A strange doorway appears in the basement of a furniture showr
- oom.
-DTEND;VALUE=DATE:20260715
-DTSTAMP:20260714T040018Z
-DTSTART;VALUE=DATE:20260714
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Backrooms (Digital Release)
-UID:Radarr_movie_3022_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Atomic Monster
-DESCRIPTION:A strange doorway appears in the basement of a furniture showr
- oom.
-DTEND;VALUE=DATE:20261024
-DTSTAMP:20260714T040018Z
-DTSTART;VALUE=DATE:20261023
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Backrooms (Physical Release)
-UID:Radarr_movie_3022_physical
 END:VEVENT
 END:VCALENDAR
