@@ -11,10 +11,10 @@ DESCRIPTION:Odysseus\, the legendary King of Ithaca\, embarks on a long an
   trials that stretch both his cunning and his humanity to the breaking po
  int.
 DTEND;VALUE=DATE:20260716
-DTSTAMP:20260715T040032Z
+DTSTAMP:20260716T040034Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Odyssey (Theatrical Release)
 UID:Radarr_movie_2928_cinemas
 END:VEVENT
@@ -27,7 +27,7 @@ DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
  cking new threat to the city and those he loves - a powerful villain no o
  ne can even see.
 DTEND;VALUE=DATE:20260730
-DTSTAMP:20260715T040032Z
+DTSTAMP:20260716T040034Z
 DTSTART;VALUE=DATE:20260729
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -41,7 +41,7 @@ DESCRIPTION:Grappling with his past after a life of crime and murder\, Rob
  his last. In the hands of a mysterious woman\, he is offered a chance at 
  salvation.
 DTEND;VALUE=DATE:20260619
-DTSTAMP:20260715T040032Z
+DTSTAMP:20260716T040034Z
 DTSTART;VALUE=DATE:20260618
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -55,11 +55,41 @@ DESCRIPTION:Grappling with his past after a life of crime and murder\, Rob
  his last. In the hands of a mysterious woman\, he is offered a chance at 
  salvation.
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260715T040032Z
+DTSTAMP:20260716T040034Z
 DTSTART;VALUE=DATE:20260721
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:The Death of Robin Hood (Digital Release)
 UID:Radarr_movie_3007_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Forged Films
+DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
+ ef Bum-seok and officer Sung-ae are called to investigate a mysterious cr
+ eature wreaking havoc on the community. But all is not as it seems\, and 
+ perceptions can be misleading. What begins as ignorance plants the seed o
+ f disaster\, escalating through human conflict into a tragedy of cosmic p
+ roportions.
+DTEND;VALUE=DATE:20260716
+DTSTAMP:20260716T040034Z
+DTSTART;VALUE=DATE:20260715
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hope (Theatrical Release)
+UID:Radarr_movie_3047_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Warner Bros. Pictures
+DESCRIPTION:After a mysterious cosmic event rips Oak Street from suburbia 
+ and transports their neighborhood to someplace unknown\, the Platt family
+  soon discovers that their very survival depends on them sticking togethe
+ r as they navigate their now unrecognizable surroundings.
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260716T040034Z
+DTSTART;VALUE=DATE:20260812
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The End of Oak Street (Theatrical Release)
+UID:Radarr_movie_3049_cinemas
 END:VEVENT
 END:VCALENDAR
