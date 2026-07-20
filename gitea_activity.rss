@@ -7,6 +7,30 @@
     <atom:link href="https://blacklungindustries.ddns.net/gitea/api/v1/users/mattyj513/activities/feeds" rel="self" type="application/rss+xml" />
     
     <item>
+        <title>mattflix-data</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data</link>
+        <description>daily update</description>
+        <pubDate>Sun, 19 Jul 2026 07:05:19 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data-1910</guid>
+    </item>
+    
+    <item>
+        <title>mattflix-public</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public</link>
+        <description>daily update</description>
+        <pubDate>Sun, 19 Jul 2026 04:05:25 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public-1909</guid>
+    </item>
+    
+    <item>
+        <title>.profile</title>
+        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/.profile</link>
+        <description>daily profile update</description>
+        <pubDate>Sun, 19 Jul 2026 04:00:36 +0000</pubDate>
+        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/.profile-1908</guid>
+    </item>
+    
+    <item>
         <title>mattflix-public</title>
         <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public</link>
         <description>daily update</description>
@@ -220,30 +244,6 @@
         <description>updated history</description>
         <pubDate>Sat, 20 Jun 2026 04:00:16 +0000</pubDate>
         <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/bash-hx-1881</guid>
-    </item>
-    
-    <item>
-        <title>webdav</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/webdav</link>
-        <description>update notes</description>
-        <pubDate>Sat, 20 Jun 2026 04:00:15 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/webdav-1880</guid>
-    </item>
-    
-    <item>
-        <title>icons</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/icons</link>
-        <description>update</description>
-        <pubDate>Sat, 20 Jun 2026 02:51:27 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/icons-1879</guid>
-    </item>
-    
-    <item>
-        <title>mattflix-data</title>
-        <link>https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data</link>
-        <description>daily update</description>
-        <pubDate>Fri, 19 Jun 2026 08:05:58 +0000</pubDate>
-        <guid isPermaLink="false">https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-data-1878</guid>
     </item>
     
 </channel>
