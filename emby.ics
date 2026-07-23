@@ -2,216 +2,211 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Tom Sawyer\, broh.
-DTSTART:20260726T040000Z
-SUMMARY:Rick and Morty - Field of Dreams
-UID:0e2dcb1f-7d2c-4412-96e2-fd0d7ba6b12e@0e2d.org
+DTSTART:20260805T040000Z
+SUMMARY:Alone - Episode 8
+UID:571db6d8-e033-4568-af31-7832bf1abb44@571d.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260807T040000Z
-SUMMARY:Sugar (2024) - Like Sugar
-UID:fefb1563-96b1-4823-b82c-60dfa8a0cf99@fefb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260722T040000Z
-SUMMARY:The Undeclared War - Episode 2
-UID:d0d06be6-a1ac-4e5d-b8c9-9c00e46e9a7f@d0d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261125T050000Z
+DTSTART:20261028T040000Z
 SUMMARY:South Park - TBA
-UID:58a3ecfe-c4a0-40cd-bfff-66fc84f0c8d9@58a3.org
+UID:0bc913f0-edbe-4696-a47f-3baef7e2aea9@0bc9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260916T040000Z
+SUMMARY:Slow Horses - TBA
+UID:ef596699-4611-4744-86c3-710b9d1f4681@ef59.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T050000Z
+SUMMARY:The Chosen - TBA
+UID:a715fb49-bf12-46aa-8b89-c7db4602a85b@a715.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260729T040000Z
 SUMMARY:The Undeclared War - Episode 4
-UID:edc3f92e-6b67-4b14-8a19-ca12cde215cb@edc3.org
+UID:5bff7c6a-c4c9-434b-92d6-e4469443eb89@5bff.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260819T040000Z
-SUMMARY:Alone - Episode 10
-UID:da2738b4-2d8c-4a57-b737-7958cf9fc524@da27.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261111T050000Z
-SUMMARY:The Lord of the Rings: The Rings of Power - TBA
-UID:7874e6b6-8fdf-45fc-b404-82e06c2dc2d1@7874.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260809T040000Z
-SUMMARY:House of the Dragon - TBA
-UID:c370fec5-9e09-44e8-b1bf-9f065046d97a@c370.org
+DTSTART:20260731T040000Z
+SUMMARY:Sugar (2024) - What Else Can You Do?
+UID:17c482bf-4430-44b2-85bb-3e647aeaab15@17c4.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260804T040000Z
 SUMMARY:The Undeclared War - Episode 5
-UID:b2aa1f50-a1a4-4ad4-8afc-31a4539b80d2@b2aa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260812T040000Z
-SUMMARY:Alone - Episode 9
-UID:212a0f6a-86a2-4b6f-9649-32edd95c7ad9@212a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260814T040000Z
-SUMMARY:Tires - TBA
-UID:f68a4267-ad5a-48ff-9536-109c808a0533@f68a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260916T040000Z
-SUMMARY:South Park - TBA
-UID:56290ee3-b750-4356-a5ea-b7edccbe88eb@5629.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261115T050000Z
-SUMMARY:The Chosen - TBA
-UID:b865d27e-f598-47ab-a997-bf77e580cf03@b865.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261014T040000Z
-SUMMARY:South Park - TBA 
-UID:f1efdf44-592e-41c0-a15d-cee39419ca1f@f1ef.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261111T050000Z
-SUMMARY:South Park - TBA
-UID:4ac7bc40-b0b3-4d91-a26e-9102fa0a2a78@4ac7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260728T040000Z
-SUMMARY:The Undeclared War - Episode 3
-UID:386510ba-1c1b-4fd3-902b-2c10c757cf4c@3865.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:When Snoopy’s beloved doghouse is accidentally sold at a yard sale\, he’s devastated. After all\, that’s where his imagination first took flight and where he keeps all his favorite things.
-DTSTART:20260731T040000Z
-SUMMARY:The Snoopy Show - Snoopy Presents: There’s No Place Like Home\, Snoopy
-UID:4d169e8d-c3e4-48e6-beb5-8856a8571093@4d16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A defective lamp reveals a heartbreaking truth about what Homer believes is reality\, and an AI-powered tablet befriends and controls Maggie. The Simpsons struggle to find the light through two dark tales of the curious and bizarre.
-DTSTART:20260726T040000Z
-SUMMARY:The Simpsons - Yellow Mirror
-UID:72b1cae2-955f-49ee-bc6c-b61f16b0baf5@72b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261007T040000Z
-SUMMARY:Slow Horses - TBA
-UID:139a945e-f47b-4007-8396-cd0e3853dbeb@139a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260805T040000Z
-SUMMARY:The Undeclared War - Episode 6
-UID:45433886-915b-457e-b2c2-a36411afcca0@4543.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260916T040000Z
-SUMMARY:Slow Horses - TBA
-UID:9cc381bf-d194-4004-a1bc-797e7c8088d9@9cc3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261115T050000Z
-SUMMARY:The Chosen - TBA
-UID:92502713-9d08-4dc8-a59d-829047ef2217@9250.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260805T040000Z
-SUMMARY:Alone - Episode 8
-UID:56fd7812-172a-42ae-9dad-7e5cc4dc2395@56fd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261129T050000Z
-SUMMARY:The Chosen - TBA
-UID:2eca7063-ea69-435f-874f-6b67c96d5e8a@2eca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:With survival hinging on preparation\, the remaining participants scramble to secure the essentials\; key food wins offer a glimmer of hope\, but mounting fatigue and a looming medical check threaten to unravel hard-earned progress.
-DTSTART:20260722T040000Z
-SUMMARY:Alone - Balancing Act
-UID:4ecfefcd-b4f6-40fa-b67c-5de7e0528963@4ecf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260721T040000Z
-SUMMARY:The Undeclared War - Episode 1
-UID:4389b9cf-2125-438e-8ad5-37457c76fab4@4389.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260726T040000Z
-SUMMARY:House of the Dragon - TBA
-UID:7cbcdcf1-4ba0-4521-97a2-12573b27bec0@7cbc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261115T050000Z
-SUMMARY:The Chosen - TBA
-UID:b8fbd43f-9cb4-4253-a2d3-713a10abf4f2@b8fb.org
+UID:0f348f2c-894b-4068-b2e7-2bd41cda2cf1@0f34.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:With the cold settling in\, the remaining participants battle injury\, hunger\, and the slow creep of isolation. One risky move on the water could mean the difference between resilience and rescue.
 DTSTART:20260722T040000Z
 SUMMARY:Alone Australia - Episode 3
-UID:cfef94b0-cc42-49a4-aa97-3795f39a078d@cfef.org
+UID:9354f0ab-35dc-4fc0-b89f-b225d751581c@9354.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260802T040000Z
-SUMMARY:House of the Dragon - TBA
-UID:fc8a2e8e-a8e9-4f19-9842-5f799da7547b@fc8a.org
+DTSTART:20260916T040000Z
+SUMMARY:South Park - TBA
+UID:db4f9d69-176f-4619-9989-f9b6e892b61d@db4f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dangerous wildlife encounters push the participants to their limits as one faces a run-in with a moose and another is stalked by a bear. The unforgiving environment continues to test both body and mind in unexpected ways.
-DTSTART:20260729T040000Z
-SUMMARY:Alone - Natural Order
-UID:7a0c788f-b471-4cc9-89a2-1b62680eae7b@7a0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sugar wrestles with his fear of contamination. Vega forces Sugar to make an impossible choice.
-DTSTART:20260724T040000Z
-SUMMARY:Sugar (2024) - Cautionary Tale
-UID:e3cf1dc5-1ade-466f-93a8-ea84286f7a4f@e3cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261206T050000Z
-SUMMARY:The Chosen - TBA
-UID:d7ccea16-6228-4413-ba14-02f65ae33c19@d7cc.org
+DTSTART:20261014T040000Z
+SUMMARY:South Park - TBA 
+UID:0811cb2d-66ce-47dd-b1aa-70baad65e642@0811.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T040000Z
 SUMMARY:Slow Horses - TBA
-UID:1ac4571b-4d49-4c0f-82c6-facfd411d018@1ac4.org
+UID:d27931cc-00c5-46c5-b29c-490db00a8938@d279.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261021T040000Z
-SUMMARY:Slow Horses - TBA
-UID:03019688-d3bd-454d-91f1-9005d6b12e81@0301.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260930T040000Z
-SUMMARY:South Park - TBA
-UID:e8fe63e6-9700-4d32-a1d3-472073815722@e8fe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260930T040000Z
-SUMMARY:Slow Horses - TBA
-UID:873a51e5-5f36-42ed-bd1a-7bee7084a515@873a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260731T040000Z
-SUMMARY:Sugar (2024) - What Else Can You Do?
-UID:d95293bb-55d2-4da4-99d1-bcba056e642c@d952.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261028T040000Z
-SUMMARY:South Park - TBA
-UID:b400c3c9-16cc-4789-8dac-34e31ad0c2b3@b400.org
+DESCRIPTION:Tom Sawyer\, broh.
+DTSTART:20260726T040000Z
+SUMMARY:Rick and Morty - Field of Dreams
+UID:5f9b0c63-a3d4-4534-a97a-aac2e1bd819e@5f9b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: 
 DTSTART:20260923T040000Z
 SUMMARY:Slow Horses - TBA
-UID:af2009fc-560a-461b-907c-ae265c399eee@af20.org
+UID:6d9ede65-f191-4fc9-8381-570bbafdc00a@6d9e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260809T040000Z
+SUMMARY:House of the Dragon - TBA
+UID:bb4c0175-5454-48ed-af05-c9c48d80f8cb@bb4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260805T040000Z
+SUMMARY:The Undeclared War - Episode 6
+UID:ac9eb798-21be-46e4-a9d6-8eaf3a92dea2@ac9e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T040000Z
+SUMMARY:Slow Horses - TBA
+UID:d38d451d-c6ba-4c72-a640-8522e33c0bf8@d38d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T050000Z
+SUMMARY:The Lord of the Rings: The Rings of Power - TBA
+UID:f2fc68a8-22c5-4c1a-a0a8-fbac98cc73c6@f2fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260812T040000Z
+SUMMARY:Alone - Episode 9
+UID:a100b486-0098-4a65-ad6b-6427a968a797@a100.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T040000Z
+SUMMARY:Slow Horses - TBA
+UID:7f711e0d-c650-49aa-9c8d-67c27a7c08ab@7f71.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T050000Z
+SUMMARY:South Park - TBA
+UID:cc7124c9-72b0-4e5d-8a2e-68b48f5d004f@cc71.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T050000Z
 SUMMARY:The Chosen - TBA
-UID:8fabb63d-0ee9-4f13-a9f5-12957930c767@8fab.org
+UID:ef636451-29bf-4233-9915-50efc87a83f9@ef63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261007T040000Z
+SUMMARY:Slow Horses - TBA
+UID:ab739a05-ec58-434f-b6fa-ee9f1418f312@ab73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dangerous wildlife encounters push the participants to their limits as one faces a run-in with a moose and another is stalked by a bear. The unforgiving environment continues to test both body and mind in unexpected ways.
+DTSTART:20260729T040000Z
+SUMMARY:Alone - Natural Order
+UID:01add4ef-42f7-42cc-ac74-3eb8f7f63feb@01ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260726T040000Z
+SUMMARY:House of the Dragon - TBA
+UID:685e8a19-2195-4e43-9c50-8e038f023d9a@685e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sugar wrestles with his fear of contamination. Vega forces Sugar to make an impossible choice.
+DTSTART:20260724T040000Z
+SUMMARY:Sugar (2024) - Cautionary Tale
+UID:eaaf361b-941e-4a3e-bdb0-56fdd7051e75@eaaf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T040000Z
+SUMMARY:South Park - TBA
+UID:1eee7a97-3a6c-49c3-8e6f-406d95639aa9@1eee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T050000Z
+SUMMARY:The Chosen - TBA
+UID:c12994fe-2485-4a07-a290-9415035983b1@c129.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A defective lamp reveals a heartbreaking truth about what Homer believes is reality\, and an AI-powered tablet befriends and controls Maggie. The Simpsons struggle to find the light through two dark tales of the curious and bizarre.
+DTSTART:20260726T040000Z
+SUMMARY:The Simpsons - Yellow Mirror
+UID:76441bc8-1a7a-433f-846b-383e6b9a8951@7644.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T050000Z
+SUMMARY:South Park - TBA
+UID:015cf3f2-6efd-4c9e-90fa-3e3c4ee695eb@015c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260802T040000Z
+SUMMARY:House of the Dragon - TBA
+UID:0604547d-9f4b-48e2-984b-38f49b98a602@0604.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261129T050000Z
+SUMMARY:The Chosen - TBA
+UID:2ea5c942-85d5-4678-a2ed-e831c32b692e@2ea5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:With survival hinging on preparation\, the remaining participants scramble to secure the essentials\; key food wins offer a glimmer of hope\, but mounting fatigue and a looming medical check threaten to unravel hard-earned progress.
+DTSTART:20260722T040000Z
+SUMMARY:Alone - Balancing Act
+UID:a15e0cd4-a14d-44f1-95b6-554e79bca8d3@a15e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T050000Z
+SUMMARY:The Chosen - TBA
+UID:1f12f48a-1e5e-4fc9-b242-541aeaf9305f@1f12.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T050000Z
+SUMMARY:The Chosen - TBA
+UID:fd81fbdd-83c8-461b-b4cc-edfc59c9f121@fd81.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260722T040000Z
+SUMMARY:The Undeclared War - Episode 2
+UID:7e8d41f5-9fde-404f-b629-0f5cc67df81a@7e8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:When Snoopy’s beloved doghouse is accidentally sold at a yard sale\, he’s devastated. After all\, that’s where his imagination first took flight and where he keeps all his favorite things.
+DTSTART:20260731T040000Z
+SUMMARY:The Snoopy Show - Snoopy Presents: There’s No Place Like Home\, Snoopy
+UID:2ad318a7-5dbd-45fb-8279-21c6e35ab3a6@2ad3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260819T040000Z
+SUMMARY:Alone - Episode 10
+UID:86717284-a5d4-4c21-a30b-7bd9197eed59@8671.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260807T040000Z
+SUMMARY:Sugar (2024) - Like Sugar
+UID:50110f94-8cf5-483c-856a-3db3e505843d@5011.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260728T040000Z
+SUMMARY:The Undeclared War - Episode 3
+UID:79da80fc-3e28-4d5c-9e3d-26f70852601f@79da.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260814T040000Z
+SUMMARY:Tires - TBA
+UID:55c80037-d4af-41f4-a097-d2dd4e6040f1@55c8.org
 END:VEVENT
 END:VCALENDAR

@@ -1,4 +1,36 @@
-{
-  "message": "disk I/O error\ndisk I/O error",
-  "description": "code = IoErr (10), message = System.Data.SQLite.SQLiteException (0x800007FF): disk I/O error\ndisk I/O error\n   at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String\u0026 strRemain)\n   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()\n   at System.Data.SQLite.SQLiteDataReader.NextResult()\n   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)\n   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)\n   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)\n   at System.Data.SQLite.SQLiteConnection.Open()\n   at NzbDrone.Core.Datastore.DbFactory.\u003C\u003Ec__DisplayClass9_0.\u003CCreate\u003Eb__0() in ./Radarr.Core/Datastore/DbFactory.cs:line 105\n   at NzbDrone.Core.Datastore.SqlMapperExtensions.Query[TFirst,TSecond,TThird,TFourth,TReturn](IDatabase db, String sql, Func\u00605 map, Object param, IDbTransaction transaction, Boolean buffered, String splitOn, Nullable\u00601 commandTimeout, Nullable\u00601 commandType) in ./Radarr.Core/Datastore/Extensions/SqlMapperExtensions.cs:line 107\n   at NzbDrone.Core.Datastore.SqlMapperExtensions.QueryJoined[T,T2,T3,T4](IDatabase db, SqlBuilder builder, Func\u00605 mapper) in ./Radarr.Core/Datastore/Extensions/SqlMapperExtensions.cs:line 172\n   at NzbDrone.Core.Movies.MovieRepository.Query(SqlBuilder builder) in ./Radarr.Core/Movies/MovieRepository.cs:line 91\n   at NzbDrone.Core.Movies.MovieRepository.MoviesBetweenDates(DateTime start, DateTime end, Boolean includeUnmonitored) in ./Radarr.Core/Movies/MovieRepository.cs:line 248\n   at NzbDrone.Core.Movies.MovieService.GetMoviesBetweenDates(DateTime start, DateTime end, Boolean includeUnmonitored) in ./Radarr.Core/Movies/MovieService.cs:line 349\n   at Radarr.Api.V3.Calendar.CalendarFeedController.GetCalendarFeed(Int32 pastDays, Int32 futureDays, String tags, Boolean unmonitored) in ./Radarr.Api.V3/Calendar/CalendarFeedController.cs:line 40\n   at lambda_method361(Closure , Object , Object[] )\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State\u0026 next, Scope\u0026 scope, Object\u0026 state, Boolean\u0026 isCompleted)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()\n--- End of stack trace from previous location ---\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State\u0026 next, Scope\u0026 scope, Object\u0026 state, Boolean\u0026 isCompleted)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()\n--- End of stack trace from previous location ---\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeFilterPipelineAsync\u003Eg__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeAsync\u003Eg__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)\n   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeAsync\u003Eg__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)\n   at Microsoft.AspNetCore.Routing.EndpointMiddleware.\u003CInvoke\u003Eg__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)\n   at Radarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Radarr.Http/Middleware/BufferingMiddleware.cs:line 28\n   at Radarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Radarr.Http/Middleware/IfModifiedMiddleware.cs:line 41\n   at Radarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Radarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33\n   at Radarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Radarr.Http/Middleware/StartingUpMiddleware.cs:line 38\n   at Radarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Radarr.Http/Middleware/UrlBaseMiddleware.cs:line 27\n   at Radarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Radarr.Http/Middleware/VersionMiddleware.cs:line 29\n   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)\n   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)\n   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)\n   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.\u003CInvoke\u003Eg__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)"
-}
+BEGIN:VCALENDAR
+NAME:Radarr Movies Calendar
+PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+X-WR-CALNAME:Radarr Movies Calendar
+BEGIN:VEVENT
+CATEGORIES:Marvel Studios
+DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
+  remember him—and the pressure of seeing his old friends move on without 
+ him—sparks a change in Peter Parker he may not have the power to control.
+  But that transformation might also be the only thing that can stop a sho
+ cking new threat to the city and those he loves - a powerful villain no o
+ ne can even see.
+DTEND;VALUE=DATE:20260729
+DTSTAMP:20260723T040023Z
+DTSTART;VALUE=DATE:20260728
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Spider-Man: Brand New Day (Theatrical Release)
+UID:Radarr_movie_2929_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Warner Bros. Pictures
+DESCRIPTION:After a mysterious cosmic event rips Oak Street from suburbia 
+ and transports their neighborhood to someplace unknown\, the Platt family
+  soon discovers that their very survival depends on them sticking togethe
+ r as they navigate their now unrecognizable surroundings.
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260723T040024Z
+DTSTART;VALUE=DATE:20260812
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The End of Oak Street (Theatrical Release)
+UID:Radarr_movie_3049_cinemas
+END:VEVENT
+END:VCALENDAR
