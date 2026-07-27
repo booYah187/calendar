@@ -2,228 +2,228 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART:20260805T040000Z
-SUMMARY:Alone - Episode 8
-UID:54e066c1-08f8-4ca2-87ce-e5461b35f6a3@54e0.org
+DESCRIPTION:When Snoopy’s beloved doghouse is accidentally sold at a yard sale\, he’s devastated. After all\, that’s where his imagination first took flight and where he keeps all his favorite things.
+DTSTART:20260731T040000Z
+SUMMARY:The Snoopy Show - Snoopy Presents: There’s No Place Like Home\, Snoopy
+UID:dc9bd78d-90d9-4647-a39d-3971f7758b02@dc9b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:With every other option spent\, Sugar plays one last card. Charlotte opens up to Sugar.
 DTSTART:20260731T040000Z
 SUMMARY:Sugar (2024) - What Else Can You Do?
-UID:b859a3ca-b557-48a7-8165-420fedf183c3@b859.org
+UID:d2c5677b-1869-4b9b-83ba-d817b13c1e97@d2c5.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260809T040000Z
-SUMMARY:House of the Dragon - TBA
-UID:90b7d93c-f054-4c17-9850-027593643856@90b7.org
+DTSTART:20260916T040000Z
+SUMMARY:Slow Horses - TBA
+UID:6c170f33-a846-4e3a-b16f-d9a27668487b@6c17.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260814T040000Z
-SUMMARY:Tires - TBA
-UID:cafb3053-a3eb-4d23-96c9-40d9518469a8@cafb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:When Barbara's charming ex-boyfriend\, Nicky Chan\, re-appears in her life\, she must make an impossible decision.
-DTSTART:20260728T040000Z
-SUMMARY:The Undeclared War - Episode 3
-UID:95907c1c-04b6-4d95-99e2-d2e01fab98df@9590.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Barbara comes under Charlie’s scrutiny as tragedy strikes GCHQ. Danny\, Saara and Roz attempt to help Vadim escape. And Danny makes an earth-shattering discovery.
-DTSTART:20260804T040000Z
-SUMMARY:The Undeclared War - Episode 5
-UID:134a98dd-27b1-4530-b202-72c606676fd7@134a.org
+DTSTART:20261028T040000Z
+SUMMARY:South Park - TBA
+UID:66d0f713-c10d-4d0c-8ed2-7815fdeff067@66d0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260805T040000Z
-SUMMARY:Alone Australia - Episode 5
-UID:cef1723f-510e-4f2e-8d18-2e0697e3ae0e@cef1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260930T040000Z
-SUMMARY:Slow Horses - TBA
-UID:a9f932ae-0543-46ab-af87-89799b8ef14f@a9f9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261129T050000Z
-SUMMARY:The Chosen - TBA
-UID:a2844577-1cb4-4cb6-af68-ea46edfa0ee1@a284.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:While Danny becomes increasingly concerned about Barbara’s erratic behaviour\, malware causes havoc across British government departments\, forcing Danny and Roz to work together
-DTSTART:20260729T040000Z
-SUMMARY:The Undeclared War - Episode 4
-UID:b312f0ed-f859-479c-8c78-86df29472db4@b312.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260807T040000Z
-SUMMARY:Sugar (2024) - Like Sugar
-UID:3d213831-b431-46e7-bf41-c5904c247a2c@3d21.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261122T050000Z
-SUMMARY:The Chosen - TBA
-UID:b1812dd9-06bb-40b2-99b4-dfa255133994@b181.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261111T050000Z
-SUMMARY:The Lord of the Rings: The Rings of Power - TBA
-UID:c7ac52a7-44f9-498e-b6e1-b9fb9941ec26@c7ac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261125T050000Z
-SUMMARY:South Park - TBA
-UID:ce514349-ec76-48fa-af94-2b22b2ba11ee@ce51.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261115T050000Z
-SUMMARY:The Chosen - TBA
-UID:3ac432f3-29ae-4edd-9e89-1ada606ed45d@3ac4.org
+SUMMARY:Alone - Episode 8
+UID:200d219a-97c2-401d-87d5-ffaf7eb49c9d@200d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: 
 DTSTART:20260923T040000Z
 SUMMARY:Slow Horses - TBA
-UID:ab8ac85f-b7b9-4b1a-9458-f255abb35c86@ab8a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260902T040000Z
-SUMMARY:Alone Australia - Episode 9
-UID:c1a13fa4-0129-4954-acae-851c89b86d05@c1a1.org
+UID:e3303bb9-19b6-4ea2-89ed-173ff2282b0f@e330.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T050000Z
-SUMMARY:South Park - TBA
-UID:b8296b0f-6d33-4952-92f5-7775cecb19a5@b829.org
+SUMMARY:The Lord of the Rings: The Rings of Power - TBA
+UID:f8dae410-a0ac-4cf1-9f17-79f6b2e2295c@f8da.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:A defective lamp reveals a heartbreaking truth about what Homer believes is reality\, and an AI-powered tablet befriends and controls Maggie. The Simpsons struggle to find the light through two dark tales of the curious and bizarre.
-DTSTART:20260726T040000Z
-SUMMARY:The Simpsons - Yellow Mirror
-UID:278ee05e-d924-476c-b838-ed6d084fe68d@278e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260916T040000Z
+DTSTART:20261007T040000Z
 SUMMARY:Slow Horses - TBA
-UID:673b6a99-bdce-4d4f-9d5b-0fa50e3b8e3d@673b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260916T040000Z
-SUMMARY:South Park - TBA
-UID:074db4fc-8b45-4052-adcc-77583f1c984f@074d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260819T040000Z
-SUMMARY:Alone - Episode 10
-UID:f729b65e-a1ea-4f16-828c-86f54129e14c@f729.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261115T050000Z
-SUMMARY:The Chosen - TBA
-UID:a9600701-acf3-4ccb-b9a4-74bd7b45fa06@a960.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261014T040000Z
-SUMMARY:Slow Horses - TBA
-UID:3395c429-dc89-48b5-9621-8852693f41a3@3395.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260930T040000Z
-SUMMARY:South Park - TBA
-UID:ad839375-24f2-44e7-a455-fdb8f9ce8788@ad83.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260819T040000Z
-SUMMARY:Alone Australia - Episode 7
-UID:2c10c8d2-9c42-43ff-aaee-33b59f0bdbeb@2c10.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261115T050000Z
-SUMMARY:The Chosen - TBA
-UID:1c6c0fdb-059d-403a-864e-8c28c33a234d@1c6c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261021T040000Z
-SUMMARY:Slow Horses - TBA
-UID:53673e34-8b15-48d8-8ab2-a5a497c2fb11@5367.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260729T040000Z
-SUMMARY:Alone Australia - Episode 4
-UID:cc0692db-3105-431f-9afc-431e8c8799bd@cc06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tom Sawyer\, broh.
-DTSTART:20260726T040000Z
-SUMMARY:Rick and Morty - Field of Dreams
-UID:7d7dbb48-6a2f-4533-a971-12809dbca46e@7d7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:When Snoopy’s beloved doghouse is accidentally sold at a yard sale\, he’s devastated. After all\, that’s where his imagination first took flight and where he keeps all his favorite things.
-DTSTART:20260731T040000Z
-SUMMARY:The Snoopy Show - Snoopy Presents: There’s No Place Like Home\, Snoopy
-UID:ae5bb7fb-bd31-4919-a02f-231068cc44aa@ae5b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260726T040000Z
-SUMMARY:House of the Dragon - TBA
-UID:44399e37-7d8c-4950-8edc-7baa71fc4615@4439.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Danny puts everything on the line in order to right some wrongs. Meanwhile\, Roz and the team must race against the clock to find out what the malware is searching for.
-DTSTART:20260805T040000Z
-SUMMARY:The Undeclared War - Episode 6
-UID:821c8c93-37d9-4a94-aa20-d09590ce9008@821c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260909T040000Z
-SUMMARY:Alone Australia - Episode 10
-UID:a5701e83-adc3-4f6f-b4b9-103f75d81e92@a570.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261014T040000Z
-SUMMARY:South Park - TBA 
-UID:4d845868-162c-4746-ba25-52bf548ab858@4d84.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261028T040000Z
-SUMMARY:South Park - TBA
-UID:645eb761-90f5-4fbe-9c49-6d8ca065c194@645e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260812T040000Z
-SUMMARY:Alone - Episode 9
-UID:de34967a-8f0f-4558-87ec-c463513ecd37@de34.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260802T040000Z
-SUMMARY:House of the Dragon - TBA
-UID:14ca24a2-261f-4114-8b11-09166ee16eca@14ca.org
+UID:8c72d3e8-01ed-46ed-a873-f3ebb6e761e0@8c72.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261206T050000Z
 SUMMARY:The Chosen - TBA
-UID:6f5bb149-97fd-4e03-8786-fc8c610b1f81@6f5b.org
+UID:9897a50f-8cc0-461e-9cd5-635c3c7793e1@9897.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260812T040000Z
-SUMMARY:Alone Australia - Episode 6
-UID:54c2c597-527b-4d13-b946-6f1855a8e731@54c2.org
+DTSTART:20261122T050000Z
+SUMMARY:The Chosen - TBA
+UID:50100fb8-0984-4ae7-aa5d-b9dde1bb3e23@5010.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T040000Z
+SUMMARY:Slow Horses - TBA
+UID:6195e520-ba22-4944-9ed1-603faacea41a@6195.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260909T040000Z
+SUMMARY:Alone Australia - Episode 10
+UID:e7faff8e-5205-4ae0-aa53-199f70d4e82a@e7fa.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260826T040000Z
 SUMMARY:Alone Australia - Episode 8
-UID:de4e69e0-0dd5-48b0-8d0d-69c963f5117d@de4e.org
+UID:b2fcd378-17b9-4587-b4a7-f821ae68a6e0@b2fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260807T040000Z
+SUMMARY:Sugar (2024) - Like Sugar
+UID:e6e50787-dea8-4a2a-91d6-e6abc68a3f4c@e6e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260819T040000Z
+SUMMARY:Alone - Episode 10
+UID:6ecd0c83-d549-4cc4-bf9d-90cb4cf34f2e@6ecd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Barbara comes under Charlie’s scrutiny as tragedy strikes GCHQ. Danny\, Saara and Roz attempt to help Vadim escape. And Danny makes an earth-shattering discovery.
+DTSTART:20260804T040000Z
+SUMMARY:The Undeclared War - Episode 5
+UID:b97aea1b-41ad-4917-a3b0-fc531e69a19d@b97a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T040000Z
+SUMMARY:Slow Horses - TBA
+UID:3ee1a22a-812e-4aad-a11d-23edc8cc90ab@3ee1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T050000Z
+SUMMARY:The Chosen - TBA
+UID:0528edab-c24a-44af-8ccd-230b385044a4@0528.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T040000Z
+SUMMARY:Slow Horses - TBA
+UID:dc84e5f6-7e5f-4038-b0ed-b9af9378caf3@dc84.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260802T040000Z
+SUMMARY:House of the Dragon - TBA
+UID:7c762725-086a-41cb-8054-c619f0b14006@7c76.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T050000Z
+SUMMARY:The Chosen - TBA
+UID:91175196-7fe1-4dc9-98ab-2db1c301324b@9117.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T050000Z
+SUMMARY:South Park - TBA
+UID:d0caf38e-2fc9-40cd-b6c5-113809038bcc@d0ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260729T040000Z
+SUMMARY:Alone Australia - Episode 4
+UID:31acdd6f-8d32-4141-a010-5d2a2c4405e7@31ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260812T040000Z
+SUMMARY:Alone Australia - Episode 6
+UID:54dbd25e-95e8-4864-be7f-b985e2533169@54db.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T050000Z
+SUMMARY:The Chosen - TBA
+UID:2d17982f-4edc-4073-89f4-1039dca5ca75@2d17.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T040000Z
+SUMMARY:South Park - TBA 
+UID:b97d2082-be9f-408f-ba7a-fb06515650cb@b97d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:When Barbara's charming ex-boyfriend\, Nicky Chan\, re-appears in her life\, she must make an impossible decision.
+DTSTART:20260728T040000Z
+SUMMARY:The Undeclared War - Episode 3
+UID:39180ea7-c060-4f6b-89c5-5161d54d7552@3918.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260902T040000Z
+SUMMARY:Alone Australia - Episode 9
+UID:1b3a1099-0aff-4043-863a-e5fd533e53c4@1b3a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Dangerous wildlife encounters push the participants to their limits as one faces a run-in with a moose and another is stalked by a bear. The unforgiving environment continues to test both body and mind in unexpected ways.
 DTSTART:20260729T040000Z
 SUMMARY:Alone - Natural Order
-UID:40f2d400-8e4e-4c8a-8f94-7000f64c5a0c@40f2.org
+UID:c8f5c437-2e77-4a4f-8be2-f5934c792798@c8f5.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261007T040000Z
-SUMMARY:Slow Horses - TBA
-UID:e55afc79-3d6c-4360-baa4-b7e6073d67d3@e55a.org
+DTSTART:20260819T040000Z
+SUMMARY:Alone Australia - Episode 7
+UID:68b3b2f0-3ba8-4d20-88f9-b189e2fde181@68b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T050000Z
+SUMMARY:South Park - TBA
+UID:8656be6c-9dab-442a-8ab3-41536d7ffefc@8656.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260916T040000Z
+SUMMARY:South Park - TBA
+UID:7831e528-bc23-4264-972f-58b3f3ba1f08@7831.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A defective lamp reveals a heartbreaking truth about what Homer believes is reality\, and an AI-powered tablet befriends and controls Maggie. The Simpsons struggle to find the light through two dark tales of the curious and bizarre.
+DTSTART:20260726T040000Z
+SUMMARY:The Simpsons - Yellow Mirror
+UID:fb7a01dd-d314-4409-9b7e-ac3e1d179951@fb7a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T040000Z
+SUMMARY:South Park - TBA
+UID:20f3153b-9e48-4967-befe-c732ad14efec@20f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260805T040000Z
+SUMMARY:Alone Australia - Episode 5
+UID:2b3bd380-a173-4b19-b4e5-6760ddd736b4@2b3b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260814T040000Z
+SUMMARY:Tires - TBA
+UID:feb4c122-c8af-4460-9276-029e1a590326@feb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Danny puts everything on the line in order to right some wrongs. Meanwhile\, Roz and the team must race against the clock to find out what the malware is searching for.
+DTSTART:20260805T040000Z
+SUMMARY:The Undeclared War - Episode 6
+UID:a26550f0-11ad-44c5-bfd3-344ab7b41f11@a265.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:While Danny becomes increasingly concerned about Barbara’s erratic behaviour\, malware causes havoc across British government departments\, forcing Danny and Roz to work together
+DTSTART:20260729T040000Z
+SUMMARY:The Undeclared War - Episode 4
+UID:60236c38-c09a-4434-a610-767398eabaf6@6023.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261129T050000Z
+SUMMARY:The Chosen - TBA
+UID:e3544ebb-d0e8-4c80-9930-142cde5aab88@e354.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260809T040000Z
+SUMMARY:House of the Dragon - TBA
+UID:538855a7-1e8d-4700-a4f5-952671938bed@5388.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tom Sawyer\, broh.
+DTSTART:20260726T040000Z
+SUMMARY:Rick and Morty - Field of Dreams
+UID:bf4cdc97-8a1c-49b9-bb98-1005fee15593@bf4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260812T040000Z
+SUMMARY:Alone - Episode 9
+UID:93feb3f6-88e1-4a8e-9be7-c0016d3469d7@93fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260726T040000Z
+SUMMARY:House of the Dragon - TBA
+UID:5985b86d-c0ba-4758-8c16-7aa4b041a52d@5985.org
 END:VEVENT
 END:VCALENDAR
