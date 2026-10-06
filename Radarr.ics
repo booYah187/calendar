@@ -13,7 +13,7 @@ DESCRIPTION:Harry Lehman is an aging pickpocket who plies his trade with e
  ds himself in a race against time to return the loot or face the rage of 
  a vengeful crime family.
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261005T040437Z
+DTSTAMP:20261006T040438Z
 DTSTART;VALUE=DATE:20261030
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -28,60 +28,12 @@ DESCRIPTION:Following the death of his father\, Jay Gardiner goes diving o
  one hour of oxygen left\, Jay comes to realize that the hard-earned lesso
  ns his father imparted may be the key to his escape.
 DTEND;VALUE=DATE:20261015
-DTSTAMP:20261005T040437Z
+DTSTAMP:20261006T040438Z
 DTSTART;VALUE=DATE:20261014
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Whalefall (Theatrical Release)
 UID:Radarr_movie_2915_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Marvel Studios
-DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
-  remember him—and the pressure of seeing his old friends move on without 
- him—sparks a change in Peter Parker he may not have the power to control.
-  But that transformation might also be the only thing that can stop a sho
- cking new threat to the city and those he loves - a powerful villain no o
- ne can even see.
-DTEND;VALUE=DATE:20260730
-DTSTAMP:20261005T040437Z
-DTSTART;VALUE=DATE:20260729
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Spider-Man: Brand New Day (Theatrical Release)
-UID:Radarr_movie_2929_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Marvel Studios
-DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
-  remember him—and the pressure of seeing his old friends move on without 
- him—sparks a change in Peter Parker he may not have the power to control.
-  But that transformation might also be the only thing that can stop a sho
- cking new threat to the city and those he loves - a powerful villain no o
- ne can even see.
-DTEND;VALUE=DATE:20261007
-DTSTAMP:20261005T040437Z
-DTSTART;VALUE=DATE:20261006
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Spider-Man: Brand New Day (Digital Release)
-UID:Radarr_movie_2929_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Marvel Studios
-DESCRIPTION:Fighting crime full-time as Spider-Man in a world that doesn't
-  remember him—and the pressure of seeing his old friends move on without 
- him—sparks a change in Peter Parker he may not have the power to control.
-  But that transformation might also be the only thing that can stop a sho
- cking new threat to the city and those he loves - a powerful villain no o
- ne can even see.
-DTEND;VALUE=DATE:20261203
-DTSTAMP:20261005T040437Z
-DTSTART;VALUE=DATE:20261202
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Spider-Man: Brand New Day (Physical Release)
-UID:Radarr_movie_2929_physical
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Forged Films
@@ -92,7 +44,7 @@ DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
  f disaster\, escalating through human conflict into a tragedy of cosmic p
  roportions.
 DTEND;VALUE=DATE:20260716
-DTSTAMP:20261005T040437Z
+DTSTAMP:20261006T040438Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -108,7 +60,7 @@ DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
  f disaster\, escalating through human conflict into a tragedy of cosmic p
  roportions.
 DTEND;VALUE=DATE:20261014
-DTSTAMP:20261005T040437Z
+DTSTAMP:20261006T040438Z
 DTSTART;VALUE=DATE:20261013
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -121,7 +73,7 @@ DESCRIPTION:The most powerful man in the world embarks on a frantic missio
  n to prove he is humanity's savior before the disaster he's unleashed des
  troys everything.
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20261005T040437Z
+DTSTAMP:20261006T040438Z
 DTSTART;VALUE=DATE:20260930
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -134,7 +86,7 @@ DESCRIPTION:Young Bela forms a relationship with a sinister entity in her
  home that looks uncannily like her own mother\, drawing her into a terrif
  ying and increasingly dark world.
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20261005T040437Z
+DTSTAMP:20261006T040438Z
 DTSTART;VALUE=DATE:20261007
 SEQUENCE:0
 STATUS:TENTATIVE
