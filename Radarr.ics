@@ -13,7 +13,7 @@ DESCRIPTION:Harry Lehman is an aging pickpocket who plies his trade with e
  ds himself in a race against time to return the loot or face the rage of 
  a vengeful crime family.
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261020T040436Z
+DTSTAMP:20261021T040435Z
 DTSTART;VALUE=DATE:20261030
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -28,59 +28,11 @@ DESCRIPTION:Following the death of his father\, Jay Gardiner goes diving o
  one hour of oxygen left\, Jay comes to realize that the hard-earned lesso
  ns his father imparted may be the key to his escape.
 DTEND;VALUE=DATE:20261015
-DTSTAMP:20261020T040436Z
+DTSTAMP:20261021T040435Z
 DTSTART;VALUE=DATE:20261014
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Whalefall (Theatrical Release)
 UID:Radarr_movie_2915_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Forged Films
-DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
- ef Bum-seok and officer Sung-ae are called to investigate a mysterious cr
- eature wreaking havoc on the community. But all is not as it seems\, and 
- perceptions can be misleading. What begins as ignorance plants the seed o
- f disaster\, escalating through human conflict into a tragedy of cosmic p
- roportions.
-DTEND;VALUE=DATE:20260716
-DTSTAMP:20261020T040436Z
-DTSTART;VALUE=DATE:20260715
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Hope (Theatrical Release)
-UID:Radarr_movie_3047_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Forged Films
-DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
- ef Bum-seok and officer Sung-ae are called to investigate a mysterious cr
- eature wreaking havoc on the community. But all is not as it seems\, and 
- perceptions can be misleading. What begins as ignorance plants the seed o
- f disaster\, escalating through human conflict into a tragedy of cosmic p
- roportions.
-DTEND;VALUE=DATE:20261014
-DTSTAMP:20261020T040436Z
-DTSTART;VALUE=DATE:20261013
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Hope (Digital Release)
-UID:Radarr_movie_3047_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Forged Films
-DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
- ef Bum-seok and officer Sung-ae are called to investigate a mysterious cr
- eature wreaking havoc on the community. But all is not as it seems\, and 
- perceptions can be misleading. What begins as ignorance plants the seed o
- f disaster\, escalating through human conflict into a tragedy of cosmic p
- roportions.
-DTEND;VALUE=DATE:20261229
-DTSTAMP:20261020T040436Z
-DTSTART;VALUE=DATE:20261228
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Hope (Physical Release)
-UID:Radarr_movie_3047_physical
 END:VEVENT
 END:VCALENDAR
