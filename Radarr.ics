@@ -13,26 +13,11 @@ DESCRIPTION:Harry Lehman is an aging pickpocket who plies his trade with e
  ds himself in a race against time to return the loot or face the rage of 
  a vengeful crime family.
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261021T040435Z
+DTSTAMP:20261022T040450Z
 DTSTART;VALUE=DATE:20261030
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Only Living Pickpocket in New York (Theatrical Release)
 UID:Radarr_movie_2877_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Imagine Entertainment
-DESCRIPTION:Following the death of his father\, Jay Gardiner goes diving o
- ff the central Coast of California in search of his remains\, but is swal
- lowed by a massive sperm whale. While trapped inside its belly with only 
- one hour of oxygen left\, Jay comes to realize that the hard-earned lesso
- ns his father imparted may be the key to his escape.
-DTEND;VALUE=DATE:20261015
-DTSTAMP:20261021T040435Z
-DTSTART;VALUE=DATE:20261014
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Whalefall (Theatrical Release)
-UID:Radarr_movie_2915_cinemas
 END:VEVENT
 END:VCALENDAR
