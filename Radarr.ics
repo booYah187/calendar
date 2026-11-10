@@ -9,7 +9,7 @@ DESCRIPTION:Young Bela forms a relationship with a sinister entity in her
  home that looks uncannily like her own mother\, drawing her into a terrif
  ying and increasingly dark world.
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20261109T050443Z
+DTSTAMP:20261110T050440Z
 DTSTART;VALUE=DATE:20261007
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -22,7 +22,7 @@ DESCRIPTION:Young Bela forms a relationship with a sinister entity in her
  home that looks uncannily like her own mother\, drawing her into a terrif
  ying and increasingly dark world.
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20261109T050443Z
+DTSTAMP:20261110T050440Z
 DTSTART;VALUE=DATE:20261110
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,7 +34,7 @@ CATEGORIES:Constantin Film
 DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
  urvival as one fateful\, horrifying night collapses around him in chaos.
 DTEND;VALUE=DATE:20260917
-DTSTAMP:20261109T050443Z
+DTSTAMP:20261110T050440Z
 DTSTART;VALUE=DATE:20260916
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -46,7 +46,7 @@ CATEGORIES:Constantin Film
 DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
  urvival as one fateful\, horrifying night collapses around him in chaos.
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261109T050443Z
+DTSTAMP:20261110T050440Z
 DTSTART;VALUE=DATE:20261103
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -57,9 +57,9 @@ BEGIN:VEVENT
 CATEGORIES:Constantin Film
 DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
  urvival as one fateful\, horrifying night collapses around him in chaos.
-DTEND;VALUE=DATE:20261230
-DTSTAMP:20261109T050443Z
-DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261229
+DTSTAMP:20261110T050440Z
+DTSTART;VALUE=DATE:20261228
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Resident Evil (Physical Release)
