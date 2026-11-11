@@ -4,12 +4,60 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:Forged Films
+DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
+ ef Bum-seok and officer Sung-ae are called to investigate a mysterious cr
+ eature wreaking havoc on the community. But all is not as it seems\, and 
+ perceptions can be misleading. What begins as ignorance plants the seed o
+ f disaster\, escalating through human conflict into a tragedy of cosmic p
+ roportions.
+DTEND;VALUE=DATE:20260716
+DTSTAMP:20261111T050436Z
+DTSTART;VALUE=DATE:20260715
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hope (Theatrical Release)
+UID:Radarr_movie_3047_cinemas
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Forged Films
+DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
+ ef Bum-seok and officer Sung-ae are called to investigate a mysterious cr
+ eature wreaking havoc on the community. But all is not as it seems\, and 
+ perceptions can be misleading. What begins as ignorance plants the seed o
+ f disaster\, escalating through human conflict into a tragedy of cosmic p
+ roportions.
+DTEND;VALUE=DATE:20261014
+DTSTAMP:20261111T050436Z
+DTSTART;VALUE=DATE:20261013
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hope (Digital Release)
+UID:Radarr_movie_3047_digital
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Forged Films
+DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
+ ef Bum-seok and officer Sung-ae are called to investigate a mysterious cr
+ eature wreaking havoc on the community. But all is not as it seems\, and 
+ perceptions can be misleading. What begins as ignorance plants the seed o
+ f disaster\, escalating through human conflict into a tragedy of cosmic p
+ roportions.
+DTEND;VALUE=DATE:20261210
+DTSTAMP:20261111T050436Z
+DTSTART;VALUE=DATE:20261209
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hope (Physical Release)
+UID:Radarr_movie_3047_physical
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Spin a Black Yarn
 DESCRIPTION:Young Bela forms a relationship with a sinister entity in her 
  home that looks uncannily like her own mother\, drawing her into a terrif
  ying and increasingly dark world.
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20261110T050440Z
+DTSTAMP:20261111T050436Z
 DTSTART;VALUE=DATE:20261007
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -22,47 +70,11 @@ DESCRIPTION:Young Bela forms a relationship with a sinister entity in her
  home that looks uncannily like her own mother\, drawing her into a terrif
  ying and increasingly dark world.
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20261110T050440Z
+DTSTAMP:20261111T050436Z
 DTSTART;VALUE=DATE:20261110
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Other Mommy (Digital Release)
 UID:Radarr_movie_3077_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Constantin Film
-DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
- urvival as one fateful\, horrifying night collapses around him in chaos.
-DTEND;VALUE=DATE:20260917
-DTSTAMP:20261110T050440Z
-DTSTART;VALUE=DATE:20260916
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Resident Evil (Theatrical Release)
-UID:Radarr_movie_3078_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Constantin Film
-DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
- urvival as one fateful\, horrifying night collapses around him in chaos.
-DTEND;VALUE=DATE:20261104
-DTSTAMP:20261110T050440Z
-DTSTART;VALUE=DATE:20261103
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Resident Evil (Digital Release)
-UID:Radarr_movie_3078_digital
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Constantin Film
-DESCRIPTION:Medical courier Bryan unwittingly finds himself fighting for s
- urvival as one fateful\, horrifying night collapses around him in chaos.
-DTEND;VALUE=DATE:20261229
-DTSTAMP:20261110T050440Z
-DTSTART;VALUE=DATE:20261228
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Resident Evil (Physical Release)
-UID:Radarr_movie_3078_physical
 END:VEVENT
 END:VCALENDAR
