@@ -12,7 +12,7 @@ DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
  f disaster\, escalating through human conflict into a tragedy of cosmic p
  roportions.
 DTEND;VALUE=DATE:20260716
-DTSTAMP:20261111T050436Z
+DTSTAMP:20261112T050435Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -28,7 +28,7 @@ DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
  f disaster\, escalating through human conflict into a tragedy of cosmic p
  roportions.
 DTEND;VALUE=DATE:20261014
-DTSTAMP:20261111T050436Z
+DTSTAMP:20261112T050435Z
 DTSTART;VALUE=DATE:20261013
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -44,37 +44,11 @@ DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
  f disaster\, escalating through human conflict into a tragedy of cosmic p
  roportions.
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261111T050436Z
+DTSTAMP:20261112T050435Z
 DTSTART;VALUE=DATE:20261209
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Hope (Physical Release)
 UID:Radarr_movie_3047_physical
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spin a Black Yarn
-DESCRIPTION:Young Bela forms a relationship with a sinister entity in her 
- home that looks uncannily like her own mother\, drawing her into a terrif
- ying and increasingly dark world.
-DTEND;VALUE=DATE:20261008
-DTSTAMP:20261111T050436Z
-DTSTART;VALUE=DATE:20261007
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Other Mommy (Theatrical Release)
-UID:Radarr_movie_3077_cinemas
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spin a Black Yarn
-DESCRIPTION:Young Bela forms a relationship with a sinister entity in her 
- home that looks uncannily like her own mother\, drawing her into a terrif
- ying and increasingly dark world.
-DTEND;VALUE=DATE:20261111
-DTSTAMP:20261111T050436Z
-DTSTART;VALUE=DATE:20261110
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Other Mommy (Digital Release)
-UID:Radarr_movie_3077_digital
 END:VEVENT
 END:VCALENDAR
