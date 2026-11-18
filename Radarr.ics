@@ -4,6 +4,24 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Radarr Movies Calendar
 BEGIN:VEVENT
+CATEGORIES:Legendary Pictures
+DESCRIPTION:Nearly two decades after he seized control of the Imperium\, P
+ aul Atreides is now a ruthless Emperor\, and must face the consequences o
+ f his reign as old allies return\, terrifying new threats emerge\, and be
+ trayal lurks in every shadow. Haunted by visions of Imperial collapse and
+  the reappearance of his long-lost love\, Paul is drawn into a sweeping c
+ onspiracy\, with Chani at the heart of its unfolding mystery. As enemies 
+ close in\, Paul must confront the true cost of power and the fate of thos
+ e he loves the most.
+DTEND;VALUE=DATE:20261217
+DTSTAMP:20261118T050435Z
+DTSTART;VALUE=DATE:20261216
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Dune: Part Three (Theatrical Release)
+UID:Radarr_movie_1233_cinemas
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Forged Films
 DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
  ef Bum-seok and officer Sung-ae are called to investigate a mysterious cr
@@ -12,7 +30,7 @@ DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
  f disaster\, escalating through human conflict into a tragedy of cosmic p
  roportions.
 DTEND;VALUE=DATE:20260716
-DTSTAMP:20261117T050436Z
+DTSTAMP:20261118T050435Z
 DTSTART;VALUE=DATE:20260715
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -28,7 +46,7 @@ DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
  f disaster\, escalating through human conflict into a tragedy of cosmic p
  roportions.
 DTEND;VALUE=DATE:20261014
-DTSTAMP:20261117T050436Z
+DTSTAMP:20261118T050435Z
 DTSTART;VALUE=DATE:20261013
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -44,7 +62,7 @@ DESCRIPTION:In the remote South Korean village of Hope Harbor\, police chi
  f disaster\, escalating through human conflict into a tragedy of cosmic p
  roportions.
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261117T050436Z
+DTSTAMP:20261118T050435Z
 DTSTART;VALUE=DATE:20261209
 SEQUENCE:0
 STATUS:CONFIRMED
